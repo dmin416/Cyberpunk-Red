@@ -22,6 +22,7 @@ const filteredCountSpan = document.getElementById('filteredCount');
 const itemModal = document.getElementById('itemModal');
 const modalBody = document.getElementById('modalBody');
 const closeModal = document.getElementById('closeModal');
+const hoverTooltip = document.getElementById('hoverTooltip');
 
 // Initialize the application
 function init() {
@@ -218,11 +219,26 @@ function renderItems() {
 
     itemsGrid.innerHTML = filteredItems.map(item => createItemCard(item)).join('');
 
-    // Add click listeners to cards
+    // Add click and hover listeners to cards
     document.querySelectorAll('.item-card').forEach(card => {
+        const itemId = parseInt(card.dataset.itemId);
+
+        // Click to show modal
         card.addEventListener('click', () => {
-            const itemId = parseInt(card.dataset.itemId);
             showItemDetail(itemId);
+        });
+
+        // Hover to show tooltip
+        card.addEventListener('mouseenter', (e) => {
+            showTooltip(itemId, e);
+        });
+
+        card.addEventListener('mousemove', (e) => {
+            updateTooltipPosition(e);
+        });
+
+        card.addEventListener('mouseleave', () => {
+            hideTooltip();
         });
     });
 }
@@ -382,6 +398,89 @@ function getDetailedStats(item) {
 // Close modal
 function closeItemModal() {
     itemModal.style.display = 'none';
+}
+
+// Show tooltip on hover
+function showTooltip(itemId, event) {
+    const item = allItems.find(i => i.id === itemId);
+    if (!item) return;
+
+    const stats = getDetailedStats(item);
+    const availabilityClass = item.availability ? `availability-${item.availability}` : '';
+
+    hoverTooltip.innerHTML = `
+        <div class="tooltip-header">
+            <div class="tooltip-name">${item.name}</div>
+            <div class="tooltip-category">
+                ${item.category} / ${item.subcategory}
+                ${item.availability ? `<span class="availability-badge ${availabilityClass}" style="position: relative; top: 0; right: 0; margin-left: 10px; font-size: 0.65rem; padding: 3px 8px;">${item.availability}</span>` : ''}
+            </div>
+        </div>
+
+        ${stats.length > 0 ? `
+            <div class="tooltip-stats">
+                ${stats.slice(0, 6).map(stat => `
+                    <div class="tooltip-stat">
+                        <span class="tooltip-stat-label">${stat.label}:</span>
+                        <span class="tooltip-stat-value">${stat.value}</span>
+                    </div>
+                `).join('')}
+            </div>
+        ` : ''}
+
+        <div class="tooltip-description">
+            ${item.description}
+        </div>
+
+        ${item.tags.length > 0 ? `
+            <div class="tooltip-tags">
+                ${item.tags.slice(0, 5).map(tag => `<span class="tooltip-tag">${tag}</span>`).join('')}
+                ${item.tags.length > 5 ? `<span class="tooltip-tag">+${item.tags.length - 5}</span>` : ''}
+            </div>
+        ` : ''}
+
+        <div class="tooltip-hint">Click for full details</div>
+    `;
+
+    hoverTooltip.style.display = 'block';
+    updateTooltipPosition(event);
+}
+
+// Update tooltip position
+function updateTooltipPosition(event) {
+    const tooltipRect = hoverTooltip.getBoundingClientRect();
+    const margin = 15;
+
+    let x = event.clientX + margin;
+    let y = event.clientY + margin;
+
+    // Prevent tooltip from going off-screen right
+    if (x + tooltipRect.width > window.innerWidth) {
+        x = event.clientX - tooltipRect.width - margin;
+    }
+
+    // Prevent tooltip from going off-screen bottom
+    if (y + tooltipRect.height > window.innerHeight) {
+        y = event.clientY - tooltipRect.height - margin;
+    }
+
+    // Ensure tooltip doesn't go off-screen left
+    if (x < 0) {
+        x = margin;
+    }
+
+    // Ensure tooltip doesn't go off-screen top
+    if (y < 0) {
+        y = margin;
+    }
+
+    hoverTooltip.style.left = x + 'px';
+    hoverTooltip.style.top = y + 'px';
+}
+
+// Hide tooltip
+function hideTooltip() {
+    hoverTooltip.style.display = 'none';
 }
 
 // Initialize when DOM is ready

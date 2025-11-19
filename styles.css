@@ -344,6 +344,101 @@ body {
     border: 1px solid var(--cyber-red);
 }
 
+/* Hover Tooltip */
+.hover-tooltip {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    background: var(--dark-panel);
+    border: 2px solid var(--cyber-blue);
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);
+    pointer-events: none;
+    animation: tooltipFadeIn 0.2s ease;
+}
+
+@keyframes tooltipFadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.tooltip-header {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.tooltip-name {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: var(--cyber-blue);
+    text-shadow: 0 0 5px var(--cyber-blue);
+    margin-bottom: 5px;
+}
+
+.tooltip-category {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+}
+
+.tooltip-stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.tooltip-stat {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+}
+
+.tooltip-stat-label {
+    color: var(--text-secondary);
+}
+
+.tooltip-stat-value {
+    color: var(--cyber-blue);
+    font-weight: bold;
+}
+
+.tooltip-description {
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.tooltip-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.tooltip-tag {
+    padding: 3px 8px;
+    background: rgba(0, 240, 255, 0.1);
+    border: 1px solid var(--cyber-blue);
+    border-radius: 10px;
+    font-size: 0.7rem;
+    color: var(--cyber-blue);
+    text-transform: uppercase;
+}
+
+.tooltip-hint {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-align: center;
+    font-style: italic;
+}
+
 /* Modal */
 .modal {
     display: none;
