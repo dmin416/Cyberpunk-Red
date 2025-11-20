@@ -5,20 +5,22 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 ## Features
 
 - **Comprehensive Database**: 80+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
+- **Instant Preview on Hover**: Hover over any item to see a quick preview tooltip with stats and description
 - **Advanced Search**: Search by name, description, tags, category, or subcategory
 - **Smart Filtering**: Filter by category, subcategory, and availability
 - **Multiple Sort Options**: Sort by name, cost, or category
-- **Detailed Item Views**: Click any item to see complete stats and information
+- **Detailed Item Views**: Click any item to see complete stats and information in a full modal
 - **Cyberpunk Aesthetic**: Dark theme with neon accents and glowing effects
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
 ## How to Use
 
-1. Open `index.html` in your web browser
-2. Use the search bar to find specific items
-3. Apply filters to narrow down results by category, subcategory, or availability
-4. Sort items by name or cost
-5. Click on any item card to view detailed information in a modal
+1. Open `index.html` in your web browser (just double-click the file)
+2. **Hover** over any item to see an instant preview tooltip
+3. **Click** any item to view full detailed information in a modal
+4. Use the search bar to find specific items
+5. Apply filters to narrow down results by category, subcategory, or availability
+6. Sort items by name or cost
 
 ## Item Categories
 

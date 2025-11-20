@@ -9,23 +9,38 @@ let currentFilters = {
 };
 let currentSort = 'name';
 
-// DOM Elements
-const searchInput = document.getElementById('searchInput');
-const categoryFilter = document.getElementById('categoryFilter');
-const subcategoryFilter = document.getElementById('subcategoryFilter');
-const availabilityFilter = document.getElementById('availabilityFilter');
-const sortBySelect = document.getElementById('sortBy');
-const resetButton = document.getElementById('resetFilters');
-const itemsGrid = document.getElementById('itemsGrid');
-const itemCountSpan = document.getElementById('itemCount');
-const filteredCountSpan = document.getElementById('filteredCount');
-const itemModal = document.getElementById('itemModal');
-const modalBody = document.getElementById('modalBody');
-const closeModal = document.getElementById('closeModal');
-const hoverTooltip = document.getElementById('hoverTooltip');
+// DOM Elements (will be initialized after DOM loads)
+let searchInput;
+let categoryFilter;
+let subcategoryFilter;
+let availabilityFilter;
+let sortBySelect;
+let resetButton;
+let itemsGrid;
+let itemCountSpan;
+let filteredCountSpan;
+let itemModal;
+let modalBody;
+let closeModal;
+let hoverTooltip;
 
 // Initialize the application
 function init() {
+    // Get DOM elements after DOM is ready
+    searchInput = document.getElementById('searchInput');
+    categoryFilter = document.getElementById('categoryFilter');
+    subcategoryFilter = document.getElementById('subcategoryFilter');
+    availabilityFilter = document.getElementById('availabilityFilter');
+    sortBySelect = document.getElementById('sortBy');
+    resetButton = document.getElementById('resetFilters');
+    itemsGrid = document.getElementById('itemsGrid');
+    itemCountSpan = document.getElementById('itemCount');
+    filteredCountSpan = document.getElementById('filteredCount');
+    itemModal = document.getElementById('itemModal');
+    modalBody = document.getElementById('modalBody');
+    closeModal = document.getElementById('closeModal');
+    hoverTooltip = document.getElementById('hoverTooltip');
+
     allItems = [...itemsDatabase];
     filteredItems = [...allItems];
 
