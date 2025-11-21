@@ -2292,5 +2292,227 @@ const itemsDatabase = [
     description: "Excellent Quality Cyberdeck with 9 program slots. Top-tier netrunning equipment. Requires Interface Plugs and Neural Link to operate. Maximum program capacity for elite Netrunners.",
     tags: ["netrunning", "tech", "cyberdeck", "excellent-quality"],
     availability: "Expensive"
+  },
+
+  // MORE PISTOLS
+  {
+    id: 180,
+    name: "Very Heavy Pistol",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 100,
+    damage: "4d6",
+    rof: 2,
+    hands: 1,
+    concealable: "J",
+    description: "Very heavy-caliber handgun firing 12mm equivalent rounds. Holds 8 bullets. Massive stopping power. Concealable. Uses Handgun skill.",
+    tags: ["ranged", "firearm", "pistol", "very-heavy"],
+    availability: "Common"
+  },
+
+  // HEAD ARMOR
+  {
+    id: 181,
+    name: "Kevlar (Head)",
+    category: "Armor",
+    subcategory: "Head",
+    cost: 50,
+    sp: 4,
+    penalty: 0,
+    description: "Kevlar helmet. Heat-resistant synthetic fiber. Must be purchased separately from body armor. Covers head only. No armor penalty.",
+    tags: ["protection", "light", "kevlar", "helmet"],
+    availability: "Common"
+  },
+  {
+    id: 182,
+    name: "Light Armorjack (Head)",
+    category: "Armor",
+    subcategory: "Head",
+    cost: 100,
+    sp: 7,
+    penalty: 0,
+    description: "Light Armorjack helmet. Kevlar and plastic mesh protection. Must be purchased separately from body armor. Covers head only. No armor penalty.",
+    tags: ["protection", "light", "armorjack", "helmet"],
+    availability: "Common"
+  },
+  {
+    id: 183,
+    name: "Medium Armorjack (Head)",
+    category: "Armor",
+    subcategory: "Head",
+    cost: 100,
+    sp: 11,
+    penalty: 0,
+    description: "Medium Armorjack helmet. Solid plastic plating with thick Kevlar mesh. Must be purchased separately from body armor. Covers head only. No armor penalty.",
+    tags: ["protection", "medium", "armorjack", "helmet"],
+    availability: "Common"
+  },
+  {
+    id: 184,
+    name: "Heavy Armorjack (Head)",
+    category: "Armor",
+    subcategory: "Head",
+    cost: 500,
+    sp: 12,
+    penalty: -2,
+    description: "Heavy Armorjack helmet. Dense Kevlar with layered plastic and mesh. Must be purchased separately from body armor. Covers head only. -2 penalty applies to full armor set.",
+    tags: ["protection", "heavy", "armorjack", "helmet"],
+    availability: "Expensive"
+  },
+
+  // MORE CYBEROPTIC OPTIONS
+  {
+    id: 185,
+    name: "MicroOptics",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 500,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Advanced microscopic vision enhancement. Allows viewing of extremely small objects in detail. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "vision", "microscopic"],
+    availability: "Expensive",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 186,
+    name: "Color Shift",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Provides immunity to effects caused by flashes of light. Can shift eye color at will. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "protection", "cosmetic"],
+    availability: "Common",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 187,
+    name: "Virtuality (Cyberoptic)",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 100,
+    humanity_loss: "1d6",
+    description: "Cyberoptic Option. Projects holographic imagery from NET over your vision. Requires pairing two Cybereyes. Can be installed at a Mall. AR overlay for netrunning.",
+    tags: ["cyberware", "cyberoptic", "AR", "net"],
+    availability: "Common",
+    slot: "Cybereye Option"
+  },
+
+  // MORE CYBERAUDIO OPTIONS
+  {
+    id: 188,
+    name: "Amplified Hearing",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Enhanced hearing sensitivity. Allows hearing of faint sounds at distance. Requires Cyberaudio Suite. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberaudio", "hearing", "perception"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+  {
+    id: 189,
+    name: "Level Damper",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Automatically dampens loud noises to prevent hearing damage. Protects against sonic attacks and flashbangs. Requires Cyberaudio Suite. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberaudio", "protection", "hearing"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+  {
+    id: 190,
+    name: "Radio Communicator (Cyberware)",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Built-in radio transmitter/receiver. Communicate on standard radio frequencies. Requires Cyberaudio Suite. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberaudio", "communication", "radio"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+  {
+    id: 191,
+    name: "Radio Scanner/Music Player",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 500,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Scans and plays radio frequencies. Built-in music player for stored audio files. Requires Cyberaudio Suite. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberaudio", "entertainment", "radio"],
+    availability: "Expensive",
+    slot: "Cyberaudio Option"
+  },
+  {
+    id: 192,
+    name: "Audio Recorder",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Records all audio heard. Can download recordings to Memory Chip or Agent. Requires Cyberaudio Suite. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberaudio", "recording", "surveillance"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+
+  // CYBERARM OPTIONS
+  {
+    id: 193,
+    name: "Grapple Hand",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberarm Option. Functions as grappling hook with 30 meters of rope. Negates climbing movement penalty. Requires Cyberarm. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberarm", "utility", "climbing", "grapple"],
+    availability: "Common",
+    slot: "Arm Option"
+  },
+
+  // MORE GEAR
+  {
+    id: 194,
+    name: "Agent",
+    category: "Gear",
+    subcategory: "Electronics",
+    cost: 100,
+    description: "Pocket-sized computer and phone with Self-Adaptive AI. Functions as smartphone, computer, and personal assistant. Connection service included with Lifestyle. Standard edgerunner equipment.",
+    tags: ["electronics", "communication", "tech", "agent"],
+    availability: "Common"
+  },
+  {
+    id: 195,
+    name: "Radio Communicator",
+    category: "Gear",
+    subcategory: "Electronics",
+    cost: 50,
+    description: "Handheld radio transmitter/receiver. Communicate on standard frequencies. Essential for team coordination. Basic communication device.",
+    tags: ["electronics", "communication", "radio"],
+    availability: "Common"
+  },
+  {
+    id: 196,
+    name: "Binoculars",
+    category: "Gear",
+    subcategory: "General",
+    cost: 1000,
+    description: "High-quality optical device for viewing distant objects. Essential for surveillance and scouting. Magnifies distant targets clearly.",
+    tags: ["gear", "optics", "surveillance", "utility"],
+    availability: "Expensive"
+  },
+  {
+    id: 197,
+    name: "Radio Scanner/Music Player",
+    category: "Gear",
+    subcategory: "Electronics",
+    cost: 500,
+    description: "Portable device that scans radio frequencies and plays music. Can intercept communications. Entertainment and surveillance tool.",
+    tags: ["electronics", "radio", "entertainment", "surveillance"],
+    availability: "Expensive"
   }
 ];

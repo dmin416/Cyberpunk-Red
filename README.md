@@ -4,18 +4,20 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 
 ## Features
 
-- **Comprehensive Database**: 179+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
-- **Complete Weapon Arsenal**: Medium/Heavy Pistols, SMGs, Heavy SMGs, Shotguns, Assault Rifles, Sniper Rifles, Grenade Launchers, Rocket Launchers - all standard firearms with official stats
+- **Comprehensive Database**: 197+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
+- **Complete Weapon Arsenal**: Medium/Heavy/Very Heavy Pistols, SMGs, Heavy SMGs, Shotguns, Assault Rifles, Sniper Rifles, Grenade Launchers, Rocket Launchers - all standard firearms with official stats
 - **Legendary Weapons**: Malorian Arms 3516, Thermal Dagger, Militech Dragon, and more
 - **Exotic Weapons**: Constitutional Arms Unity, Magnum Opus Hellbringer, Nomad Pneumatic Bolt Gun, Militech Cowboy U-56, Constitution Arms Hurricane, Kendachi Mono-Three, Arasaka WSS Sniper System, and more
 - **Manufacturer-Specific Weapons**: Dai Lung, Militech, Federated Arms, Budget Arms, Arasaka, Centurian, Constitutional Arms, Kendachi, and more
-- **Complete Armor Range**: Kevlar, Light/Medium/Heavy Armorjack, Flak Armor, Bodyweight Suit, Metalgear with full SP/penalty stats
+- **Complete Armor Range**: Kevlar, Light/Medium/Heavy Armorjack (Body AND Head), Flak Armor, Bodyweight Suit, Metalgear with full SP/penalty stats
 - **Advanced Cyberware**: Speedware (Kerenzikov, Sandevistan), Linear Frames (Σ/β/Ω), Pain Editor, Subdermal Armor, Skin Weave, Cyberarm Weapons (Wolvers, Rippers, Big Knucks, Scratchers), Borgware, Chipware, Grafted Muscle and Bone Lace
 - **Neuralware**: Neural Link with 5 option slots, Chipware Socket, Interface Plugs for netrunning, Braindance Recorder
-- **Cyberoptics**: Cybereye with 7 enhancement options (Image Enhance, Targeting Scope, Low-Light/Infrared/UV, TeleOptics, MicroVideo, Anti-Dazzle, Chyron)
-- **Cyberaudio**: Cyberaudio Suite with 3 option slots plus enhancements (Bug Detector, Voice Stress Analyzer, Scrambler/Descrambler, Internal Agent)
+- **Cyberoptics**: Cybereye with 10 enhancement options (Image Enhance, Targeting Scope, Low-Light/Infrared/UV, TeleOptics, MicroVideo, MicroOptics, Anti-Dazzle, Chyron, Color Shift, Virtuality)
+- **Cyberaudio**: Cyberaudio Suite with 3 option slots plus 8 enhancements (Bug Detector, Voice Stress Analyzer, Scrambler/Descrambler, Internal Agent, Amplified Hearing, Level Damper, Radio Communicator, Radio Scanner/Music Player, Audio Recorder)
+- **Cyberarms**: Cyberarm with options including Grapple Hand (climbing utility) plus all weapon options
 - **Cyberlegs**: Cyberleg with options including Jump Booster (negates jump penalty), Grip Foot (negates climbing penalty)
 - **Netrunner Gear**: Cyberdecks in Poor/Standard/Excellent quality with 5/7/9 program slots
+- **Communication Gear**: Agent (pocket computer/phone), Radio Communicator, Binoculars, Radio Scanner
 - **Fashionware**: Techhair, Shift-Tacts for style-focused augmentation with minimal humanity cost
 - **Explosives**: Frag Grenades, Incendiary Grenades, Teargas Grenades
 - **Medical Gear**: Speedheal pharmaceutical, Medscanner for diagnostics
