@@ -4,7 +4,8 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 
 ## Features
 
-- **Comprehensive Database**: 167+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
+- **Comprehensive Database**: 179+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
+- **Complete Weapon Arsenal**: Medium/Heavy Pistols, SMGs, Heavy SMGs, Shotguns, Assault Rifles, Sniper Rifles, Grenade Launchers, Rocket Launchers - all standard firearms with official stats
 - **Legendary Weapons**: Malorian Arms 3516, Thermal Dagger, Militech Dragon, and more
 - **Exotic Weapons**: Constitutional Arms Unity, Magnum Opus Hellbringer, Nomad Pneumatic Bolt Gun, Militech Cowboy U-56, Constitution Arms Hurricane, Kendachi Mono-Three, Arasaka WSS Sniper System, and more
 - **Manufacturer-Specific Weapons**: Dai Lung, Militech, Federated Arms, Budget Arms, Arasaka, Centurian, Constitutional Arms, Kendachi, and more
@@ -14,6 +15,7 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 - **Cyberoptics**: Cybereye with 7 enhancement options (Image Enhance, Targeting Scope, Low-Light/Infrared/UV, TeleOptics, MicroVideo, Anti-Dazzle, Chyron)
 - **Cyberaudio**: Cyberaudio Suite with 3 option slots plus enhancements (Bug Detector, Voice Stress Analyzer, Scrambler/Descrambler, Internal Agent)
 - **Cyberlegs**: Cyberleg with options including Jump Booster (negates jump penalty), Grip Foot (negates climbing penalty)
+- **Netrunner Gear**: Cyberdecks in Poor/Standard/Excellent quality with 5/7/9 program slots
 - **Fashionware**: Techhair, Shift-Tacts for style-focused augmentation with minimal humanity cost
 - **Explosives**: Frag Grenades, Incendiary Grenades, Teargas Grenades
 - **Medical Gear**: Speedheal pharmaceutical, Medscanner for diagnostics
