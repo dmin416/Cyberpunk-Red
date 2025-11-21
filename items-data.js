@@ -1485,5 +1485,231 @@ const itemsDatabase = [
     tags: ["cyberware", "enhancement", "body", "strength"],
     availability: "Expensive",
     slot: "Internal Body"
+  },
+  {
+    id: 117,
+    name: "Pain Editor",
+    category: "Cyberware",
+    subcategory: "Chipware",
+    cost: 1000,
+    humanity_loss: "4d6",
+    description: "Chipware (requires Chipware Socket). Negates the effects of the Seriously Wounded Wound State by shutting off pain receptors dynamically. User can continue functioning normally even when severely wounded. Must be inserted into a Chipware Socket to function.",
+    tags: ["cyberware", "chipware", "combat", "pain-resistance"],
+    availability: "Expensive",
+    slot: "Chipware Socket"
+  },
+  {
+    id: 118,
+    name: "Subdermal Armor",
+    category: "Cyberware",
+    subcategory: "External Body Cyberware",
+    cost: 1000,
+    humanity_loss: "4d6",
+    description: "External Body Cyberware. Armor plating implanted beneath the skin. The body and head of the user is armored to SP 11. Does not stack with worn armor. Can only be installed at a Hospital.",
+    tags: ["cyberware", "armor", "protection", "body-armor"],
+    availability: "Expensive",
+    slot: "External Body"
+  },
+  {
+    id: 119,
+    name: "Skin Weave",
+    category: "Cyberware",
+    subcategory: "External Body Cyberware",
+    cost: 500,
+    humanity_loss: "3d6",
+    description: "External Body Cyberware. Ballistic fiber woven into skin. The body and head of the user is armored to SP 7. Does not stack with worn armor. Ablates (loses SP when damaged). Recovers 1 SP per day of rest. Can only be installed at a Hospital.",
+    tags: ["cyberware", "armor", "protection", "regenerating"],
+    availability: "Expensive",
+    slot: "External Body"
+  },
+
+  // CYBERARM OPTIONS
+  {
+    id: 120,
+    name: "Wolvers",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 500,
+    damage: "3d6",
+    humanity_loss: "1d6",
+    description: "Cyberarm Option. Set of claw-like knives installed into the knuckles. Heavy Melee Weapons (3d6 damage) that can be concealed without a Check. Requires Cyberarm. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberarm", "melee", "claws", "concealable"],
+    availability: "Expensive",
+    slot: "Arm Option"
+  },
+  {
+    id: 121,
+    name: "Rippers",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 500,
+    damage: "3d6",
+    humanity_loss: "1d6",
+    description: "Cyberarm Option. Longer, heavier versions of scratchers. Top two joints of each finger replaced with plastic and metal sheath housing three-inch carbo-glas claws. Heavy Melee Weapons that can be extended by clawing the hand. Can be concealed without a Check. Requires Cyberarm. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberarm", "melee", "claws", "concealable"],
+    availability: "Expensive",
+    slot: "Arm Option"
+  },
+  {
+    id: 122,
+    name: "Big Knucks",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 100,
+    damage: "2d6",
+    humanity_loss: "0.5d6",
+    description: "Cyberarm Option. Pair of knuckledusters implanted into the knuckles. Medium Melee Weapons (2d6 damage) that can be concealed without a Check. Requires Cyberarm. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberarm", "melee", "brass-knuckles", "concealable"],
+    availability: "Common",
+    slot: "Arm Option"
+  },
+  {
+    id: 123,
+    name: "Scratchers",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 100,
+    damage: "1d6",
+    humanity_loss: "0.5d6",
+    description: "Cyberarm Option. Set of sharp glass fingernails that can be extended to act as claws. Light Melee Weapons (1d6 damage) that can be concealed without a Check. Requires Cyberarm. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberarm", "melee", "claws", "concealable"],
+    availability: "Common",
+    slot: "Arm Option"
+  },
+
+  // FASHIONWARE
+  {
+    id: 124,
+    name: "Techhair",
+    category: "Cyberware",
+    subcategory: "Fashionware",
+    cost: 100,
+    humanity_loss: "0d6",
+    description: "Fashionware. Artificial hair with properties similar to synthskin. Can be any color, emit light like light tattoos, or change tension (stand straight up when angry, etc). Can completely replace real hair or be added as a weave. Low humanity cost fashion cyberware.",
+    tags: ["cyberware", "fashionware", "cosmetic", "hair"],
+    availability: "Common",
+    slot: "Fashionware"
+  },
+  {
+    id: 125,
+    name: "Shift-Tacts",
+    category: "Cyberware",
+    subcategory: "Fashionware",
+    cost: 50,
+    humanity_loss: "0d6",
+    description: "Fashionware. Contact lenses offering cheap alternative to expensive cyberoptics. Can shift color based on mood, display patterned logos, or show exotic colors including reflective metallic. Low humanity cost fashion cyberware.",
+    tags: ["cyberware", "fashionware", "cosmetic", "eyes"],
+    availability: "Common",
+    slot: "Fashionware"
+  },
+
+  // MORE MELEE WEAPONS
+  {
+    id: 126,
+    name: "Knife",
+    category: "Weapons",
+    subcategory: "Melee Weapons",
+    cost: 50,
+    damage: "1d6",
+    rof: 2,
+    hands: 1,
+    concealable: "P",
+    description: "Light Melee Weapon. Standard combat knife. Concealable in pocket. Melee weapons ignore half of target's armor SP.",
+    tags: ["melee", "blade", "light"],
+    availability: "Common"
+  },
+  {
+    id: 127,
+    name: "Club",
+    category: "Weapons",
+    subcategory: "Melee Weapons",
+    cost: 50,
+    damage: "2d6",
+    rof: 2,
+    hands: 1,
+    concealable: "L",
+    description: "Medium Melee Weapon. Basic blunt weapon - club, baseball bat, etc. Concealable under a long coat. Melee weapons ignore half of target's armor SP.",
+    tags: ["melee", "blunt", "medium"],
+    availability: "Common"
+  },
+  {
+    id: 128,
+    name: "Machete",
+    category: "Weapons",
+    subcategory: "Melee Weapons",
+    cost: 50,
+    damage: "2d6",
+    rof: 2,
+    hands: 1,
+    concealable: "L",
+    description: "Medium Melee Weapon. Large chopping blade. Concealable under a long coat. Melee weapons ignore half of target's armor SP.",
+    tags: ["melee", "blade", "medium"],
+    availability: "Common"
+  },
+
+  // RANGED WEAPONS - BOWS
+  {
+    id: 129,
+    name: "Bow",
+    category: "Weapons",
+    subcategory: "Bows and Crossbows",
+    cost: 100,
+    damage: "3d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Ranged Weapon. CHOOH2-powered or traditional bow that launches arrows. Can be loaded and shot in a single action. Uses Archery skill. Fires arrow ammunition.",
+    tags: ["ranged", "archery", "arrows", "silent"],
+    availability: "Common"
+  },
+  {
+    id: 130,
+    name: "Crossbow",
+    category: "Weapons",
+    subcategory: "Bows and Crossbows",
+    cost: 100,
+    damage: "3d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Ranged Weapon. Mechanical bow that launches arrows. Uses Archery skill. Fires arrow ammunition. More stable aim than traditional bows.",
+    tags: ["ranged", "archery", "arrows", "silent"],
+    availability: "Common"
+  },
+
+  // ARMOR
+  {
+    id: 131,
+    name: "Flak Armor",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 500,
+    sp: 13,
+    penalty: -2,
+    description: "21st century version of flak vest and pants with metal plates. Designed for protection against explosives, grenades, shotguns, and anti-personnel mines. SP 13 with -2 to REF, DEX, and MOVE. Covers body.",
+    tags: ["protection", "heavy", "anti-explosive"],
+    availability: "Expensive"
+  },
+
+  // GEAR
+  {
+    id: 132,
+    name: "Smart Glasses",
+    category: "Gear",
+    subcategory: "Electronics",
+    cost: 50,
+    description: "Wearable AR glasses with basic display functions. Can show notifications, basic data overlays, and connect to agent. Cheaper alternative to cyberoptics for casual users.",
+    tags: ["electronics", "wearable", "AR", "tech"],
+    availability: "Common"
+  },
+  {
+    id: 133,
+    name: "Virtuality Goggles",
+    category: "Gear",
+    subcategory: "Electronics",
+    cost: 100,
+    description: "Goggles that project cyberspace imagery over real world view. Allows limited NET access and AR overlays. Popular with edgerunners who want NET access without expensive cyberoptics.",
+    tags: ["electronics", "wearable", "AR", "net", "goggles"],
+    availability: "Common"
   }
 ];

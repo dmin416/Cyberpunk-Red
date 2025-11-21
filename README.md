@@ -4,11 +4,14 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 
 ## Features
 
-- **Comprehensive Database**: 116+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
+- **Comprehensive Database**: 133+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
 - **Legendary Weapons**: Malorian Arms 3516, Thermal Dagger, Militech Dragon, and more
-- **Exotic Weapons**: Constitutional Arms Unity, Magnum Opus Hellbringer, Nomad Pneumatic Bolt Gun, Militech Cowboy U-56, Constitution Arms Hurricane, and more
+- **Exotic Weapons**: Constitutional Arms Unity, Magnum Opus Hellbringer, Nomad Pneumatic Bolt Gun, Militech Cowboy U-56, Constitution Arms Hurricane, Kendachi Mono-Three, Arasaka WSS Sniper System, and more
 - **Manufacturer-Specific Weapons**: Dai Lung, Militech, Federated Arms, Budget Arms, Arasaka, Centurian, Constitutional Arms, Kendachi, and more
-- **Advanced Cyberware**: Speedware (Kerenzikov, Sandevistan), Linear Frames (Σ/β/Ω), Borgware, Chipware, Grafted Muscle and Bone Lace, and specialized options
+- **Advanced Cyberware**: Speedware (Kerenzikov, Sandevistan), Linear Frames (Σ/β/Ω), Pain Editor, Subdermal Armor, Skin Weave, Cyberarm Weapons (Wolvers, Rippers, Big Knucks, Scratchers), Borgware, Chipware, Grafted Muscle and Bone Lace
+- **Fashionware**: Techhair, Shift-Tacts for style-focused augmentation with minimal humanity cost
+- **Archery Weapons**: Bows and Crossbows for silent operations
+- **Melee Combat**: Complete range from Light (Knife, Scratchers) to Medium (Club, Machete, Big Knucks) to Heavy (Wolvers, Rippers) to Very Heavy (Kendachi Mono-Three) melee weapons
 - **Instant Preview on Hover**: Hover over any item to see a quick preview tooltip with stats and description
 - **Advanced Search**: Search by name, description, tags, category, or subcategory
 - **Smart Filtering**: Filter by category, subcategory, and availability
@@ -28,9 +31,9 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 
 ## Item Categories
 
-- **Weapons**: Pistols, SMGs, Shotguns, Assault Rifles, Sniper Rifles, Melee Weapons, Exotic Weapons, Grenades
-- **Armor**: Head Armor, Body Armor
-- **Cyberware**: Neuralware, Cybereyes, Cyberaudio, Cyberarms, Internal Cyberware, Fashionware
+- **Weapons**: Pistols, SMGs, Shotguns, Assault Rifles, Sniper Rifles, Melee Weapons, Bows and Crossbows, Exotic Weapons, Grenade Launchers, Grenades
+- **Armor**: Head Armor, Body Armor, Flak Armor
+- **Cyberware**: Neuralware, Cybereyes, Cyberaudio, Cyberarms, Cyberarm Options, External Body Cyberware, Internal Cyberware, Chipware, Fashionware
 - **Gear**: Tech, Medical, General Equipment
 - **Vehicles**: Motorcycles, Cars
 - **Ammunition**: Various ammo types for different weapons
