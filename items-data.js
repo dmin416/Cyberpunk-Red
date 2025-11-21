@@ -2006,5 +2006,131 @@ const itemsDatabase = [
     description: "Advanced medical diagnostic device. Helps diagnose illness and injury. Provides +2 bonus to First Aid and Paramedic Skill checks. Essential equipment for Medtechs.",
     tags: ["medical", "diagnostic", "tech", "medtech"],
     availability: "Expensive"
+  },
+
+  // MORE ARMOR
+  {
+    id: 158,
+    name: "Kevlar",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 50,
+    sp: 4,
+    penalty: 0,
+    description: "Heat-resistant synthetic lightweight fiber delivering high tensile strength. Favored protection for 90 years. Basis for all Armorjack variants. Covers body. No armor penalty.",
+    tags: ["protection", "light", "kevlar"],
+    availability: "Common"
+  },
+  {
+    id: 159,
+    name: "Light Armorjack",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 100,
+    sp: 7,
+    penalty: 0,
+    description: "Combination of Kevlar and plastic meshes inserted into fabric weave. Covers body. No armor penalty. Good balance of protection and mobility.",
+    tags: ["protection", "light", "armorjack"],
+    availability: "Common"
+  },
+  {
+    id: 160,
+    name: "Medium Armorjack",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 100,
+    sp: 11,
+    penalty: 0,
+    description: "Heavier Armorjack with solid plastic plating reinforced with thicker Kevlar mesh. Typical street wear. Covers body. No armor penalty. Excellent protection without mobility loss.",
+    tags: ["protection", "medium", "armorjack"],
+    availability: "Common"
+  },
+  {
+    id: 161,
+    name: "Heavy Armorjack",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 500,
+    sp: 12,
+    penalty: -2,
+    description: "Thickest Armorjack combining denser Kevlar and layered mix of plastic and mesh weaves. Covers body. -2 to REF, DEX, and MOVE. Maximum protection from fabric armor.",
+    tags: ["protection", "heavy", "armorjack"],
+    availability: "Expensive"
+  },
+
+  // CYBERLEG OPTIONS
+  {
+    id: 162,
+    name: "Cyberleg",
+    category: "Cyberware",
+    subcategory: "Cyberlegs",
+    cost: 100,
+    humanity_loss: "2d6",
+    description: "Foundational Cyberleg. Artificial leg replacement with option slots for Cyberleg add-ons. Can be installed at a Mall or Clinic. Allows installation of various cyberleg upgrades.",
+    tags: ["cyberware", "cyberleg", "foundational", "limb"],
+    availability: "Common",
+    slot: "Cyberleg"
+  },
+  {
+    id: 163,
+    name: "Jump Booster",
+    category: "Cyberware",
+    subcategory: "Cyberlegs",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Cyberleg Option. Hydraulic springs that increase jump height and negate movement penalty for jumping. Requires Cyberleg. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberleg", "mobility", "athletics"],
+    availability: "Expensive",
+    slot: "Cyberleg Option"
+  },
+  {
+    id: 164,
+    name: "Grip Foot",
+    category: "Cyberware",
+    subcategory: "Cyberlegs",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Cyberleg Option. State-of-the-art traction material on foot bottom that negates movement penalty when climbing. Requires Cyberleg. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberleg", "mobility", "climbing"],
+    availability: "Expensive",
+    slot: "Cyberleg Option"
+  },
+
+  // MORE NEURALWARE
+  {
+    id: 165,
+    name: "Braindance Recorder",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Neuralware Cyberware. Records braindances to standard Memory Chip or linked Agent. Captures sensory experiences for playback. Requires Neural Link. Can only be installed at a Clinic.",
+    tags: ["cyberware", "neuralware", "braindance", "recording"],
+    availability: "Expensive",
+    slot: "Neural Link Option"
+  },
+  {
+    id: 166,
+    name: "Internal Agent",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Fully functional Agent computer/phone that can only be used auditory unless paired with Cybereye with Chyron. Requires Cyberaudio Suite. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberaudio", "agent", "communication"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+
+  // BASIC GEAR
+  {
+    id: 167,
+    name: "Flashlight",
+    category: "Gear",
+    subcategory: "General",
+    cost: 20,
+    description: "Rechargeable portable light source. Essential for navigating dark environments. Standard equipment for edgerunners and security personnel.",
+    tags: ["gear", "light", "utility", "basic"],
+    availability: "Common"
   }
 ];
