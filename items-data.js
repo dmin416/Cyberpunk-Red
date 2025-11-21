@@ -1711,5 +1711,167 @@ const itemsDatabase = [
     description: "Goggles that project cyberspace imagery over real world view. Allows limited NET access and AR overlays. Popular with edgerunners who want NET access without expensive cyberoptics.",
     tags: ["electronics", "wearable", "AR", "net", "goggles"],
     availability: "Common"
+  },
+
+  // CYBEROPTICS
+  {
+    id: 134,
+    name: "Cybereye",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 100,
+    humanity_loss: "2d6",
+    description: "Foundational Cyberoptic. Artificial eye replacement with 3 Option Slots for Cybereye add-ons. Can be installed at a Mall or Clinic. Allows installation of various cyberoptic upgrades.",
+    tags: ["cyberware", "cyberoptic", "foundational", "eyes"],
+    availability: "Common",
+    slot: "Cyberoptic"
+  },
+  {
+    id: 135,
+    name: "Image Enhance",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 500,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Image enhancement system. Adds +1 to Perception, Lip Reading, and Conceal/Reveal Object Checks when using sight. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "perception", "enhancement"],
+    availability: "Expensive",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 136,
+    name: "Targeting Scope",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 500,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Built-in targeting system. Adds +1 to Aimed Shots with Ranged Weapons. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "combat", "aiming"],
+    availability: "Expensive",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 137,
+    name: "Low-Light/Infrared/UV",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Cyberoptic Option. Enhanced vision spectrum. See in darkness, detect heat signatures, and view ultraviolet. Requires pairing two Cybereyes. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "vision", "infrared", "night-vision"],
+    availability: "Expensive",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 138,
+    name: "TeleOptics",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Telescopic zoom vision. Allows magnification for viewing distant objects. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "zoom", "vision"],
+    availability: "Common",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 139,
+    name: "MicroVideo",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 500,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Record everything you see. Can download recordings onto Memory Chip or transfer wirelessly to an Agent. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "recording", "surveillance"],
+    availability: "Expensive",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 140,
+    name: "Anti-Dazzle",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Protection against blinding lights and flash attacks. Automatically filters bright light to prevent dazzling. Requires Cybereye. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberoptic", "protection", "vision"],
+    availability: "Common",
+    slot: "Cybereye Option"
+  },
+  {
+    id: 141,
+    name: "Chyron",
+    category: "Cyberware",
+    subcategory: "Cyberoptics",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberoptic Option. Projects a subscreen into field of vision displaying messages, videos, or other data from your Agent. Requires Cybereye. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberoptic", "display", "HUD"],
+    availability: "Common",
+    slot: "Cybereye Option"
+  },
+
+  // CYBERAUDIO
+  {
+    id: 142,
+    name: "Cyberaudio Suite",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 500,
+    humanity_loss: "2d6",
+    description: "Foundational Cyberaudio. Advanced hearing system with 3 slots for Cyberaudio modifications. Can only be installed at a Clinic. Allows installation of various audio enhancement options.",
+    tags: ["cyberware", "cyberaudio", "foundational", "hearing"],
+    availability: "Expensive",
+    slot: "Cyberaudio"
+  },
+
+  // VEHICLES
+  {
+    id: 143,
+    name: "Groundcar",
+    category: "Vehicles",
+    subcategory: "Cars",
+    cost: 30000,
+    sdp: 50,
+    seats: 6,
+    speed: "161 kph (100 mph)",
+    description: "Standard CHOOH2-powered car. Example: Thorton Mackinaw Larimore. SDP (Structural Damage Points): 50. Seats up to 6 passengers. Reliable transport for edgerunners and civilians alike.",
+    tags: ["vehicle", "car", "transport", "groundcar"],
+    availability: "Expensive"
+  },
+  {
+    id: 144,
+    name: "Roadbike",
+    category: "Vehicles",
+    subcategory: "Motorcycles",
+    cost: 20000,
+    sdp: 35,
+    seats: 2,
+    speed: "161 kph (100 mph)",
+    description: "CHOOH2-powered motorcycle. Example: Brennan Apollo. SDP: 35. Seats 2. Fast, maneuverable transport perfect for quick getaways and urban navigation.",
+    tags: ["vehicle", "motorcycle", "bike", "fast"],
+    availability: "Expensive"
+  },
+
+  // AMMUNITION
+  {
+    id: 145,
+    name: "Armor-Piercing Ammunition",
+    category: "Ammunition",
+    subcategory: "Special Ammo",
+    cost: 100,
+    description: "Special ammunition designed to penetrate armor. Increases shot's ability to break through armor. When using this ammo, you ablate armor by 2 instead of 1 whenever you would ablate armor. Available for all ammunition types except grenades and rockets.",
+    tags: ["ammunition", "armor-piercing", "special", "AP"],
+    availability: "Expensive"
+  },
+  {
+    id: 146,
+    name: "Incendiary Ammunition",
+    category: "Ammunition",
+    subcategory: "Special Ammo",
+    cost: 100,
+    description: "Special ammunition that ignites targets. Whenever you deal damage through armor, you ignite the target. They take 2 damage directly to HP at end of each turn until they spend an Action to put themselves out. Available for all ammunition types except grenades and rockets.",
+    tags: ["ammunition", "incendiary", "special", "fire"],
+    availability: "Expensive"
   }
 ];
