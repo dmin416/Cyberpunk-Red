@@ -985,5 +985,193 @@ const itemsDatabase = [
     description: "Extremely dangerous drug. +3 to all Stats for 1d6 turns. Often lethal.",
     tags: ["drug", "consumable", "combat"],
     availability: "Premium"
+  },
+
+  // MANUFACTURER-SPECIFIC WEAPONS - PISTOLS
+  {
+    id: 81,
+    name: "Dai Lung Streetmaster",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 20,
+    damage: "2d6",
+    rof: 2,
+    hands: 1,
+    concealable: "J",
+    description: "Poor Quality Medium Pistol. The ultimate in cheap guns, available almost everywhere. Sometimes jams due to its quality.",
+    tags: ["ranged", "firearm", "poor-quality"],
+    availability: "Common"
+  },
+  {
+    id: 82,
+    name: "Federated Arms X-9mm",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 50,
+    damage: "2d6",
+    rof: 2,
+    hands: 1,
+    concealable: "J",
+    description: "Standard Quality Medium Pistol. Often kept as a backup weapon by professionals. Fits snugly in an ankle holster.",
+    tags: ["ranged", "firearm", "backup"],
+    availability: "Common"
+  },
+  {
+    id: 83,
+    name: "Militech Avenger",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 100,
+    damage: "2d6",
+    rof: 2,
+    hands: 1,
+    concealable: "J",
+    description: "Excellent Quality Medium Pistol. Reliable service weapon favored by corporate security and military personnel.",
+    tags: ["ranged", "firearm", "excellent-quality", "militech"],
+    availability: "Premium"
+  },
+  {
+    id: 84,
+    name: "Militech Crusher SSG",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 1000,
+    damage: "5d6 (slug) / 3d6 (shell)",
+    rof: 1,
+    hands: 1,
+    concealable: "L",
+    description: "Exotic Very Heavy Pistol. Pistol-sized shotgun developed for close combat. 6-shot capacity, uses shotgun shells. Originally designed for the Second Central American War.",
+    tags: ["ranged", "firearm", "shotgun", "exotic", "militech"],
+    availability: "Expensive"
+  },
+  {
+    id: 85,
+    name: "Budget Arms Teen-Dreem",
+    category: "Weapons",
+    subcategory: "SMGs",
+    cost: 20,
+    damage: "2d6",
+    rof: 1,
+    hands: 2,
+    concealable: "L",
+    description: "Poor Quality Exotic SMG. Disposable vendit gun with 10-shot capacity. Cheap but unreliable.",
+    tags: ["ranged", "firearm", "autofire", "poor-quality", "disposable"],
+    availability: "Common"
+  },
+
+  // ADDITIONAL CYBERWARE - SPEEDWARE
+  {
+    id: 86,
+    name: "Kerenzikov Boosterware",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "4d6",
+    description: "Speedware. Accelerated nervous system. +3 to Initiative. Only one Speedware can be installed at a time. 4d6 HL when installed after character creation, or 14 HL during character creation.",
+    tags: ["cyberware", "neural", "combat", "speedware"],
+    availability: "Expensive",
+    slot: "Neuralware"
+  },
+  {
+    id: 87,
+    name: "Sandevistan Speedware",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "2d6",
+    description: "Advanced Speedware. Adds +3 to Initiative for 60 seconds with one hour cooldown. Only one Speedware can be installed at a time. 2d6 HL when installed after character creation, or 7 HL during character creation.",
+    tags: ["cyberware", "neural", "combat", "speedware"],
+    availability: "Expensive",
+    slot: "Neuralware"
+  },
+
+  // CYBERWARE - CYBERARM OPTIONS
+  {
+    id: 88,
+    name: "Tool Hand",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Cyberarm Option. Built-in tools for technical work. Can be installed at a Clinic. Requires Cyberarm.",
+    tags: ["cyberware", "cyberarm", "tech"],
+    availability: "Expensive",
+    slot: "Arm Option"
+  },
+  {
+    id: 89,
+    name: "Popup Net Launcher",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Cyberarm Option. Launches restraining nets. Can be installed at a Clinic. Replacement nets cost 50eb each. Requires Cyberarm.",
+    tags: ["cyberware", "cyberarm", "combat", "non-lethal"],
+    availability: "Expensive",
+    slot: "Arm Option"
+  },
+  {
+    id: 90,
+    name: "Modular Finger Cyberhand",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 100,
+    humanity_loss: "1d6/2",
+    description: "Cyberarm Option. Modular fingertips that can be swapped out for different tools. Requires Cyberarm.",
+    tags: ["cyberware", "cyberarm", "utility"],
+    availability: "Premium",
+    slot: "Arm Option"
+  },
+
+  // CYBERWARE - BORGWARE
+  {
+    id: 91,
+    name: "Cyclops International Bug Eye",
+    category: "Cyberware",
+    subcategory: "Borgware",
+    cost: 500,
+    humanity_loss: "2d6",
+    description: "Borgware. Advanced cybernetic eye system. Can only be installed at a Hospital.",
+    tags: ["cyberware", "borgware", "cybereye"],
+    availability: "Expensive",
+    slot: "Borgware"
+  },
+
+  // CYBERWARE - NEURALWARE
+  {
+    id: 92,
+    name: "Braindance Recorder",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Records experiences as Braindance. Can be installed at a Clinic. Requires Neuralware Processor.",
+    tags: ["cyberware", "neural", "braindance"],
+    availability: "Expensive",
+    slot: "Neuralware"
+  },
+  {
+    id: 93,
+    name: "Chemical Analyser",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "1d6/2",
+    description: "Chipware. Analyzes chemical compounds. Must be inserted into a Chipware Socket.",
+    tags: ["cyberware", "neural", "tech", "chipware"],
+    availability: "Expensive",
+    slot: "Chipware Socket"
+  },
+  {
+    id: 94,
+    name: "Tactile Boost",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 100,
+    humanity_loss: "1d6/2",
+    description: "Chipware. Enhances sense of touch. +1 to relevant skill checks. Must be inserted into a Chipware Socket.",
+    tags: ["cyberware", "neural", "chipware"],
+    availability: "Premium",
+    slot: "Chipware Socket"
   }
 ];
