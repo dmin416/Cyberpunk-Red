@@ -1173,5 +1173,189 @@ const itemsDatabase = [
     tags: ["cyberware", "neural", "chipware"],
     availability: "Premium",
     slot: "Chipware Socket"
+  },
+
+  // EXOTIC WEAPONS - PISTOLS
+  {
+    id: 95,
+    name: "Malorian Arms 3516",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 1000,
+    damage: "5d6",
+    rof: 1,
+    hands: 1,
+    concealable: "J",
+    description: "Exotic Very Heavy Pistol. Designed by Eran Malour for Johnny Silverhand. Permanently equipped with smartgun link. Requires Interface Plugs or Subdermal Grip to operate. Capable of ending a cyberpsycho at 100 paces.",
+    tags: ["ranged", "firearm", "exotic", "smartgun", "legendary"],
+    availability: "Expensive"
+  },
+
+  // ASSAULT RIFLES
+  {
+    id: 96,
+    name: "Militech Ronin Light Assault Rifle",
+    category: "Weapons",
+    subcategory: "Assault Rifles",
+    cost: 500,
+    damage: "5d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Standard Quality Assault Rifle. 25-round magazine. Autofire capable. Reliable military-grade weapon. Range: 800m.",
+    tags: ["ranged", "firearm", "autofire", "militech"],
+    availability: "Expensive"
+  },
+  {
+    id: 97,
+    name: "Militech Dragon Assault Rifle",
+    category: "Weapons",
+    subcategory: "Assault Rifles",
+    cost: 1000,
+    damage: "5d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Excellent Quality Assault Rifle. 25-round magazine. +1 Weapon Accuracy. Autofire capable. Premium military weapon. Range: 800m.",
+    tags: ["ranged", "firearm", "autofire", "excellent-quality", "militech"],
+    availability: "Expensive"
+  },
+  {
+    id: 98,
+    name: "Arasaka WAA Bullpup Assault Weapon",
+    category: "Weapons",
+    subcategory: "Assault Rifles",
+    cost: 500,
+    damage: "5d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Exotic Assault Rifle. Bullpup configuration for improved handling. Autofire capable. Manufactured by Arasaka.",
+    tags: ["ranged", "firearm", "autofire", "exotic", "arasaka"],
+    availability: "Expensive"
+  },
+
+  // EXOTIC WEAPONS - SNIPER
+  {
+    id: 99,
+    name: "Nomad Pneumatic Bolt Gun",
+    category: "Weapons",
+    subcategory: "Sniper Rifles",
+    cost: 500,
+    damage: "4d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Exotic Sniper Rifle. Fires pneumatic bolts. 8-shot capacity. Quieter than standard rifles. From 12 Days of Gunmas DLC.",
+    tags: ["ranged", "exotic", "stealth", "nomad"],
+    availability: "Expensive"
+  },
+
+  // MELEE WEAPONS - EXOTIC
+  {
+    id: 100,
+    name: "Centurian Essentials Thermal Dagger",
+    category: "Weapons",
+    subcategory: "Melee",
+    cost: 1000,
+    damage: "2d6 + Fire",
+    rof: 2,
+    hands: 1,
+    concealable: "P",
+    description: "Exotic Medium Melee Weapon. Heated blade strongly sets targets on fire. Can be engraved for +10eb. From 12 Days of REDmas DLC.",
+    tags: ["melee", "exotic", "fire", "thermal"],
+    availability: "Expensive"
+  },
+
+  // CYBERWARE - CYBERARM OPTIONS (GRENADES)
+  {
+    id: 101,
+    name: "Popup Grenade Launcher",
+    category: "Cyberware",
+    subcategory: "Cyberarm",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Cyberarm Option. Grenade launcher concealed in arm compartment. Can be loaded with one grenade. Can be installed at a Clinic. Requires Cyberarm.",
+    tags: ["cyberware", "cyberarm", "explosive", "grenade"],
+    availability: "Expensive",
+    slot: "Arm Option"
+  },
+
+  // CYBERWARE - BORGWARE (LINEAR FRAMES)
+  {
+    id: 102,
+    name: "Linear Frame Σ (Sigma)",
+    category: "Cyberware",
+    subcategory: "Borgware",
+    cost: 5000,
+    humanity_loss: "4d6",
+    description: "Internal Linear Frame Borgware. Endoskeleton grafted onto body and neurolinked to muscles and bones. Increases BODY stat to 12. Can only be installed at a Hospital.",
+    tags: ["cyberware", "borgware", "linear-frame", "enhancement"],
+    availability: "Expensive",
+    slot: "Borgware"
+  },
+  {
+    id: 103,
+    name: "Linear Frame β (Beta)",
+    category: "Cyberware",
+    subcategory: "Borgware",
+    cost: 10000,
+    humanity_loss: "4d6",
+    description: "Internal Linear Frame Borgware. Advanced endoskeleton increases strength and resilience. Increases BODY stat to 14. Can only be installed at a Hospital.",
+    tags: ["cyberware", "borgware", "linear-frame", "enhancement"],
+    availability: "Expensive",
+    slot: "Borgware"
+  },
+  {
+    id: 104,
+    name: "Linear Frame Ω (Omega)",
+    category: "Cyberware",
+    subcategory: "Borgware",
+    cost: 25000,
+    humanity_loss: "4d6",
+    description: "Internal Linear Frame Borgware. Ultimate endoskeleton system. Increases BODY stat to 16. Can only be installed at a Hospital.",
+    tags: ["cyberware", "borgware", "linear-frame", "enhancement"],
+    availability: "Expensive",
+    slot: "Borgware"
+  },
+
+  // CYBERWARE - NEURALWARE (INTERFACE)
+  {
+    id: 105,
+    name: "Subdermal Grip",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 100,
+    humanity_loss: "1d6/2",
+    description: "Neuralware. Subdermal pad in palm that links to smartguns. Alternative to Interface Plugs for weapon operation. Can be installed at a Clinic. Requires Neuralware Processor.",
+    tags: ["cyberware", "neural", "smartgun", "interface"],
+    availability: "Premium",
+    slot: "Neuralware"
+  },
+
+  // ARMOR - SPECIAL
+  {
+    id: 106,
+    name: "Bodyweight Suit",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 1000,
+    sp: 11,
+    penalty: 0,
+    description: "Specialized armor designed for Netrunners. Has spots for Interface Plugs and Cyberdeck. Adds +1 Hardware Slot to attached Cyberdeck. Covers body only.",
+    tags: ["protection", "netrunner", "tech"],
+    availability: "Expensive"
+  },
+  {
+    id: 107,
+    name: "Light Metalgear",
+    category: "Armor",
+    subcategory: "Body",
+    cost: 3000,
+    sp: 15,
+    penalty: -2,
+    description: "Enhanced Metalgear with segmented plating for better flexibility. Covers body only. -2 to MOVE. From 12 Days of REDmas DLC.",
+    tags: ["protection", "heavy", "metalgear"],
+    availability: "Expensive"
   }
 ];
