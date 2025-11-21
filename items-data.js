@@ -1357,5 +1357,133 @@ const itemsDatabase = [
     description: "Enhanced Metalgear with segmented plating for better flexibility. Covers body only. -2 to MOVE. From 12 Days of REDmas DLC.",
     tags: ["protection", "heavy", "metalgear"],
     availability: "Expensive"
+  },
+
+  // MORE EXOTIC WEAPONS
+  {
+    id: 108,
+    name: "Constitutional Arms Multi-Ammunition Pistol",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 500,
+    damage: "4d6",
+    rof: 1,
+    hands: 1,
+    concealable: "J",
+    description: "Exotic Very Heavy Pistol. Holds 5 shots and can load up to 5 different kinds of Very Heavy Pistol ammunition at the same time. Select which ammo to use with each shot. From The 12 Days of Gunmas DLC and Danger Gal Dossier.",
+    tags: ["ranged", "firearm", "exotic", "versatile"],
+    availability: "Expensive"
+  },
+  {
+    id: 109,
+    name: "Constitutional Arms Unity",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 500,
+    damage: "4d6",
+    rof: 2,
+    hands: 1,
+    concealable: "J",
+    description: "Exotic Heavy Pistol. Deals 4d6 damage (instead of standard 3d6) when firing an Aimed Shot. From Cyberpunk: Edgerunners Mission Kit.",
+    tags: ["ranged", "firearm", "exotic", "precision"],
+    availability: "Expensive"
+  },
+  {
+    id: 110,
+    name: "Magnum Opus Hellbringer",
+    category: "Weapons",
+    subcategory: "Pistols",
+    cost: 500,
+    damage: "5d6",
+    rof: 1,
+    hands: 1,
+    concealable: "J",
+    description: "Exotic Very Heavy Pistol. 3 shot capacity that deals 5d6 damage instead of standard 4d6. When fired by a user with BODY less than 10, the weapon jams after each shot. From The 12 Days of Gunmas DLC.",
+    tags: ["ranged", "firearm", "exotic", "powerful"],
+    availability: "Expensive"
+  },
+  {
+    id: 111,
+    name: "Arasaka WSS Sniper System",
+    category: "Weapons",
+    subcategory: "Sniper Rifles",
+    cost: 1000,
+    damage: "5d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Excellent Quality Sniper Rifle manufactured by Arasaka. +1 accuracy bonus. 4-round magazine. 800m range. Most WSS on the market are unauthorized duplicates lacking the built-ins of originals but still very powerful.",
+    tags: ["ranged", "firearm", "sniper", "excellent-quality", "arasaka"],
+    availability: "Expensive"
+  },
+  {
+    id: 112,
+    name: "Nomad Pneumatic Bolt Gun",
+    category: "Weapons",
+    subcategory: "Sniper Rifles",
+    cost: 500,
+    damage: "4d6",
+    rof: 1,
+    hands: 2,
+    concealable: "N",
+    description: "Exotic Sniper Rifle. 8 shot capacity that deals 4d6 damage (instead of standard 5d6). Fires Arrows instead of bullets. Capable of firing Non-Basic Ammunition despite being an Exotic weapon. From The 12 Days of Gunmas DLC.",
+    tags: ["ranged", "exotic", "arrows", "silent"],
+    availability: "Expensive"
+  },
+  {
+    id: 113,
+    name: "Constitution Arms Hurricane",
+    category: "Weapons",
+    subcategory: "Shotguns",
+    cost: 500,
+    damage: "5d6",
+    rof: 2,
+    hands: 2,
+    concealable: "N",
+    description: "Exotic Shotgun. ROF 2 with 16 shot capacity. Takes 2 Actions to reload. Can only be used by a person with BODY 11 or higher, or if weapon is Mounted. Devastating autofire shotgun.",
+    tags: ["ranged", "firearm", "exotic", "shotgun", "heavy"],
+    availability: "Expensive"
+  },
+  {
+    id: 114,
+    name: "Militech Cowboy U-56",
+    category: "Weapons",
+    subcategory: "Grenade Launchers",
+    cost: 500,
+    damage: "Varies",
+    rof: 2,
+    hands: 2,
+    concealable: "N",
+    description: "Exotic Grenade Launcher manufactured by Militech. Can fire two grenades at a time. Can use any type of grenade despite being an Exotic Weapon. Can only be used by a person with BODY 11 or higher, or if Mounted.",
+    tags: ["ranged", "explosive", "exotic", "grenade", "militech"],
+    availability: "Expensive"
+  },
+  {
+    id: 115,
+    name: "Kendachi Mono-Three",
+    category: "Weapons",
+    subcategory: "Melee Weapons",
+    cost: 500,
+    damage: "4d6",
+    rof: 2,
+    hands: 2,
+    concealable: "N",
+    description: "Exotic Two-Handed Very Heavy Melee Weapon manufactured by Kendachi. With the correct biometric key, the Mono-Three ignores all armor below SP11. Without the key, this property is non-functional. Heavy Melee Weapons ignore half of armor.",
+    tags: ["melee", "exotic", "monoblade", "kendachi", "armor-piercing"],
+    availability: "Expensive"
+  },
+
+  // MORE CYBERWARE
+  {
+    id: 116,
+    name: "Grafted Muscle and Bone Lace",
+    category: "Cyberware",
+    subcategory: "Internal Body Cyberware",
+    cost: 1000,
+    humanity_loss: "4d6",
+    description: "Internal Body Cyberware. Combination of vat grown muscle grafts and microscopic fiber bone implants. Increases BODY by 2. The increase changes HP, Wound Threshold, and Death Save. Multiple installments stack. Cannot raise BODY above 10. Can only be installed at a Hospital.",
+    tags: ["cyberware", "enhancement", "body", "strength"],
+    availability: "Expensive",
+    slot: "Internal Body"
   }
 ];

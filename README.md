@@ -4,10 +4,11 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 
 ## Features
 
-- **Comprehensive Database**: 107+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
+- **Comprehensive Database**: 116+ items including weapons, armor, cyberware, gear, vehicles, ammunition, and more
 - **Legendary Weapons**: Malorian Arms 3516, Thermal Dagger, Militech Dragon, and more
-- **Manufacturer-Specific Weapons**: Dai Lung, Militech, Federated Arms, Budget Arms, Arasaka, Centurian, and more
-- **Advanced Cyberware**: Speedware (Kerenzikov, Sandevistan), Linear Frames (Σ/β/Ω), Borgware, Chipware, and specialized options
+- **Exotic Weapons**: Constitutional Arms Unity, Magnum Opus Hellbringer, Nomad Pneumatic Bolt Gun, Militech Cowboy U-56, Constitution Arms Hurricane, and more
+- **Manufacturer-Specific Weapons**: Dai Lung, Militech, Federated Arms, Budget Arms, Arasaka, Centurian, Constitutional Arms, Kendachi, and more
+- **Advanced Cyberware**: Speedware (Kerenzikov, Sandevistan), Linear Frames (Σ/β/Ω), Borgware, Chipware, Grafted Muscle and Bone Lace, and specialized options
 - **Instant Preview on Hover**: Hover over any item to see a quick preview tooltip with stats and description
 - **Advanced Search**: Search by name, description, tags, category, or subcategory
 - **Smart Filtering**: Filter by category, subcategory, and availability
