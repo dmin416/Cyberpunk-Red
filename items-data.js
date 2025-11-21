@@ -1873,5 +1873,138 @@ const itemsDatabase = [
     description: "Special ammunition that ignites targets. Whenever you deal damage through armor, you ignite the target. They take 2 damage directly to HP at end of each turn until they spend an Action to put themselves out. Available for all ammunition types except grenades and rockets.",
     tags: ["ammunition", "incendiary", "special", "fire"],
     availability: "Expensive"
+  },
+
+  // NEURALWARE
+  {
+    id: 147,
+    name: "Neural Link",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "2d6",
+    description: "Foundational Neuralware. Required for installation of any neuralware (Interface Plugs, Chipware Sockets, Subdermal Grips, Speedware). Can support up to 5 neuralware options. Can only be installed at a Clinic.",
+    tags: ["cyberware", "neuralware", "foundational", "neural"],
+    availability: "Expensive",
+    slot: "Neuralware"
+  },
+  {
+    id: 148,
+    name: "Chipware Socket",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Neuralware Option. Socket for installing chipware programs (Pain Editor, Skill Chips, etc). Requires Neural Link. Can only be installed at a Clinic.",
+    tags: ["cyberware", "neuralware", "socket", "chipware"],
+    availability: "Expensive",
+    slot: "Neural Link Option"
+  },
+  {
+    id: 149,
+    name: "Interface Plugs",
+    category: "Cyberware",
+    subcategory: "Neuralware",
+    cost: 500,
+    humanity_loss: "1d6",
+    description: "Neuralware Option. Connectors for interfacing with machines and networks. Essential for Netrunners to jack into cyberdecks. Requires Neural Link. Can only be installed at a Clinic.",
+    tags: ["cyberware", "neuralware", "interface", "netrunning"],
+    availability: "Expensive",
+    slot: "Neural Link Option"
+  },
+
+  // CYBERAUDIO OPTIONS
+  {
+    id: 150,
+    name: "Bug Detector",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Detects surveillance bugs and hidden listening devices. Useful for making secret business deals. Requires Cyberaudio Suite. Can be installed at a Mall.",
+    tags: ["cyberware", "cyberaudio", "detection", "surveillance"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+  {
+    id: 151,
+    name: "Voice Stress Analyzer",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Analyzes voice patterns to detect stress and potential deception. Adds +2 to Human Perception checks to detect lies. Requires Cyberaudio Suite. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberaudio", "detection", "perception"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+  {
+    id: 152,
+    name: "Scrambler/Descrambler",
+    category: "Cyberware",
+    subcategory: "Cyberaudio",
+    cost: 100,
+    humanity_loss: "0.5d6",
+    description: "Cyberaudio Option. Encrypts/decrypts audio communications for secure conversations. Prevents eavesdropping on radio communications. Requires Cyberaudio Suite. Can be installed at a Clinic.",
+    tags: ["cyberware", "cyberaudio", "encryption", "security"],
+    availability: "Common",
+    slot: "Cyberaudio Option"
+  },
+
+  // GRENADES
+  {
+    id: 153,
+    name: "Frag Grenade",
+    category: "Weapons",
+    subcategory: "Grenades",
+    cost: 100,
+    damage: "6d6",
+    description: "Standard fragmentation grenade. Armor-piercing explosive. Thrown weapon with blast radius. Heavy Weapons skill to throw accurately. Explodes on impact or with timer.",
+    tags: ["explosive", "grenade", "armor-piercing", "thrown"],
+    availability: "Expensive"
+  },
+  {
+    id: 154,
+    name: "Incendiary Grenade",
+    category: "Weapons",
+    subcategory: "Grenades",
+    cost: 100,
+    damage: "varies",
+    description: "Incendiary explosive grenade. Anyone caught in blast radius who takes damage is set on fire, taking 2 damage each round until they put it out with an Action. Heavy Weapons skill to throw accurately.",
+    tags: ["explosive", "grenade", "incendiary", "fire", "thrown"],
+    availability: "Expensive"
+  },
+  {
+    id: 155,
+    name: "Teargas Grenade",
+    category: "Weapons",
+    subcategory: "Grenades",
+    cost: 100,
+    damage: "special",
+    description: "Non-lethal gas grenade. Anyone in affected area who loses a DV13 Resist Torture/Drugs Check suffers the Damaged Eye Critical Injury. Heavy Weapons skill to throw accurately. Area denial weapon.",
+    tags: ["explosive", "grenade", "non-lethal", "gas", "thrown"],
+    availability: "Expensive"
+  },
+
+  // MEDICAL GEAR
+  {
+    id: 156,
+    name: "Speedheal",
+    category: "Gear",
+    subcategory: "Medical",
+    cost: 200,
+    description: "Advanced pharmaceutical. When injected, target who is not Mortally Wounded immediately heals HP equal to BODY + WILL. Can only benefit from one use per day. Only Medtechs can use correctly. Listed cost is for raw materials; Medtech synthesizes doses equal to Medical Tech Skill with DV13 check.",
+    tags: ["medical", "healing", "pharmaceutical", "medtech"],
+    availability: "Expensive"
+  },
+  {
+    id: 157,
+    name: "Medscanner",
+    category: "Gear",
+    subcategory: "Medical",
+    cost: 1000,
+    description: "Advanced medical diagnostic device. Helps diagnose illness and injury. Provides +2 bonus to First Aid and Paramedic Skill checks. Essential equipment for Medtechs.",
+    tags: ["medical", "diagnostic", "tech", "medtech"],
+    availability: "Expensive"
   }
 ];
