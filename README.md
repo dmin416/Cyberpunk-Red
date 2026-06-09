@@ -35,7 +35,7 @@ A comprehensive, interactive item lookup application for Cyberpunk RED tabletop 
 
 ## How to Use
 
-1. Open `index.html` in your web browser (just double-click the file)
+1. Open `app/index.html` in your web browser (just double-click the file)
 2. **Hover** over any item to see an instant preview tooltip
 3. **Click** any item to view full detailed information in a modal
 4. Use the search bar to find specific items

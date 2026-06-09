@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberpunk RED - Item Database</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">
+                <span class="cyber-glow">CYBERPUNK</span>
+                <span class="red-glow">RED</span>
+            </h1>
+            <p class="subtitle">Item Database & Lookup System</p>
+        </header>
+
+        <div class="controls-panel">
+            <!-- Search Bar -->
+            <div class="search-container">
+                <input
+                    type="text"
+                    id="searchInput"
+                    class="search-input"
+                    placeholder="Search items by name, description, or tags..."
+                >
+            </div>
+
+            <!-- Filters -->
+            <div class="filters-container">
+                <div class="filter-group">
+                    <label for="categoryFilter">Category:</label>
+                    <select id="categoryFilter" class="filter-select">
+                        <option value="">All Categories</option>
+                        <option value="Weapons">Weapons</option>
+                        <option value="Armor">Armor</option>
+                        <option value="Cyberware">Cyberware</option>
+                        <option value="Gear">Gear</option>
+                        <option value="Vehicles">Vehicles</option>
+                        <option value="Ammunition">Ammunition</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="subcategoryFilter">Subcategory:</label>
+                    <select id="subcategoryFilter" class="filter-select">
+                        <option value="">All Subcategories</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="availabilityFilter">Availability:</label>
+                    <select id="availabilityFilter" class="filter-select">
+                        <option value="">All</option>
+                        <option value="Common">Common</option>
+                        <option value="Premium">Premium</option>
+                        <option value="Expensive">Expensive</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="sortBy">Sort By:</label>
+                    <select id="sortBy" class="filter-select">
+                        <option value="name">Name (A-Z)</option>
+                        <option value="name-desc">Name (Z-A)</option>
+                        <option value="cost-asc">Cost (Low to High)</option>
+                        <option value="cost-desc">Cost (High to Low)</option>
+                        <option value="category">Category</option>
+                    </select>
+                </div>
+
+                <button id="resetFilters" class="btn-reset">Reset Filters</button>
+            </div>
+        </div>
+
+        <!-- Stats Display -->
+        <div class="stats-bar">
+            <span id="itemCount" class="stat-item">Total Items: 0</span>
+            <span id="filteredCount" class="stat-item">Showing: 0</span>
+        </div>
+
+        <!-- Items Grid -->
+        <div id="itemsGrid" class="items-grid">
+            <!-- Items will be dynamically inserted here -->
+        </div>
+
+        <!-- Hover Tooltip -->
+        <div id="hoverTooltip" class="hover-tooltip">
+            <!-- Tooltip content will be inserted here -->
+        </div>
+
+        <!-- Item Detail Modal -->
+        <div id="itemModal" class="modal">
+            <div class="modal-content">
+                <button class="modal-close" id="closeModal">&times;</button>
+                <div id="modalBody">
+                    <!-- Item details will be inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>Cyberpunk RED is © R. Talsorian Games, Inc.</p>
+            <p>This is an unofficial fan-made reference tool</p>
+        </footer>
+    </div>
+
+    <script src="items-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
