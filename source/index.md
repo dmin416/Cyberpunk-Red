@@ -6,13 +6,13 @@ Catalog of source materials for this repository. Each entry represents content p
 
 ## Contents
 
-- [Core Books](#core_books)
-- [Major Sourcebooks](#major_sourcebooks)
-- [Adventure / Mission Books](#adventure_mission_books)
+- [Core Books](#core-books)
+- [Major Sourcebooks](#major-sourcebooks)
+- [Adventure / Mission Books](#adventure-mission-books)
 - [Accessories](#accessories)
 - [DLC](#dlc)
-- [Interface RED](#interface_red)
-- [Planned Directory Layout](#planned_directory_layout)
+- [Interface RED](#interface-red)
+- [Planned Directory Layout](#planned-directory-layout)
 
 ---
 
@@ -20,13 +20,15 @@ Catalog of source materials for this repository. Each entry represents content p
 
 | ID | Title | Year | Status |
 |----|-------|------|--------|
-| `core_rulebook` | [Cyberpunk RED Core Rulebook](PDF/core_rulebook.pdf) | 2020 | published |
+| Core Rulebook | [Cyberpunk RED Core Rulebook](PDF/Core Rulebook.pdf) | 2020 | published |
 
-### core_rulebook
+### Core Rulebook
 
 **Cyberpunk RED Core Rulebook** (2020)
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces (Never Fade Away / The Fall of the Towers / Black Dog).
+
+**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 18 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk).
 
 ---
 
@@ -34,23 +36,23 @@ The full game. Includes the Time of the Red setting, Interlock System rules (sta
 
 | ID | Title | Year | Status |
 |----|-------|------|--------|
-| `black_chrome` | [Black Chrome](PDF/black_chrome.pdf) | 2022 | published |
-| `danger_gal_dossier` | [Danger Gal Dossier](PDF/danger_gal_dossier.pdf) | 2023 | published |
-| `night_city_2045` | [Night City 2045](#night_city_2045) | — | upcoming |
+| Black Chrome | [Black Chrome](PDF/Black Chrome.pdf) | 2022 | published |
+| Danger Gal Dossier | [Danger Gal Dossier](PDF/Danger Gal Dossier.pdf) | 2023 | published |
+| Night City 2045 | [Night City 2045](#night-city-2045) | — | upcoming |
 
-### black_chrome
+### Black Chrome
 
 **Black Chrome** (2022)
 
 Gear and equipment supplement. Over 170 items covering weapons, cyberware, vehicles, and fashion, presented through in-world market vendors.
 
-### danger_gal_dossier
+### Danger Gal Dossier
 
 **Danger Gal Dossier** (2023)
 
 The essential tool for Night City factions, NPCs, and more. A monster sourcebook providing every detail about the definitive Cyberpunk setting with over 600 locations, 99 stat blocks, and more.
 
-### night_city_2045
+### Night City 2045
 
 **Night City 2045** (upcoming / in preview, mid-2026)
 
@@ -62,23 +64,23 @@ Sourcebook of Night City set in 2045. Covers each district, points of interest, 
 
 | ID | Title | Status |
 |----|-------|--------|
-| `tales_street_stories` | [Tales of the RED: Street Stories](PDF/tales_street_stories.pdf) | published |
-| `tales_hope_reborn` | [Tales of the RED: Hope Reborn](PDF/tales_hope_reborn.pdf) | published |
-| `single_player_mode` | [Single Player Mode](PDF/single_player_mode.pdf) | published |
+| Tales of the RED Street Stories | [Tales of the RED: Street Stories](PDF/Tales of the RED Street Stories.pdf) | published |
+| Tales of the RED Hope Reborn | [Tales of the RED: Hope Reborn](PDF/Tales of the RED Hope Reborn.pdf) | published |
+| Single Player Mode | [Single Player Mode](PDF/Single Player Mode.pdf) | published |
 
-### tales_street_stories
+### Tales of the RED Street Stories
 
 **Tales of the RED: Street Stories**
 
 A collection of nine never-before-seen full-length missions.
 
-### tales_hope_reborn
+### Tales of the RED Hope Reborn
 
 **Tales of the RED: Hope Reborn**
 
 Six mission campaign book where the PCs help the Forlorn Hope secure its future.
 
-### single_player_mode
+### Single Player Mode
 
 **Single Player Mode**
 
@@ -90,23 +92,23 @@ Around 100 pages of tools, tables, and more for GMs. Solo / GM-less play support
 
 | ID | Title | Status |
 |----|-------|--------|
-| `micro_chrome` | [Micro Chrome](PDF/micro_chrome.pdf) | published |
-| `netrunning_deck` | [Netrunning Deck](#netrunning_deck) | published |
-| `trauma_deck` | [Trauma Deck](#trauma_deck) | published |
+| Micro Chrome | [Micro Chrome](PDF/Micro Chrome.pdf) | published |
+| Netrunning Deck | [Netrunning Deck](#netrunning-deck) | published |
+| Trauma Deck | [Trauma Deck](#trauma-deck) | published |
 
-### micro_chrome
+### Micro Chrome
 
 **Micro Chrome**
 
 Adds 4 new gear items. Originally part of a Cyberpunk RED 4-pin set.
 
-### netrunning_deck
+### Netrunning Deck
 
 **Netrunning Deck**
 
 Cards needed to build a NET Architecture and run through it. Includes 16 Program cards, 30 Black Ice cards, 3 Demon cards, and 11 Floor cards.
 
-### trauma_deck
+### Trauma Deck
 
 **Trauma Deck**
 
@@ -118,23 +120,23 @@ A way to give a variety of critical injuries in firefights.
 
 | ID | Title | Year | Status |
 |----|-------|------|--------|
-| `mixing_drinks_changing_lives` | [Mixing Drinks, Changing Lives](PDF/mixing_drinks_changing_lives.pdf) | 2024 | free |
-| `danger_gal_dossier_plus` | [Danger Gal Dossier+](PDF/danger_gal_dossier_plus.pdf) | 2023 | free |
-| `night_market_index` | [Night Market Index](PDF/night_market_index.pdf) | 2023 | free |
+| Mixing Drinks Changing Lives | [Mixing Drinks, Changing Lives](PDF/Mixing Drinks Changing Lives.pdf) | 2024 | free |
+| Danger Gal Dossier+ | [Danger Gal Dossier+](PDF/Danger Gal Dossier+.pdf) | 2023 | free |
+| Night Market Index | [Night Market Index](PDF/Night Market Index.pdf) | 2023 | free |
 
-### mixing_drinks_changing_lives
+### Mixing Drinks Changing Lives
 
 **Mixing Drinks, Changing Lives** (April 2024, free)
 
 VA-11 HALL-A crossover DLC. What if the bar VA-11 HALL-A existed in Night City? Non-canon to both franchises. Includes Danger Gal–format analysis of the bar, Hammered Industries lore, stat blocks for Jill, Dana, Dorothy, and other patrons, 9 pieces of gear and cyberware, and a Drinktionary covering every VA-11 HALL-A cocktail plus Cyberpunk Smash.
 
-### danger_gal_dossier_plus
+### Danger Gal Dossier+
 
 **Danger Gal Dossier+** (July 2023, free)
 
 Cut content from Danger Gal Dossier. Plot hooks for each faction, an additional item (fourth Pinny Arcade jacket), extra Incident mission information, and a bonus Bozo NPC.
 
-### night_market_index
+### Night Market Index
 
 **Night Market Index** (November 2023, free, living document)
 
@@ -148,15 +150,15 @@ Interface RED volumes are compilations of released DLCs for Cyberpunk RED, plus 
 
 | ID | Title | Release | Status |
 |----|-------|---------|--------|
-| `interface_red_vol_1` | [Interface RED Vol. 1](PDF/interface_red_vol_1.pdf) | November 2021 | published |
-| `interface_red_vol_2` | [Interface RED Vol. 2](PDF/interface_red_vol_2.pdf) | March 2023 | published |
-| `interface_red_vol_3` | [Interface RED Vol. 3](PDF/interface_red_vol_3.pdf) | February 2024 | published |
-| `interface_red_vol_4` | [Interface RED Vol. 4](PDF/interface_red_vol_4.pdf) | May 2025 | published |
-| `interface_red_vol_5` | [Interface RED Vol. 5](PDF/interface_red_vol_5.pdf) | January 2026 | published |
+| Interface RED Vol 1 | [Interface RED Vol. 1](PDF/Interface RED Vol 1.pdf) | November 2021 | published |
+| Interface RED Vol 2 | [Interface RED Vol. 2](PDF/Interface RED Vol 2.pdf) | March 2023 | published |
+| Interface RED Vol 3 | [Interface RED Vol. 3](PDF/Interface RED Vol 3.pdf) | February 2024 | published |
+| Interface RED Vol 4 | [Interface RED Vol. 4](PDF/Interface RED Vol 4.pdf) | May 2025 | published |
+| Interface RED Vol 5 | [Interface RED Vol. 5](PDF/Interface RED Vol 5.pdf) | January 2026 | published |
 
 ---
 
-### interface_red_vol_1
+### Interface RED Vol 1
 
 **Interface RED Vol. 1** (November 2021)
 
@@ -166,16 +168,16 @@ DLCs included: Old Guns Never Die, Red Chrome Cargo, Single Shot Pack, Rocklin A
 
 | DLC ID | Title | Summary |
 |--------|-------|---------|
-| `old_guns_never_die` | Old Guns Never Die | Conversion guide for Cyberpunk 2020 weapons to RED |
-| `red_chrome_cargo` | Red Chrome Cargo | Train heist scenario |
-| `single_shot_pack` | Single Shot Pack | Additional weapons |
-| `rocklin_augmentics_cyberchairs` | Rocklin Augmentics Cyberchairs | Two cyberchair mobility / weapon platform stat blocks |
-| `elflines_online` | Elflines Online | Night City's in-setting MMORPG rules |
-| `elo_expansion_pack_1` | ELO Expansion Pack 1 | Expansion on Elflines Online content |
+| Old Guns Never Die | Old Guns Never Die | Conversion guide for Cyberpunk 2020 weapons to RED |
+| Red Chrome Cargo | Red Chrome Cargo | Train heist scenario |
+| Single Shot Pack | Single Shot Pack | Additional weapons |
+| Rocklin Augmentics Cyberchairs | Rocklin Augmentics Cyberchairs | Two cyberchair mobility / weapon platform stat blocks |
+| Elflines Online | Elflines Online | Night City's in-setting MMORPG rules |
+| Elo Expansion Pack 1 | ELO Expansion Pack 1 | Expansion on Elflines Online content |
 
 ---
 
-### interface_red_vol_2
+### Interface RED Vol 2
 
 **Interface RED Vol. 2** (March 2023)
 
@@ -185,17 +187,17 @@ DLCs included: Hardened Mooks, Hardened Lieutenants, Night City Weather, Jumpsta
 
 | DLC ID | Title | Summary |
 |--------|-------|---------|
-| `hardened_mooks` | Hardened Mooks | Upgraded enemy tiers for combat-optimized crews |
-| `hardened_lieutenants` | Hardened Lieutenants | Upgraded enemy tiers for combat-optimized crews |
-| `night_city_weather` | Night City Weather | Seasonal weather tables with unusual weather rules |
-| `jumpstart_kit_conversion_guide` | Jumpstart Kit Conversion Guide | Bridging old starter kit content to the corebook |
-| `cargo_containers_and_cube_hotels` | Cargo Containers and Cube Hotels | 20 living spaces / locations |
-| `daeric_sylars_guide_to_elflines_online` | Daeric Sylar's Guide to Elflines Online | Further ELO content |
-| `12_days_of_gunmas` | The 12 Days of Gunmas | Holiday-themed weapon gear drops |
+| Hardened Mooks | Hardened Mooks | Upgraded enemy tiers for combat-optimized crews |
+| Hardened Lieutenants | Hardened Lieutenants | Upgraded enemy tiers for combat-optimized crews |
+| Night City Weather | Night City Weather | Seasonal weather tables with unusual weather rules |
+| Jumpstart Kit Conversion Guide | Jumpstart Kit Conversion Guide | Bridging old starter kit content to the corebook |
+| Cargo Containers And Cube Hotels | Cargo Containers and Cube Hotels | 20 living spaces / locations |
+| Daeric Sylars Guide To Elflines Online | Daeric Sylar's Guide to Elflines Online | Further ELO content |
+| 12 Days Of Gunmas | The 12 Days of Gunmas | Holiday-themed weapon gear drops |
 
 ---
 
-### interface_red_vol_3
+### Interface RED Vol 3
 
 **Interface RED Vol. 3** (February 2024)
 
@@ -205,20 +207,20 @@ DLCs included: Hardened Mini Bosses, Digital Dating in the Dark Future, Woodchip
 
 | DLC ID | Title | Summary |
 |--------|-------|---------|
-| `hardened_mini_bosses` | Hardened Mini Bosses | Expanded boss-tier enemies |
-| `digital_dating_in_the_dark_future` | Digital Dating in the Dark Future | In-setting dating app / social mechanics |
-| `woodchippers_garage` | Woodchipper's Garage | Vehicle content |
-| `salvaging_night_city` | Salvaging Night City | Scavenging rules |
-| `midnight_with_the_upload` | Midnight with the Upload | Netrunning / AI content |
-| `must_have_cyberware_deals` | Must Have Cyberware Deals | Curated cyberware options |
-| `collecting_the_random` | Collecting the Random | Random loot / encounter tables |
-| `elflines_online_the_tcg` | Elflines Online the TCG | In-world trading card game rules |
-| `spinning_your_wheels` | Spinning Your Wheels | Bicycle rules |
-| `12_days_of_cybermas` | The 12 Days of Cybermas | Holiday gear drops |
+| Hardened Mini Bosses | Hardened Mini Bosses | Expanded boss-tier enemies |
+| Digital Dating In The Dark Future | Digital Dating in the Dark Future | In-setting dating app / social mechanics |
+| Woodchippers Garage | Woodchipper's Garage | Vehicle content |
+| Salvaging Night City | Salvaging Night City | Scavenging rules |
+| Midnight With The Upload | Midnight with the Upload | Netrunning / AI content |
+| Must Have Cyberware Deals | Must Have Cyberware Deals | Curated cyberware options |
+| Collecting The Random | Collecting the Random | Random loot / encounter tables |
+| Elflines Online The Tcg | Elflines Online the TCG | In-world trading card game rules |
+| Spinning Your Wheels | Spinning Your Wheels | Bicycle rules |
+| 12 Days Of Cybermas | The 12 Days of Cybermas | Holiday gear drops |
 
 ---
 
-### interface_red_vol_4
+### Interface RED Vol 4
 
 **Interface RED Vol. 4** (May 2025)
 
@@ -228,18 +230,18 @@ DLCs included: Hornet's Pharmacy, Black Chrome+, Achievements and Loot Boxes, St
 
 | DLC ID | Title | Summary |
 |--------|-------|---------|
-| `hornets_pharmacy` | Hornet's Pharmacy | Four new street drugs, three chemical additives, two new pharmaceuticals, a paperback-sized insectoid drone |
-| `black_chrome_plus` | Black Chrome+ | Bonus items that didn't fit inside Black Chrome, plus a discussion on fashion and Linear Frames |
-| `achievements_and_loot_boxes` | Achievements and Loot Boxes | April Fool's DLC; video game mechanics as in-world generator |
-| `stickball` | Stickball | The sport of the street, played with electrified balls and electromagnetic lacrosse sticks |
-| `the_dreaded_punknaught` | The Dreaded Punknaught | A jury-rigged vehicle custom-made for maximum violence at maximum speed |
-| `corporate_conapts_and_studio_apartments` | Corporate Conapts and Studio Apartments | Housing / location content |
-| `halloween_screamsheets` | Halloween Screamsheets | Horror-themed mission hooks |
-| `12_days_of_gearmas` | The 12 Days of Gearmas | Holiday gear drops |
+| Hornets Pharmacy | Hornet's Pharmacy | Four new street drugs, three chemical additives, two new pharmaceuticals, a paperback-sized insectoid drone |
+| Black Chrome Plus | Black Chrome+ | Bonus items that didn't fit inside Black Chrome, plus a discussion on fashion and Linear Frames |
+| Achievements And Loot Boxes | Achievements and Loot Boxes | April Fool's DLC; video game mechanics as in-world generator |
+| Stickball | Stickball | The sport of the street, played with electrified balls and electromagnetic lacrosse sticks |
+| The Dreaded Punknaught | The Dreaded Punknaught | A jury-rigged vehicle custom-made for maximum violence at maximum speed |
+| Corporate Conapts And Studio Apartments | Corporate Conapts and Studio Apartments | Housing / location content |
+| Halloween Screamsheets | Halloween Screamsheets | Horror-themed mission hooks |
+| 12 Days Of Gearmas | The 12 Days of Gearmas | Holiday gear drops |
 
 ---
 
-### interface_red_vol_5
+### Interface RED Vol 5
 
 **Interface RED Vol. 5** (January 2026)
 
@@ -249,14 +251,14 @@ DLCs included: Breaking Your Stuff, Did Someone Say Murder?, Chasing the Rabbit,
 
 | DLC ID | Title | Summary |
 |--------|-------|---------|
-| `breaking_your_stuff` | Breaking Your Stuff | Optional system expanding item damage with durability, maintenance, and malfunctions |
-| `did_someone_say_murder` | Did Someone Say Murder? | Investigation / mystery content |
-| `chasing_the_rabbit` | Chasing the Rabbit | Roller derby rules with cybernetic enhancements |
-| `your_new_best_friend` | Your New Best Friend | Companion / pet rules |
-| `all_about_agents` | All About Agents | Rules for using Agents as player or GM tool |
-| `screamsheet_generator` | Screamsheet Generator | Random mission / news table generator |
-| `toggles_temple` | Toggle's Temple | Underground armory / gun range / obstacle course location |
-| `12_days_of_redmas` | 12 Days of REDmas | Lore and stats for twelve items that have shown up in previous Cyberpunk RED art |
+| Breaking Your Stuff | Breaking Your Stuff | Optional system expanding item damage with durability, maintenance, and malfunctions |
+| Did Someone Say Murder | Did Someone Say Murder? | Investigation / mystery content |
+| Chasing The Rabbit | Chasing the Rabbit | Roller derby rules with cybernetic enhancements |
+| Your New Best Friend | Your New Best Friend | Companion / pet rules |
+| All About Agents | All About Agents | Rules for using Agents as player or GM tool |
+| Screamsheet Generator | Screamsheet Generator | Random mission / news table generator |
+| Toggles Temple | Toggle's Temple | Underground armory / gun range / obstacle course location |
+| 12 Days Of Redmas | 12 Days of REDmas | Lore and stats for twelve items that have shown up in previous Cyberpunk RED art |
 
 ---
 
@@ -264,47 +266,33 @@ DLCs included: Breaking Your Stuff, Did Someone Say Murder?, Chasing the Rabbit,
 
 ```
 source/
-├── index.md                          ← this file
+├── Index.md                          ← this file
 ├── PDF/                              ← source PDFs
-│   ├── core_rulebook.pdf
-│   ├── black_chrome.pdf
-│   ├── danger_gal_dossier.pdf
-│   ├── tales_street_stories.pdf
-│   ├── tales_hope_reborn.pdf
-│   ├── single_player_mode.pdf
-│   ├── micro_chrome.pdf
-│   ├── mixing_drinks_changing_lives.pdf
-│   ├── danger_gal_dossier_plus.pdf
-│   ├── night_market_index.pdf
-│   ├── interface_red_vol_1.pdf
-│   ├── interface_red_vol_2.pdf
-│   ├── interface_red_vol_3.pdf
-│   ├── interface_red_vol_4.pdf
-│   └── interface_red_vol_5.pdf
-├── core/
-│   └── core_rulebook/
-├── sourcebooks/
-│   ├── black_chrome/
-│   ├── danger_gal_dossier/
-│   └── night_city_2045/
-├── adventures/
-│   ├── tales_street_stories/
-│   ├── tales_hope_reborn/
-│   └── single_player_mode/
-├── accessories/
-│   ├── micro_chrome/
-│   ├── netrunning_deck/
-│   └── trauma_deck/
-├── dlc/
-│   ├── mixing_drinks_changing_lives/
-│   ├── danger_gal_dossier_plus/
-│   └── night_market_index/
-└── interface_red/
-    ├── vol_1/
-    ├── vol_2/
-    ├── vol_3/
-    ├── vol_4/
-    └── vol_5/
+│   ├── Core Rulebook.pdf
+│   ├── Black Chrome.pdf
+│   ├── Danger Gal Dossier.pdf
+│   ├── Tales of the RED Street Stories.pdf
+│   ├── Tales of the RED Hope Reborn.pdf
+│   ├── Single Player Mode.pdf
+│   ├── Micro Chrome.pdf
+│   ├── Mixing Drinks Changing Lives.pdf
+│   ├── Danger Gal Dossier+.pdf
+│   ├── Night Market Index.pdf
+│   ├── Interface RED Vol 1.pdf
+│   ├── Interface RED Vol 2.pdf
+│   ├── Interface RED Vol 3.pdf
+│   ├── Interface RED Vol 4.pdf
+│   └── Interface RED Vol 5.pdf
+├── Rules/
+│   └── Mechanics/
+└── Source Text/
+    ├── Index.md                      ← catalog of all book indexes
+    ├── Core Rulebook/
+    ├── Black Chrome/
+    ├── Danger Gal Dossier/
+    └── ...
 ```
 
-Each publication folder will hold extracted data files (mechanics, items, NPCs, locations, tables) as they are added. Source PDFs live in `PDF/`.
+Each publication folder has an `Index.md` with the book description, PDF link, and linked section files. Source PDFs live in `PDF/`.
+
+**Source text indexes:** [Source Text catalog](<Source Text/Index.md>) — all 15 books extracted.
