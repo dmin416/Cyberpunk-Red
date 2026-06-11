@@ -27,7 +27,7 @@ Cyberpunk Characters are survivors in a tough, grim world, faced with life-and-d
 
 ### As a Cyberpunk Player
 
-As a Cyberpunk roleplayer, it's up to you to find that cause and go to the wall with it. This is the essence of Cyberpunk—playing your Character with the proper disaffected, cynical-yet-idealistic style. Whether you're a biker with leathered skin and metal claws, or a debuntante in satin sporting the latest in designer cyberoptics, you're going to need a certain panache—a certain flair—in portraying yourself. To achieve the essence of the 2000s, you need to master three concepts:
+As a Cyberpunk roleplayer, it's up to you to find that cause and go to the wall with it. This is the essence of Cyberpunk—playing your Character with the proper disaffected, cynical-yet-idealistic style. Whether you're a biker with leathered skin and metal claws, or a debutante in satin sporting the latest in designer cyberoptics, you're going to need a certain panache—a certain flair—in portraying yourself. To achieve the essence of the 2000s, you need to master three concepts:
 
 #### #1 Style Over Substance
 

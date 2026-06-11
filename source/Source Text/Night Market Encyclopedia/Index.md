@@ -29,6 +29,7 @@ Full weapons catalog by category. Foundational weapons are *italicized* in the N
 - [Thrown Weapons](<01 Weapons.md#thrown-weapons>)
 - [Explosives](<01 Weapons.md#explosives>)
 - [Grenades](<01 Weapons.md#grenades>)
+- [CEMK Weapons](<01 Weapons.md#cemk-weapons>)
 
 ### [Armor](<02 Armor.md>)
 
@@ -67,8 +68,8 @@ Full cyberware catalog by category. Foundational cyberware is *italicized* in th
 - [Internal Body Cyberware](<04 Cyberware.md#internal-body-cyberware>)
 - [Bioexotic Packages](<04 Cyberware.md#bioexotic-packages>)
 - [FBC Bodies](<04 Cyberware.md#fbc-bodies>)
-- [Cyberware Enhancements](<04 Cyberware.md#cyberware-enhancements>)
 - [Cyberware Alternatives](<04 Cyberware.md#cyberware-alternatives>)
+- [CEMK Cyberware](<04 Cyberware.md#cemk-cyberware>)
 
 ### [Fashion](<05 Fashion.md>)
 
@@ -255,12 +256,14 @@ Gear sorted by in-world manufacturer. Excludes generics, ELO gold, and individua
 All ammunition types from the Night Market Index.
 
 - [Ammunition](<11 Ammunition.md#ammunition>)
+- [CEMK Ammunition](<11 Ammunition.md#cemk-ammunition>)
 
 ### [Weapon Attachments](<12 Weapon Attachments.md>)
 
 All weapon attachments from the Night Market Index.
 
 - [Weapon Attachments](<12 Weapon Attachments.md#weapon-attachments>)
+- [CEMK Weapon Attachments](<12 Weapon Attachments.md#cemk-weapon-attachments>)
 
 ## Files
 

@@ -1,5 +1,5 @@
 # Single Shot Pack
-Book pages 10â€“37
+Book pages 10–37
 Ten pregens and six NET architectures for one-shot play.
 
 ## Contents
@@ -7,16 +7,16 @@ Ten pregens and six NET architectures for one-shot play.
 - [Single Shot Pack](<03 Single Shot Pack.md#single-shot-pack>) (p. 10)
 - [Using the Pregens as NPCs](<03 Single Shot Pack.md#using-the-pregens-as-npcs>) (p. 10)
 - [Reading the Pregen Character Sheets](<03 Single Shot Pack.md#reading-the-pregen-character-sheets>) (p. 10)
-- [Forty â€” Rockerboy](<03 Single Shot Pack.md#forty--rockerboy>) (p. 12)
-- [Grease â€” Fixer](<03 Single Shot Pack.md#grease--fixer>) (p. 14)
-- [Mover â€” Solo](<03 Single Shot Pack.md#mover--solo>) (p. 16)
-- [Racer â€” Nomad](<03 Single Shot Pack.md#racer--nomad>) (p. 18)
-- [Redeye â€” Netrunner](<03 Single Shot Pack.md#redeye--netrunner>) (p. 20)
-- [Torch â€” Tech](<03 Single Shot Pack.md#torch--tech>) (p. 22)
-- [Redtail â€” Medtech](<03 Single Shot Pack.md#redtail--medtech>) (p. 24)
-- [24/7 â€” Media](<03 Single Shot Pack.md#247--media>) (p. 26)
-- [Suri "Cavalry" Navarro â€” Lawman](<03 Single Shot Pack.md#suri-cavalry-navarro--lawman>) (p. 28)
-- [Chanda Mishra â€” Exec](<03 Single Shot Pack.md#chanda-mishra--exec>) (p. 30)
+- [Forty — Rockerboy](<03 Single Shot Pack.md#forty--rockerboy>) (p. 12)
+- [Grease — Fixer](<03 Single Shot Pack.md#grease--fixer>) (p. 14)
+- [Mover — Solo](<03 Single Shot Pack.md#mover--solo>) (p. 16)
+- [Racer — Nomad](<03 Single Shot Pack.md#racer--nomad>) (p. 18)
+- [Redeye — Netrunner](<03 Single Shot Pack.md#redeye--netrunner>) (p. 20)
+- [Torch — Tech](<03 Single Shot Pack.md#torch--tech>) (p. 22)
+- [Redtail — Medtech](<03 Single Shot Pack.md#redtail--medtech>) (p. 24)
+- [24/7 — Media](<03 Single Shot Pack.md#247--media>) (p. 26)
+- [Suri "Cavalry" Navarro — Lawman](<03 Single Shot Pack.md#suri-cavalry-navarro--lawman>) (p. 28)
+- [Chanda Mishra — Exec](<03 Single Shot Pack.md#chanda-mishra--exec>) (p. 30)
 - [NET Architectures](<03 Single Shot Pack.md#net-architectures>) (p. 32)
   - [Conapt Security](<03 Single Shot Pack.md#conapt-security>) (p. 32)
   - [Starter Drone Rig](<03 Single Shot Pack.md#starter-drone-rig>) (p. 32)
@@ -70,7 +70,7 @@ There's a lot of information packed into these single page Character Sheets, esp
 
 ## Pregenerated Characters
 
-### Forty â€” Rockerboy
+### Forty — Rockerboy
 **Role Ability:** Charismatic Impact 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -96,9 +96,9 @@ There's a lot of information packed into these single page Character Sheets, esp
 #### Weapons
 | Weapon | DMG | Ammo | ROF | Notes |
 |--------|-----|------|-----|-------|
-| Heavy Melee Weapon | 3d6 | â€” | 2 | 2 handed, not concealable |
+| Heavy Melee Weapon | 3d6 | — | 2 | 2 handed, not concealable |
 | Very Heavy Pistol | 4d6 | 8 | 1 | not concealable. Mags: 7 |
-| Tear Gas Grenade x2 | â€” | â€” | â€” | Anyone w/ meat eyes must beat a Resist/Torture Drugs Check DV13 or get the Damaged Eye Critical Injury for the next minute. |
+| Tear Gas Grenade x2 | — | — | — | Anyone w/ meat eyes must beat a Resist/Torture Drugs Check DV13 or get the Damaged Eye Critical Injury for the next minute. |
 
 #### Armor
 | Location | Armor | SP | Penalty |
@@ -138,7 +138,7 @@ When a Rockerboy wants to make use of their Charismatic Impact on a fan or group
 
 ---
 
-### Grease â€” Fixer
+### Grease — Fixer
 **Role Ability:** Operator 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -164,7 +164,7 @@ When a Rockerboy wants to make use of their Charismatic Impact on a fan or group
 #### Weapons
 | Weapon | DMG | Ammo | ROF | Notes |
 |--------|-----|------|-----|-------|
-| Light Melee Weapon | 1d6 | â€” | 2 | 1 handed, concealable |
+| Light Melee Weapon | 1d6 | — | 2 | 1 handed, concealable |
 | Heavy Pistol | 3d6 | 8 | 2 | concealable. Mags: 13 |
 | Very Heavy Pistol | 4d6 | 8 | 1 | not concealable. Mags: 13 |
 
@@ -205,7 +205,7 @@ You realized fast that you weren't ever going to get a Corporate job or be tough
 
 ---
 
-### Mover â€” Solo
+### Mover — Solo
 **Role Ability:** Combat Awareness 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -231,7 +231,7 @@ You realized fast that you weren't ever going to get a Corporate job or be tough
 #### Weapons
 | Weapon | DMG | Ammo | ROF | Notes |
 |--------|-----|------|-----|-------|
-| Heavy Melee Weapon | 3d6 | â€” | 2 | 2 handed, not concealable |
+| Heavy Melee Weapon | 3d6 | — | 2 | 2 handed, not concealable |
 | Assault Rifle | 5d6 | 25 | 1 | autofire, not concealable. Mags: 3 |
 | Very Heavy Pistol | 4d6 | 8 | 1 | not concealable. Mags: 8 |
 
@@ -268,7 +268,7 @@ When combat begins, anytime outside of combat, or in combat with an Action, a So
 
 ---
 
-### Racer â€” Nomad
+### Racer — Nomad
 **Role Ability:** MOTO 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -294,7 +294,7 @@ When combat begins, anytime outside of combat, or in combat with an Action, a So
 #### Weapons
 | Weapon | DMG | Ammo | ROF | Notes |
 |--------|-----|------|-----|-------|
-| Heavy Melee Weapon | 3d6 | â€” | 2 | 2 handed, not concealable |
+| Heavy Melee Weapon | 3d6 | — | 2 | 2 handed, not concealable |
 | Very Heavy Pistol | 4d6 | 8 | 1 | not concealable. Mags: 13 |
 
 #### Armor
@@ -323,7 +323,7 @@ When combat begins, anytime outside of combat, or in combat with an Action, a So
 **Cash:** 500eb
 
 ### ▶ Player: Nomad ◀
-Years ago, the Corps drove your family off the farm. They rolled in, took over the land, and put rent-a-cops all over the place. But that was before the War. You were loners, homeless, until you created a Nomad Pack of nearly two-hundred members. Back then, your Pack was crammed into a huge, ragtag fleet of cars, vans, buses, and RVs roaming the freeways looking for supplies, odd jobs, and spare parts in a fragmented world. The Pack was your homeâ€”it had teachers, Medtechs, leaders, and mechanicsâ€”a virtual town on wheels in which everyone was related by marriage or kinship. But in the Time of the Red, your Nomad Pack has evolved. Your knowledge of roadcraftâ€”of how to get between the safezones over the savage highways has allowed you to become the masters of getting people, supplies, and materials to a world that desperately needs them.
+Years ago, the Corps drove your family off the farm. They rolled in, took over the land, and put rent-a-cops all over the place. But that was before the War. You were loners, homeless, until you created a Nomad Pack of nearly two-hundred members. Back then, your Pack was crammed into a huge, ragtag fleet of cars, vans, buses, and RVs roaming the freeways looking for supplies, odd jobs, and spare parts in a fragmented world. The Pack was your home—it had teachers, Medtechs, leaders, and mechanics—a virtual town on wheels in which everyone was related by marriage or kinship. But in the Time of the Red, your Nomad Pack has evolved. Your knowledge of roadcraft—of how to get between the safezones over the savage highways has allowed you to become the masters of getting people, supplies, and materials to a world that desperately needs them.
 **Role Ability: MOTO (Rank 4)**
 A Nomad adds their Moto Rank to any vehicle operation (already added to Drive Land Vehicle) or vehicle repair Skill Check they make. In addition, your Nomad has possession of the following vehicle, loaned to them from their Nomad Family motor pool.
 | Vehicle | Type | Description |
@@ -340,7 +340,7 @@ A Nomad adds their Moto Rank to any vehicle operation (already added to Drive La
 
 ---
 
-### Redeye â€” Netrunner
+### Redeye — Netrunner
 **Role Ability:** Interface 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -417,7 +417,7 @@ Your Interface Rank + Program Bonus or ATK + 1d10
 
 ---
 
-### Torch â€” Tech
+### Torch — Tech
 **Role Ability:** Maker 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -445,7 +445,7 @@ Your Interface Rank + Program Bonus or ATK + 1d10
 | Weapon | DMG | Ammo | ROF | Notes |
 |--------|-----|------|-----|-------|
 | Shotgun | 5d6 | 4 | 1 | not concealable. Mags: 25 shell |
-| Flashbang Grenade | â€” | â€” | â€” | Anyone hit must beat a Resist/Torture Drugs Check DV15 or get the Damaged Eye and Damaged Ear Critical Injuries for the next minute. |
+| Flashbang Grenade | — | — | — | Anyone hit must beat a Resist/Torture Drugs Check DV15 or get the Damaged Eye and Damaged Ear Critical Injuries for the next minute. |
 
 #### Armor
 | Location | Armor | SP | Penalty |
@@ -475,7 +475,7 @@ Your Interface Rank + Program Bonus or ATK + 1d10
 **Cash:** 500eb
 
 ### ▶ Player: Tech ◀
-You can't leave anything aloneâ€”if it sits near you for more than five minutes, you've disassembled it and made it into something new. You've always got at least two screwdrivers and a wrench in your pockets. Computer down? No problem. Hydrogen burner out in your Metrocar? No problem. Can't get the video to run or your interface glitching? No problem. You make your living building, fixing, and modifyingâ€”a crucial occupation in a technological world recovering from a War that broke the back of the supply chain.
+You can't leave anything alone—if it sits near you for more than five minutes, you've disassembled it and made it into something new. You've always got at least two screwdrivers and a wrench in your pockets. Computer down? No problem. Hydrogen burner out in your Metrocar? No problem. Can't get the video to run or your interface glitching? No problem. You make your living building, fixing, and modifying—a crucial occupation in a technological world recovering from a War that broke the back of the supply chain.
 **Role Ability: Maker (Rank 4)**
 **▶ Field Expertise**
 Add your Rank in this Specialty to any Basic Tech or Cybertech Skill Check you make for any Non-Maker Specialty purpose. Additionally, as long as you have at least one rank in this specialty, instead of attempting a lengthy full repair, you can elect to instead temporarily repair your target (at the same DV of a typical repair for the item) to perfect condition as an Action (with full SP and HP, if applicable). You add your rank in Field Expertise to this roll. This jury-rigging holds for 10 minutes for each rank you have in this specialty.
@@ -495,7 +495,7 @@ To make an item, you roll TECH + the Tech Skill that the item is typically repai
 
 ---
 
-### Redtail â€” Medtech
+### Redtail — Medtech
 **Role Ability:** Medicine 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -527,7 +527,7 @@ To make an item, you roll TECH + the Tech Skill that the item is typically repai
 | Weapon | DMG | Ammo | ROF | Notes |
 |--------|-----|------|-----|-------|
 | Assault Rifle | 5d6 | 25 | 1 | autofire; not concealable; Mags: 4 |
-| Smoke Grenade x2 | â€” | â€” | â€” | Obscures a 10m/yd x 10m/yd area with smoke for one minute. Penalty for performing most actions obscured by smoke is -4. |
+| Smoke Grenade x2 | — | — | — | Obscures a 10m/yd x 10m/yd area with smoke for one minute. Penalty for performing most actions obscured by smoke is -4. |
 
 #### Armor
 | Location | Armor | SP | Penalty |
@@ -569,7 +569,7 @@ For every point you allocate to Medical Tech (Cryosystem Operation), you gain 1 
 
 ---
 
-### 24/7 â€” Media
+### 24/7 — Media
 **Role Ability:** Credibility 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -640,7 +640,7 @@ A Media's main ability is publishing stories. Your Credibility Rank determines w
 
 ---
 
-### Suri "Cavalry" Navarro â€” Lawman
+### Suri "Cavalry" Navarro — Lawman
 **Role Ability:** Backup 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -694,17 +694,17 @@ A Media's main ability is publishing stories. Your Credibility Rank determines w
 **Cash:** 500eb
 | Backup Type | Description | Combat # | SP | HP | MOVE & BODY |
 |-------------|-------------|----------|----|----|-------------|
-| Local Beat Cops | 4 cops. Arrive in 2 compact groundcars. Armed with Heavy Pistols (3D6 DMG, ROF 2) and wearing KevlarÂ® (SP7) | 10 | 7 | 25 | 5 |
+| Local Beat Cops | 4 cops. Arrive in 2 compact groundcars. Armed with Heavy Pistols (3D6 DMG, ROF 2) and wearing Kevlar® (SP7) | 10 | 7 | 25 | 5 |
 
 ### ▶ Player: Lawman ◀
-There used to be a big City Force, but most of the Old Guard in NCPD have been thrown out on their own to keep what peace they can. The ones who remain still take the Badge seriously; they work to keep people safe and make some kind of stand against chaos. Even if you'd rather just walk a beat, if you're a professional Lawman of any stripe, you're stuck carrying high-caliber weapons, most of them full-auto types, wearing a KevlarÂ® vest that'll stop 850ft/lbs. per square inchâ€”and often you're still outgunned and outflanked. Half the gangs were cybered up to begin with: super speed, super reflexes, could see in the dark, carried weapons in their arms...and that was before the War and the Fall of the Towers pumped a metric ton of milspec cybertech into the Night Markets. The other half of the guys on The Street are freelance Corporate mercs who used to have jobs during the War; hired to enforce Corp armies disbanded by the New United States' goon squads. Now they're the goon squads and you're trying to keep them under control too.
+There used to be a big City Force, but most of the Old Guard in NCPD have been thrown out on their own to keep what peace they can. The ones who remain still take the Badge seriously; they work to keep people safe and make some kind of stand against chaos. Even if you'd rather just walk a beat, if you're a professional Lawman of any stripe, you're stuck carrying high-caliber weapons, most of them full-auto types, wearing a Kevlar® vest that'll stop 850ft/lbs. per square inch—and often you're still outgunned and outflanked. Half the gangs were cybered up to begin with: super speed, super reflexes, could see in the dark, carried weapons in their arms...and that was before the War and the Fall of the Towers pumped a metric ton of milspec cybertech into the Night Markets. The other half of the guys on The Street are freelance Corporate mercs who used to have jobs during the War; hired to enforce Corp armies disbanded by the New United States' goon squads. Now they're the goon squads and you're trying to keep them under control too.
 **Role Ability: Backup (Rank 4)**
 When in danger, you can call on Backup in the form of Beat Cops (or their local equivalent). As an Action, you attempt to roll equal or lower than your Backup Rank on a d10 to get someone to respond to your call. If you abuse this, your Boss will throw you off the force or fine you.
 After someone responds to your call, you roll a d6 to find out in how many rounds your backup will arrive on the scene. If you roll a 6 on this roll, instead of your typical backup, the backup that arrives will be of the next highest level of backup, unless you are Rank 10, in which case two separate backup groups will arrive. If nobody responds to your call, you can always try your backup call again next turn.
 
 ---
 
-### Chanda Mishra â€” Exec
+### Chanda Mishra — Exec
 **Role Ability:** Teamwork 4
 | INT | REF | DEX | TECH | COOL | WILL | LUCK | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|------|-----|
@@ -755,7 +755,7 @@ After someone responds to your call, you roll a d6 to find out in how many round
 **Cash:** 500eb
 
 ### ▶ Player: Exec ◀
-Things changed when the largest Megacorps on the planet got into a major war that was equal to anything any real national governments could have thrown down. Your life as a junior executive is anything but easy. There are those underneath you who'd kill for a shot at your job. Literally. There are those over you who'd kill to keep you out of their jobs. Literally. And they're not kidding about the killingâ€”every up-and-comer in the Corporation has their own Team of Solos and Netrunners to cover important pet projects.
+Things changed when the largest Megacorps on the planet got into a major war that was equal to anything any real national governments could have thrown down. Your life as a junior executive is anything but easy. There are those underneath you who'd kill for a shot at your job. Literally. There are those over you who'd kill to keep you out of their jobs. Literally. And they're not kidding about the killing—every up-and-comer in the Corporation has their own Team of Solos and Netrunners to cover important pet projects.
 **Role Ability: Teamwork (Rank 4)**
 Loyalty is a shifting stat possessed by team members; an Exec must (during every game session) do things to promote Loyalty and not lose it. When a task is given to a Team member by the Exec, the GM must roll 1d6 under the Team member's current Loyalty. If the check is failed, the Team Member may refuse or botch the assignment or otherwise turn on the Exec. Choose either the Driver or Netrunner to be your team member.
 
@@ -794,7 +794,7 @@ Just because you're paranoid doesn't mean they aren't out to get you. Successful
 | Floor | Content | DV |
 |-------|---------|-----|
 | 1 | Password | 6 |
-| 2 | Black ICE: Wisp | â€” |
+| 2 | Black ICE: Wisp | — |
 | 3 | Control Node: Ground Drone | 6 |
 
 ### Starter Drone Rig
@@ -806,7 +806,7 @@ Drone piloting can be an exciting hobby... or an excellent way to beef up an Edg
 | Floor | Content | DV |
 |-------|---------|-----|
 | 1 | Password | 6 |
-| 2 | â€” | â€” |
+| 2 | — | — |
 | 3 | Control Node: Mini Air Drone • Black ICE: Raven | 6 |
 
 ### Oasis Security
@@ -820,7 +820,7 @@ Most Continental Brands Oasis stores implement a NET Architecture designed to au
 | 1 | Password | 6 |
 | 2 | Control Node: Observation Cameras (1 inside, 1 outside) | 8 |
 | 3 | Password | 8 |
-| 4 | Black ICE: Hellhound | â€” |
+| 4 | Black ICE: Hellhound | — |
 | 5 | Control Node: Automated Turret (located inside store) | 8 |
 
 ### Clinic Security
@@ -835,7 +835,7 @@ This NET Architecture is the sort a clinic or other small business might employ 
 | 2 | Control Node: Observation Cameras (1 outside, 1 inside elevator) | 6 |
 | 3 | File: Appointment schedule or similar data | 6 |
 | 4 | Password | 6 |
-| 5 | Black ICE: Wisp | â€” |
+| 5 | Black ICE: Wisp | — |
 | 6 | Control Node: Sleep Gas Elevator (located inside elevator) | 8 |
 
 ### Small Corp Facility
@@ -850,8 +850,8 @@ Not every Corp facility is a large, sprawling campus or starscraper. Corps often
 | 2 | File: Appointment schedule or similar data | 8 |
 | 1a | Password | 8 |
 | 1b | Password | 10 |
-| 2a | â€” | â€” |
-| 2b | â€” | â€” |
+| 2a | — | — |
+| 2b | — | — |
 | 3a | Black ICE: Raven | 6 |
 | 3b | Black ICE: Hellhound • Control Node: Cleaning Drones | 10 |
 | 4b | Black ICE: Kraken • Control Node: Cameras (1/floor) • Control Node: Large Air Drone | 10 |
@@ -867,9 +867,9 @@ This NET Architecture is designed for use by those who want to keep their secret
 | 1 | Password | 10 |
 | 2 | File: Vault content manifest | 6 |
 | 3 | Control Node: Observation Cameras (1 outside vault, 1 inside vault) | 8 |
-| 4 | Black ICE: Hellhound • Killer | â€” |
+| 4 | Black ICE: Hellhound • Killer | — |
 | 5 | Control Node: Automated Blood Swarm (located inside vault) | 10 |
 | 6 | Control Node: Vault Door | 10 |
-| 7 | Black ICE: Hellhound • Scorpion | â€” |
+| 7 | Black ICE: Hellhound • Scorpion | — |
 | 8 | File: Sensitive Data | 10 |
 | 9 | File: Very Sensitive Data | 12 |

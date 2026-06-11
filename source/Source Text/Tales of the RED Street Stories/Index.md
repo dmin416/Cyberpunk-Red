@@ -8,72 +8,83 @@ A collection of nine never-before-seen full-length missions.
 
 ### [Introduction](<01 Introduction.md>)
 
-How to run the missions.
+How to run the missions and Beat Chart overview.
 
-- [Introduction](<01 Introduction.md#introduction>)
-
+- [Welcome, Gamemaster](<01 Introduction.md#welcome-gamemaster>) (p. 4)
+- [Mission Overview](<01 Introduction.md#mission-overview>) (p. 4)
+- [Beat Chart System](<01 Introduction.md#beat-chart-system>) (p. 5)
 
 ### [A Night at the Opera](<02 A Night at the Opera.md>)
 
-Mission at Night City Symphony Hall.
+University District kidnappings and Lord Ruthven. **3–4 hours.**
 
-- [A Night at the Opera](<02 A Night at the Opera.md#a-night-at-the-opera>)
-
+- [Beat Chart](<02 A Night at the Opera.md#beat-chart>) (p. 6)
+- [Climax (Monster Hunt)](<02 A Night at the Opera.md#climax-monster-hunt>) (p. 12)
+- [NPC Stat Blocks](<02 A Night at the Opera.md#npcs-obstacles--net-architectures>) (p. 15)
 
 ### [Agents of Desire](<03 Agents of Desire.md>)
 
-Mission at La Lune Bleue.
+La Lune Bleue and the line between Agent and human. **4–6 hours.**
 
-- [Agents of Desire](<03 Agents of Desire.md#agents-of-desire>)
-
+- [Beat Chart](<03 Agents of Desire.md#beat-chart>) (p. 20)
+- [Cliff (High Class Joint)](<03 Agents of Desire.md#cliff-high-class-joint>) (p. 26)
+- [Three Endings](<03 Agents of Desire.md#resolution>) (p. 35)
 
 ### [A Bucket Full of Popcorn-Flavored Kibble](<04 A Bucket Full of Popcorn-Flavored Kibble.md>)
 
-Mission on a movie lot.
+Senait Sisters film lot — *The Parisian Hostess*. **3–5 hours.**
 
-- [A Bucket Full of Popcorn-Flavored Kibble](<04 A Bucket Full of Popcorn-Flavored Kibble.md#a-bucket-full-of-popcorn-flavored-kibble>)
-
+- [Beat Chart](<04 A Bucket Full of Popcorn-Flavored Kibble.md#beat-chart>) (p. 38)
+- [Dev (Audition)](<04 A Bucket Full of Popcorn-Flavored Kibble.md#dev-audition>) (p. 40)
+- [Climax (The Big Scene)](<04 A Bucket Full of Popcorn-Flavored Kibble.md#climax-the-big-scene>) (p. 48)
 
 ### [Drummer and the Whale](<05 Drummer and the Whale.md>)
 
-Mission involving a Pacific salvage job.
+Pacific salvage and a pre-war signal. **5–7 hours.**
 
-- [Drummer and the Whale](<05 Drummer and the Whale.md#drummer-and-the-whale>)
-
+- [Beat Chart](<05 Drummer and the Whale.md#beat-chart>) (p. 52)
+- [Dev (Dive! Dive! Dive!)](<05 Drummer and the Whale.md#dev-dive-dive-dive>) (p. 57)
+- [Climax (The Prize)](<05 Drummer and the Whale.md#climax-the-prize>) (p. 68)
 
 ### [Haven't Got a Stitch to Wear](<06 Haven't Got a Stitch to Wear.md>)
 
-Mission aboard the Rambling Rose.
+Rambling Rose courier crisis and Ms. Mynah's Night Market. **4–6 hours.**
 
-- [Haven't Got a Stitch to Wear](<06 Haven't Got a Stitch to Wear.md#havent-got-a-stitch-to-wear>)
-
+- [Beat Chart](<06 Haven't Got a Stitch to Wear.md#beat-chart>) (p. 74)
+- [Dev (The Night Market)](<06 Haven't Got a Stitch to Wear.md#dev-the-night-market>) (p. 76)
+- [Climax (Negotiation or Combat)](<06 Haven't Got a Stitch to Wear.md#climax-negotiation-or-combat>) (p. 86)
 
 ### [Reaping the Reaper](<07 Reaping the Reaper.md>)
 
-Mission involving a Reaper drone.
+LCRA tower and the Reaper AI. **5–7 hours.**
 
-- [Reaping the Reaper](<07 Reaping the Reaper.md#reaping-the-reaper>)
-
+- [Beat Chart](<07 Reaping the Reaper.md#beat-chart>) (p. 92)
+- [Cliff (Drone Fight)](<07 Reaping the Reaper.md#cliff-drone-fight>) (p. 94)
+- [Dual Resolutions](<07 Reaping the Reaper.md#resolution-mindnutz-lover>) (p. 108)
 
 ### [Staying Vigilant](<08 Staying Vigilant.md>)
 
-Mission involving Hardhat's warehouse.
+Hardhat's warehouse and a rumored cyberpsycho. **4–5 hours.**
 
-- [Staying Vigilant](<08 Staying Vigilant.md#staying-vigilant>)
-
+- [Beat Chart](<08 Staying Vigilant.md#beat-chart>) (p. 112)
+- [Dev (Hardhat's Warehouse)](<08 Staying Vigilant.md#dev-hardhats-warehouse>) (p. 116)
+- [Climax (Showdown)](<08 Staying Vigilant.md#climax-showdown>) (p. 122)
 
 ### [Bathed in Red](<09 Bathed in Red.md>)
 
-Mission centered on Delirium and home.
+Part one — Delirium, Home, and Red Knight. **5–7 hours.**
 
-- [Bathed in Red](<09 Bathed in Red.md#bathed-in-red>)
-
+- [Beat Chart](<09 Bathed in Red.md#beat-chart>) (p. 128)
+- [Dev (Going Home)](<09 Bathed in Red.md#dev-going-home>) (p. 135)
+- [Continues in One Red Night](<10 One Red Night.md>)
 
 ### [One Red Night](<10 One Red Night.md>)
 
-Mission in Pacifica and Seral Grove.
+Part two — Pacifica, Seral Grove, Red Knight finale. **6–8 hours.**
 
-- [One Red Night](<10 One Red Night.md#one-red-night>)
+- [Beat Chart](<10 One Red Night.md#beat-chart>) (p. 146)
+- [Follow-up to Bathed in Red](<09 Bathed in Red.md>)
+- [Climax (Red Knight)](<10 One Red Night.md#climax-red-knight>) (p. 158)
 
 ## Files
 

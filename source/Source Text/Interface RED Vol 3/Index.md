@@ -137,9 +137,19 @@ Holiday cyberware sequel with twelve 2020 conversions and the parody song "A Lot
 
 ### [Going Metal](<11 Going Metal.md>)
 
-Exclusive: full body conversion detail.
+Exclusive: Samantha introduces Full Body Conversions—rules, 13 FBC bodies, new cyberware, and the Bazooka Joe worked example.
 
-- [Going Metal](<11 Going Metal.md#going-metal>)
+- [Going Metal](<11 Going Metal.md#going-metal>) (p. 92)
+- [Popping Your Metal Cherry](<11 Going Metal.md#popping-your-metal-cherry>) (p. 93)
+- [FBC Baselines](<11 Going Metal.md#fbc-baselines>) (p. 93)
+- [Switching Bodies](<11 Going Metal.md#switching-bodies>) (p. 94)
+- [Bazooka Joe Goes Metal](<11 Going Metal.md#bazooka-joe-goes-metal>) (p. 94)
+- [Full Body Conversion Bodies](<11 Going Metal.md#full-body-conversion-bodies>) (p. 95)
+- [New Cyberware and Gear](<11 Going Metal.md#new-cyberware-and-gear>) (p. 104)
+- [Reprinted Cyberware/Gear](<11 Going Metal.md#reprinted-cyberwaregear>) (p. 109)
+- [Thanks Doc](<11 Going Metal.md#thanks-doc>) (p. 110)
+- [FBC Bodies Master Table](<11 Going Metal.md#fbc-bodies-master-table>) (p. 110)
+- [New/Reprinted Cyberware Master Table](<11 Going Metal.md#newreprinted-cyberware-master-table>) (p. 111)
 
 
 ## Files

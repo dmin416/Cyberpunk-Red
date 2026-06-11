@@ -2,37 +2,196 @@
 
 **PDF:** [Danger Gal Dossier](<../../PDF/Danger Gal Dossier.pdf>) | 2023 | published
 
-The essential Night City factions and NPC sourcebook with over 600 locations, 99 stat blocks, mission framework, and faction dossiers.
+Night City faction dossiers, 111 NPC stat blocks, New Gear reprints, NPC creation guidelines, and the Beat Chart mission *The Incident*. Companion content in [Danger Gal Dossier+](<../Danger Gal Dossier+/Index.md>).
 
 ## Contents
 
 ### [Introduction](<01 Introduction.md>)
 
-Using Danger Gal Dossier, NPC templates, missions, and glossary.
+J Gray foreword, using the book, factions overview, NPC templates, and mission hook.
 
-- [Introduction](<01 Introduction.md#introduction>)
+- [Foreword](<01 Introduction.md#foreword>) (p. 4)
+- [Using Danger Gal Dossier](<01 Introduction.md#using-danger-gal-dossier>) (p. 5)
+- [The Factions](<01 Introduction.md#the-factions>) (p. 6)
+- [The Characters](<01 Introduction.md#the-characters>) (p. 6)
+- [Characters as Templates](<01 Introduction.md#characters-as-templates>) (p. 6)
+- [Creating Your Own NPCs](<01 Introduction.md#creating-your-own-npcs>) (p. 6)
+- [The Mission](<01 Introduction.md#the-mission>) (p. 6)
 
 
 ### [The Factions](<02 The Factions.md>)
 
-Faction dossiers with history, resources, goals, and NPC stat blocks.
+Reading character pages, glossary, Appleseed memo, and fifteen faction dossiers with NPC stat blocks.
 
-- [The Factions](<02 The Factions.md#the-factions>)
+- [Reading the Character Pages](<02 The Factions.md#reading-the-character-pages>) (p. 7)
+- [A Glossary of Terms](<02 The Factions.md#a-glossary-of-terms>) (p. 7)
+- [Emergency Protocol Appleseed](<02 The Factions.md#emergency-protocol-appleseed>) (p. 8)
+- [6th Street](<02 The Factions.md#6th-street>) (p. 9)
+  - [Arbiter](<02 The Factions.md#arbiter>)
+  - [Coldfire](<02 The Factions.md#coldfire>)
+  - [Breacher](<02 The Factions.md#breacher>)
+  - [Knock!Knock!](<02 The Factions.md#knock-knock>)
+  - [Roof Diver](<02 The Factions.md#roof-diver>)
+- [The Bozos](<02 The Factions.md#the-bozos>) (p. 15)
+  - [Big Top](<02 The Factions.md#big-top>)
+  - [Blammo](<02 The Factions.md#blammo>)
+  - [Jester](<02 The Factions.md#jester>)
+  - [Tomfool](<02 The Factions.md#tomfool>)
+  - [Centwit](<02 The Factions.md#centwit>)
+  - [Dead Ringer (Blue)](<02 The Factions.md#dead-ringer-blue>)
+  - [Dead Ringer (Pink)](<02 The Factions.md#dead-ringer-pink>)
+  - [Finale](<02 The Factions.md#finale>)
+  - [Burt the Squirt](<02 The Factions.md#burt-the-squirt>)
+  - [Dunce](<02 The Factions.md#dunce>)
+  - [The Fool](<02 The Factions.md#the-fool>)
+- [Danger Gal Puma Squad](<02 The Factions.md#danger-gal-puma-squad>) (p. 27)
+  - [Pantera](<02 The Factions.md#pantera>)
+  - [Tigress](<02 The Factions.md#tigress>)
+  - [Doc Mittens](<02 The Factions.md#doc-mittens>)
+  - [Mouse](<02 The Factions.md#mouse>)
+  - [Lynx](<02 The Factions.md#lynx>)
+- [The Digital Divas](<02 The Factions.md#the-digital-divas>) (p. 33)
+  - [André Nez](<02 The Factions.md#andr-nez>)
+  - [Firewall](<02 The Factions.md#firewall>)
+  - [José Quispe](<02 The Factions.md#jos-quispe>)
+  - [Pat Rezin](<02 The Factions.md#pat-rezin>)
+  - [Sizzle Jams](<02 The Factions.md#sizzle-jams>)
+- [Edgerunners](<02 The Factions.md#edgerunners>) (p. 39)
+  - [Tetsuo](<02 The Factions.md#tetsuo>)
+  - [CrAB Lord](<02 The Factions.md#crab-lord>)
+  - [Tía Puño](<02 The Factions.md#t-a-pu-o>)
+  - [Backhand](<02 The Factions.md#backhand>)
+  - [Jumpshot](<02 The Factions.md#jumpshot>)
+  - [Derby](<02 The Factions.md#derby>)
+  - [Forty](<02 The Factions.md#forty>)
+  - [Grease](<02 The Factions.md#grease>)
+  - [Redeye](<02 The Factions.md#redeye>)
+  - [Saber](<02 The Factions.md#saber>)
+  - [Torch](<02 The Factions.md#torch>)
+  - [Crasher](<02 The Factions.md#crasher>)
+  - [Flasher](<02 The Factions.md#flasher>)
+  - [Hammer](<02 The Factions.md#hammer>)
+  - [Leverage](<02 The Factions.md#leverage>)
+- [Generation Red](<02 The Factions.md#generation-red>) (p. 57)
+  - [Blades](<02 The Factions.md#blades>)
+  - [Apex](<02 The Factions.md#apex>)
+  - [Tetra](<02 The Factions.md#tetra>)
+  - [Hi-Stick](<02 The Factions.md#hi-stick>)
+  - [Izzy](<02 The Factions.md#izzy>)
+  - [Lookout](<02 The Factions.md#lookout>)
+  - [Shredder](<02 The Factions.md#shredder>)
+  - [Wheelie](<02 The Factions.md#wheelie>)
+- [Maelstrom](<02 The Factions.md#maelstrom>) (p. 67)
+  - [Crusher](<02 The Factions.md#crusher>)
+  - [Warlock](<02 The Factions.md#warlock>)
+  - [The Pit](<02 The Factions.md#the-pit>)
+  - [Quake](<02 The Factions.md#quake>)
+  - [Flenser](<02 The Factions.md#flenser>)
+  - [Joe Pitt](<02 The Factions.md#joe-pitt>)
+  - [Ripper](<02 The Factions.md#ripper>)
+  - [Drop](<02 The Factions.md#drop>)
+  - [Raguel](<02 The Factions.md#raguel>)
+  - [Ghoul](<02 The Factions.md#ghoul>)
+- [NCPD Precinct #1](<02 The Factions.md#ncpd-precinct-1>) (p. 79)
+  - [Caliber](<02 The Factions.md#caliber>)
+  - [Hellhound](<02 The Factions.md#hellhound>)
+  - [Escobar](<02 The Factions.md#escobar>)
+  - [Grinder](<02 The Factions.md#grinder>)
+  - [Cavalry](<02 The Factions.md#cavalry>)
+  - [Golden Boy](<02 The Factions.md#golden-boy>)
+  - [Sarge](<02 The Factions.md#sarge>)
+  - [Shepard](<02 The Factions.md#shepard>)
+  - [Gustav](<02 The Factions.md#gustav>)
+  - [Pitbull](<02 The Factions.md#pitbull>)
+  - [Cherub](<02 The Factions.md#cherub>)
+- [Network 54](<02 The Factions.md#network-54>) (p. 91)
+  - [Fiona Hayes](<02 The Factions.md#fiona-hayes>)
+  - [Angle](<02 The Factions.md#angle>)
+  - [Stringer](<02 The Factions.md#stringer>)
+- [The Piranhas](<02 The Factions.md#the-piranhas>) (p. 95)
+  - [Bazooka Joe](<02 The Factions.md#bazooka-joe>)
+  - [Corpse Reviver](<02 The Factions.md#corpse-reviver>)
+  - [Dirty Shirley](<02 The Factions.md#dirty-shirley>)
+- [Sightseers](<02 The Factions.md#sightseers>) (p. 99)
+  - [Endo](<02 The Factions.md#endo>)
+  - [Gaze](<02 The Factions.md#gaze>)
+  - [Racer](<02 The Factions.md#racer>)
+  - [Glare](<02 The Factions.md#glare>)
+  - [Swirl](<02 The Factions.md#swirl>)
+- [Team Monster](<02 The Factions.md#team-monster>) (p. 105)
+  - [Cereal](<02 The Factions.md#cereal>)
+  - [Isolate](<02 The Factions.md#isolate>)
+  - [Lucky](<02 The Factions.md#lucky>)
+  - [Nox](<02 The Factions.md#nox>)
+  - [Paladin](<02 The Factions.md#paladin>)
+  - [Too Tall](<02 The Factions.md#too-tall>)
+- [Trauma Team Squad NC4-2](<02 The Factions.md#trauma-team-squad-nc4-2>) (p. 113)
+  - [Cazadora](<02 The Factions.md#cazadora>)
+  - [Penitent](<02 The Factions.md#penitent>)
+  - [Stick](<02 The Factions.md#stick>)
+  - [Twist](<02 The Factions.md#twist>)
+  - [Rockabye](<02 The Factions.md#rockabye>)
+  - [Paddles](<02 The Factions.md#paddles>)
+- [Tyger Claws](<02 The Factions.md#tyger-claws>) (p. 121)
+  - [Shinobu the Second](<02 The Factions.md#shinobu-the-second>)
+  - [Zen](<02 The Factions.md#zen>)
+  - [Burai](<02 The Factions.md#burai>)
+  - [Wakako](<02 The Factions.md#wakako>)
+  - [Hamada](<02 The Factions.md#hamada>)
+  - [Masa](<02 The Factions.md#masa>)
+  - [Yasu](<02 The Factions.md#yasu>)
+  - [Shinmai](<02 The Factions.md#shinmai>)
+- [Zoners](<02 The Factions.md#zoners>) (p. 131)
+  - [Vanisher](<02 The Factions.md#vanisher>)
+  - [Tearjerker](<02 The Factions.md#tearjerker>)
+  - [Forty Mike-Mike](<02 The Factions.md#forty-mike-mike>)
+  - [Mister Studd](<02 The Factions.md#mister-studd>)
+  - [Freefall](<02 The Factions.md#freefall>)
+  - [Nemo](<02 The Factions.md#nemo>)
+  - [Speed Demon](<02 The Factions.md#speed-demon>)
+  - [Alpha](<02 The Factions.md#alpha>)
+  - [Blaze](<02 The Factions.md#blaze>)
+  - [Wrecker](<02 The Factions.md#wrecker>)
 
 
 ### [Locations](<03 Locations.md>)
 
-Points of interest across Night City districts.
+New Gear reprints and NPC creation guidelines (pp. 143–152). Location POI data was not present in the source extract.
 
-- [Locations](<03 Locations.md#locations>)
+- [New Gear](<03 Locations.md#new-gear>) (p. 143)
+  - [Weapons](<03 Locations.md#weapons>) (p. 144)
+  - [Cyberware](<03 Locations.md#cyberware>) (p. 145)
+  - [Other Gear](<03 Locations.md#other-gear>) (p. 146)
+- [NPC Creation Guidelines](<03 Locations.md#npc-creation-guidelines>) (p. 149)
+  - [And They Are Guidelines!](<03 Locations.md#and-they-are-guidelines>) (p. 150)
+  - [NPC Levels](<03 Locations.md#npc-levels>) (p. 150)
+  - [Hardening](<03 Locations.md#hardening>) (p. 150)
+  - [Non-Combat NPCs](<03 Locations.md#non-combat-npcs>) (p. 151)
+  - [Step One](<03 Locations.md#step-one>) through [Step Six](<03 Locations.md#step-six>) (pp. 151–152)
+  - [NPC Templates](<03 Locations.md#npc-templates>) (p. 152)
 
 
 ### [The Incident](<04 The Incident.md>)
 
-Campaign frame and mission hooks.
+Beat Chart mission: Danger Gal hires the Crew to investigate the HQ break-in.
 
-- [The Incident](<04 The Incident.md#the-incident>)
-
+- [Beat Chart](<04 The Incident.md#beat-chart>) (p. 154)
+- [Background (Read Aloud)](<04 The Incident.md#background-read-aloud>) (p. 154)
+- [The Rest of the Story](<04 The Incident.md#the-rest-of-the-story>) (p. 154)
+- [The Setting](<04 The Incident.md#the-setting>) (p. 154)
+- [The Opposition](<04 The Incident.md#the-opposition>) (p. 154)
+- [The Hook](<04 The Incident.md#the-hook>) (p. 155)
+- [Dev (Mouse's Story)](<04 The Incident.md#dev-mouses-story>) (p. 155)
+- [Cliff (Finding Clues)](<04 The Incident.md#cliff-finding-clues>) (p. 156)
+- [Dev (The Bodega)](<04 The Incident.md#dev-the-bodega>) (p. 158)
+- [OpCliff (Bodega Blowout)](<04 The Incident.md#opcliff-bodega-blowout>) (p. 159)
+- [Dev (Meet the Shroomers)](<04 The Incident.md#dev-meet-the-shroomers>) (p. 160)
+- [OpCliff (Bozo Trap)](<04 The Incident.md#opcliff-bozo-trap>) (p. 161)
+- [Dev (Shroomer Village)](<04 The Incident.md#dev-shroomer-village>) (p. 161)
+- [Climax (Tunnel Fight)](<04 The Incident.md#climax-tunnel-fight>) (p. 162)
+- [Resolution (Job Done)](<04 The Incident.md#resolution-job-done>) (p. 163)
+- [Continuing On](<04 The Incident.md#continuing-on>) (p. 164)
+- [NET Architecture & NPC Stat Blocks](<04 The Incident.md#net-architecture--npc-stat-blocks>) (p. 164)
 
 ## Files
 
@@ -40,5 +199,5 @@ Campaign frame and mission hooks.
 |---|------|---------|
 | 1 | [Introduction](<01 Introduction.md>) | Introduction |
 | 2 | [The Factions](<02 The Factions.md>) | The Factions |
-| 3 | [Locations](<03 Locations.md>) | Locations |
+| 3 | [Locations](<03 Locations.md>) | New Gear & NPC Creation |
 | 4 | [The Incident](<04 The Incident.md>) | The Incident |

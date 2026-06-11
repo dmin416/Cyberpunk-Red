@@ -10,49 +10,54 @@ VA-11 HALL-A crossover DLC. Danger Gal-format bar dossier, Hammered Industries l
 
 What this crossover is and canon notes.
 
-- [Introduction](<01 Introduction.md#introduction>)
+- [What is VA-11 HALL-A?](<01 Introduction.md#what-is-va-11-hall-a>) (p. 1)
+- [Is This Canon?](<01 Introduction.md#is-this-canon>) (p. 2)
 
 
 ### [VA-11 HALL-A Faction Dossier](<02 VA-11 HALL-A Faction Dossier.md>)
 
-Bar staff, patrons, and faction profile.
+Bar staff, patrons, and Danger Gal–format NPC stat blocks.
 
-- [VA-11 HALL-A Faction Dossier](<02 VA-11 HALL-A Faction Dossier.md#va-11-hall-a-faction-dossier>)
+- [Dana Zane](<02 VA-11 HALL-A Faction Dossier.md#dana-zane>) (p. 5)
+- [Jill Stingray](<02 VA-11 HALL-A Faction Dossier.md#jill-stingray>) (p. 9)
+- [Other Employees and Patrons](<02 VA-11 HALL-A Faction Dossier.md#other-employees-and-patrons>) (p. 11)
 
 
 ### [Hammered Industries](<03 Hammered Industries.md>)
 
 Corporate lore for the crossover.
 
-- [Hammered Industries](<03 Hammered Industries.md#hammered-industries>)
+- [Hammered Industries](<03 Hammered Industries.md#hammered-industries>) (p. 14)
 
 
 ### [New Tech](<04 New Tech.md>)
 
-Gear and cyberware from the crossover.
+Nine pieces of gear and cyberware from the crossover.
 
-- [New Tech](<04 New Tech.md#new-tech>)
+- [Drink Master 5000](<04 New Tech.md#drink-master-5000>) (p. 15)
+- [Hammered Industries Cyberliver](<04 New Tech.md#hammered-industries-cyberliver>) (p. 15)
 
 
 ### [Drinktionary](<05 Drinktionary.md>)
 
 Every VA-11 HALL-A cocktail plus Cyberpunk Smash.
 
-- [Drinktionary](<05 Drinktionary.md#drinktionary>)
+- [Drinktionary](<05 Drinktionary.md#drinktionary>) (p. 16)
+- [Intoxication](<05 Drinktionary.md#intoxication>) (p. 17)
 
 
 ### [The Augmented Eye](<06 The Augmented Eye.md>)
 
 Screamsheet adventure hook.
 
-- [The Augmented Eye](<06 The Augmented Eye.md#the-augmented-eye>)
+- [The Augmented Eye](<06 The Augmented Eye.md#the-augmented-eye>) (p. 19)
 
 
 ### [VA-11 HALL-A Floorplan](<07 VA-11 HALL-A Floorplan.md>)
 
-Map of the bar.
+Map of the bar (visual in PDF).
 
-- [VA-11 HALL-A Floorplan](<07 VA-11 HALL-A Floorplan.md#va-11-hall-a-floorplan>)
+- [VA-11 HALL-A Floorplan](<07 VA-11 HALL-A Floorplan.md#va-11-hall-a-floorplan>) (p. 20)
 
 ## Files
 

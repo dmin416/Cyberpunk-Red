@@ -6,315 +6,336 @@ Trackers and sheets for solo sessions.
 
 ## Contents
 
-- [Blank Forms](<06 Blank Forms.md#blank-forms>)
+- [For Recording Your Solo Play Adventure](<06 Blank Forms.md#for-recording-your-solo-play-adventure>) (p. 91)
+- [NPC Form 1 (Simple & Landscape)](<06 Blank Forms.md#npc-form-1-simple--landscape>) (p. 92)
+- [NPC Form 2 (Simple & Portrait)](<06 Blank Forms.md#npc-form-2-simple--portrait>) (p. 93)
+- [NPC Form 3 (Complex)](<06 Blank Forms.md#npc-form-3-complex>) (p. 94)
+- [NPC Tracker](<06 Blank Forms.md#npc-tracker>) (p. 95)
+- [Solo Play Clocks](<06 Blank Forms.md#solo-play-clocks>) (p. 96)
+- [Investigation Tracker](<06 Blank Forms.md#investigation-tracker>) (p. 97)
+- [Social Challenge Tracker](<06 Blank Forms.md#social-challenge-tracker>) (p. 98)
+- [Quick & Dirty Combat Tracker (Portrait)](<06 Blank Forms.md#quick--dirty-combat-tracker-portrait>) (p. 99)
+- [Quick & Dirty Combat Tracker (Landscape)](<06 Blank Forms.md#quick--dirty-combat-tracker-landscape>) (p. 100)
+- [Quick & Dirty Netrun Tracker](<06 Blank Forms.md#quick--dirty-netrun-tracker>) (p. 101)
+- [Mission Builder/Tracker](<06 Blank Forms.md#mission-buildertracker>) (p. 102)
+- [Beat Chart Tracker](<06 Blank Forms.md#beat-chart-tracker>) (p. 103)
+- [IP Tracking Sheet](<06 Blank Forms.md#ip-tracking-sheet>) (p. 104)
 
 ---
 
-## Text
+## For Recording Your Solo Play Adventure
 
-91
- Blank Forms Blank Forms
-For recording your solo play adventureFor recording your solo play adventureBY TORBEN WEIT
-NPC Form 1 (Simple & Landscape) .....92
-NPC Form 2 (Simple & Portrait)  ......... 93
-NPC Form 3 (Complex)  ...................... 94
-NPC Tracker  ....................................... 95Solo Play Clocks  ................................ 96
-Investigation Tracker  ......................... 97
-Social Challenge Tracker  ................... 98
-Quick & Dirty Combat Tracker 1  ........ 99
-Quick & Dirty Combat Tracker 2  ...... 100Quick & Dirty Netrun Tracker  .......... 101
-Mission Builder/Tracker  .................. 102
-Beat Chart Tracker  ........................... 103
-IP Tracking Sheet  ............................. 104
+*By Torben Weit*
 
-92
-BLANK FORMS
-        HP
-CoMbat  # STATS
-init MoVE
-Important Skill BasesReputation:       
- Attacks
- armor
- Important Gear & CyberwareHead: 
-Body: What do they look  like?
-What do they do?
-What is a quirk  in that makes them distinct?
-Other Notes
-        HP
-CoMbat  # STATS
-init MoVE
-Important Skill BasesReputation:       
- Attacks
- armor
- Important Gear & CyberwareHead: 
-Body: What do they look  like?
-What do they do?
-What is a quirk  in that makes them distinct?
-Other NotesnpC F orM 1 (S iMplE & l andSC apE)R. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+R. Talsorian Games gives the owner of this document full permission to copy and print these forms as much as they like.
 
-93
-BLANK FORMS
-        HP
-CoMbat  # STATS
-init MoVE
-Important Skill BasesReputation:       
- Attacks
- armor
- Important Gear & CyberwareHead: 
-Body: 
-What do they look  like?
-What do they do?
-What is a quirk  in that makes them distinct?
-Other Notes
-        HP
-CoMbat  # STATS
-init MoVE
-Important Skill BasesReputation:       
- Attacks
- armor
- Important Gear & CyberwareHead: 
-Body: 
-What do they look  like?
-What do they do?
-What is a quirk  in that makes them distinct?
-Other NotesnpC F orM 2 (S iMplE & p ortrait )R. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+---
 
-94
-BLANK FORMS
-npC F orM 3 (C oMplEx)
-Name
-        
-roleSeriously
-wounded
-Death
-saveHP
-int rEF dEx tECh Cool will MoVE body EMp STATS
- weapons  armor
- skill bases
- GEAR
- cyberwarerep
-HEAD BODY
-What do they look  like?
-What do they do?
-What is a quirk  in that makes them distinct?
-Other NotesR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+### NPC Form 1 (Simple & Landscape)
 
-95
-BLANK FORMS
-Name
-Name
-Name
-Namerole
-role
-role
-roleFirst Encounter
-First Encounter
-First Encounter
-First EncounterAdditional Notes
-Additional Notes
-Additional Notes
-Additional NotesnpC traCkErR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+*Two simple NPC blocks per page (landscape layout in print edition).*
 
-96
-BLANK FORMS
-Solo play CloCkS
-diCE pool
- Roll the dice ....
- Eventd6d6d6d6d6d6d6d6
- diCE pool
- Roll the dice ....
- Eventd6d6d6d6d6d6d6d6
-diCE pool
- Roll the dice ....
- Eventd6d6d6d6d6d6d6d6
- diCE pool
- Roll the dice ....
- Eventd6d6d6d6d6d6d6d6
-Other NotesR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+#### NPC A
 
-97
-BLANK FORMS
-inVEStigation  traCkEr
-Location# of  
-Checks
-GOAL
-Check 1
-Check 3
-Check 5Check 2
-Check 4
-Check 6
-Check 7Success or Failure
-Success or Failure
-Success or FailureSuccess or Failure
-Success or Failure
-Success or Failure
-Success or FailureR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+| | |
+|---|---|
+| **HP** | |
+| **Combat #** | |
+| **Init** | **MOVE** |
+| **Important Skill Bases** | |
+| **Reputation** | |
+| **Attacks** | |
+| **Armor** | Head: _____ Body: _____ |
+| **Important Gear & Cyberware** | |
 
-98
-BLANK FORMS
-SoCial Chall EngE traCkEr
-Location# of  
-Checks
-GOALParticipants
-Check 1
-Check 3
-Check 5
-OutcomeCheck 2
-Check 4Success or Failure
-Success or Failure
-Success or FailureSuccess or Failure
-Success or FailureR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+**What do they look like?**
 
-99
-BLANK FORMS
-QuiCk and dirty CoMbat traCkEr (portrait )
-Edgerunner #1
-Enemy #1Edgerunner #2
-Enemy #2Edgerunner #3
-Enemy #3Edgerunner #4
-Enemy #4Attacks
-AttacksAttacks
-AttacksAttacks
-AttacksAttacks
-AttacksEdgerunner #1
-Enemy #1Edgerunner #2
-Enemy #2Edgerunner #3
-Enemy #3Edgerunner #4
-Enemy #4Attacks
-AttacksAttacks
-AttacksAttacks
-AttacksAttacks
-Attacks
-Crew Result Enemy Result Crew Result Enemy ResultR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+**What do they do?**
 
-100
-BLANK FORMS
-QuiCk and dirty CoMbat traCkEr (landSC apE)
-Edgerunner #1
-Enemy #1Edgerunner #2
-Enemy #2Edgerunner #3
-Enemy #3Edgerunner #4
-Enemy #4Attacks
-AttacksAttacks
-AttacksAttacks
-AttacksAttacks
-Attacks
-Edgerunner #1
-Enemy #1Edgerunner #2
-Enemy #2Edgerunner #3
-Enemy #3Edgerunner #4
-Enemy #4Attacks
-AttacksAttacks
-AttacksAttacks
-AttacksAttacks
-AttacksCrew Result Enemy Result
-Crew Result Enemy ResultR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+**What is a quirk that makes them distinct?**
 
-101
-BLANK FORMS
-QuiCk and dirty nEtrun traCkEr
-Location# of  
-Checks
-GOAL
-Check 1
-Check 3
-Check 5Check 2
-Check 4
-Check 6
-Check 7Success or Failure
-Success or Failure
-Success or FailureSuccess or Failure
-Success or Failure
-Success or Failure
-Success or FailureR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+**Other Notes**
 
-102
-BLANK FORMS
-MiSSion build Er/traCkEr
-Who's Hiring?
-Payment
-Mission Summary
-The TwistFocus and Specifics
-NotesR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+#### NPC B
 
-103
-BLANK FORMS
-bEat Chart traCkEr
-The Hook
-Cliffhanger/Development 1
-Cliffhanger/Development 2
-Cliffhanger/Development 3
-Cliffhanger/Development 5Cliffhanger/Development 4
-Cliffhanger/Development 6
-Climax ResolutionR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.
+| | |
+|---|---|
+| **HP** | |
+| **Combat #** | |
+| **Init** | **MOVE** |
+| **Important Skill Bases** | |
+| **Reputation** | |
+| **Attacks** | |
+| **Armor** | Head: _____ Body: _____ |
+| **Important Gear & Cyberware** | |
 
-104
-BLANK FORMS
-ip t raCking ShEEt
-        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIP        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIP        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIP        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIP
-        Edgerunner
-Date Spent OnSpent
-TOTALIPR. Talsorian Games gives the owner of this document full permission to copy and print this form as much as they like.THE2
+**What do they look like?**
 
-THE2
-CR3121
-To learn more, please visit  
-rtalsoriangames.com
-You can go it alone in the Dark Future
-You’ve hooked your Militech pistol to the interface in your brain; upgraded 
-your cybernetic fist with carbo-glass blades; and installed cybereyes that 
-can pierce through the red haze like morning fog. There’s a world full of 
-opportunities out there, just waiting for the right edgerunner.
-Only, there’s a problem. Maybe you don’t have a group. Maybe you don’t 
-have a Gamemaster. Maybe you are a Gamemaster, but your tank of 
-inspiration fuel is running on empty. Don’t worry, choomba. We’ve got you.
-Single Player Mode  provides the tools a gamer needs to play 
-Cyberpunk RED  on their own or as part of a group with no Gamemaster. 
-It’ll even function as an assistant-GM, ready and willing to fill in the blanks 
-in your Dark Future story.
-Those tools include …
-• Closed and Open Question Oracles fine-tuned to playing Cyberpunk 
-RED .
-• Guidelines for running solo play investigations, social challenges, and 
-combat.
-• Quick and Dirty rules for fast fighting and Netrunning.
-• Rules for solo play clocks, adding random timers for more 
-unpredictability.
-• Mission builders to create a gig from scratch. Roll it all random or just 
-use them to inspire.
-• Over 100 lists, tables, and random encounter charts to help you 
-populate your Cyberpunk RED  game with people, places, things, 
-organizations, and plots.
-• Forms to keep track of it all, from NPC stat blocks to scene and gig 
-trackers.
-Expert solo player Peter Norton of HollowPonds Solo Sagas  has teamed 
-up with R. Talsorian Games  to create the ultimate solo play guide for 
-Cyberpunk RED . Use it on your own or use it with friends. Either way, it’ll 
-enhance your visit to Night City.
-Single Player Mode requires the Cyberpunk RED  core rulebook for play.SINGLE PLAYER MODEMODE
+**What do they do?**
+
+**What is a quirk that makes them distinct?**
+
+**Other Notes**
+
+---
+
+### NPC Form 2 (Simple & Portrait)
+
+*Two simple NPC blocks per page (portrait layout in print edition).*
+
+#### NPC A
+
+| | |
+|---|---|
+| **HP** | |
+| **Combat #** | |
+| **Init** | **MOVE** |
+| **Important Skill Bases** | |
+| **Reputation** | |
+| **Attacks** | |
+| **Armor** | Head: _____ Body: _____ |
+| **Important Gear & Cyberware** | |
+
+**What do they look like?**
+
+**What do they do?**
+
+**What is a quirk that makes them distinct?**
+
+**Other Notes**
+
+#### NPC B
+
+| | |
+|---|---|
+| **HP** | |
+| **Combat #** | |
+| **Init** | **MOVE** |
+| **Important Skill Bases** | |
+| **Reputation** | |
+| **Attacks** | |
+| **Armor** | Head: _____ Body: _____ |
+| **Important Gear & Cyberware** | |
+
+**What do they look like?**
+
+**What do they do?**
+
+**What is a quirk that makes them distinct?**
+
+**Other Notes**
+
+---
+
+### NPC Form 3 (Complex)
+
+| **Name** | | **Role** | |
+|---|---|---|---|
+| **HP** | | **Seriously Wounded** | ☐ |
+| **Death Save** | ☐ | | |
+
+| INT | REF | DEX | TECH | COOL | WILL | MOVE | BODY | EMP |
+|-----|-----|-----|------|------|------|------|------|-----|
+| | | | | | | | | |
+
+| **Weapons** | |
+|---|---|
+| **Armor** | Head: _____ Body: _____ |
+| **Skill Bases** | |
+| **REP** | |
+| **Gear** | |
+| **Cyberware** | |
+
+**What do they look like?**
+
+**What do they do?**
+
+**What is a quirk that makes them distinct?**
+
+**Other Notes**
+
+---
+
+### NPC Tracker
+
+| Name | Role | First Encounter | Additional Notes |
+|------|------|-----------------|------------------|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+### Solo Play Clocks
+
+*Four clock blocks per page.*
+
+#### Clock 1
+
+| **Dice Pool** | d6 | d6 | d6 | d6 | d6 | d6 | d6 | d6 |
+|---|---|---|---|---|---|---|---|---|
+| **Roll the dice when …** | | | | | | | | |
+| **Event** | | | | | | | | |
+
+#### Clock 2
+
+| **Dice Pool** | d6 | d6 | d6 | d6 | d6 | d6 | d6 | d6 |
+|---|---|---|---|---|---|---|---|---|
+| **Roll the dice when …** | | | | | | | | |
+| **Event** | | | | | | | | |
+
+#### Clock 3
+
+| **Dice Pool** | d6 | d6 | d6 | d6 | d6 | d6 | d6 | d6 |
+|---|---|---|---|---|---|---|---|---|
+| **Roll the dice when …** | | | | | | | | |
+| **Event** | | | | | | | | |
+
+#### Clock 4
+
+| **Dice Pool** | d6 | d6 | d6 | d6 | d6 | d6 | d6 | d6 |
+|---|---|---|---|---|---|---|---|---|
+| **Roll the dice when …** | | | | | | | | |
+| **Event** | | | | | | | | |
+
+**Other Notes**
+
+---
+
+### Investigation Tracker
+
+| **Location** | |
+|---|---|
+| **Goal** | |
+| **# of Checks** | |
+
+| Check | Skill / Action | Success or Failure |
+|-------|----------------|-------------------|
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+
+---
+
+### Social Challenge Tracker
+
+| **Location** | |
+|---|---|
+| **Goal** | |
+| **# of Checks** | |
+| **Participants** | |
+
+| Check | Skill / Action | Success or Failure |
+|-------|----------------|-------------------|
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+
+| **Outcome** | |
+|---|---|
+
+---
+
+### Quick & Dirty Combat Tracker (Portrait)
+
+*Two combat blocks per page (portrait layout in print edition).*
+
+#### Combat A
+
+| | Edgerunner #1 | Enemy #1 | Edgerunner #2 | Enemy #2 | Edgerunner #3 | Enemy #3 | Edgerunner #4 | Enemy #4 |
+|---|---|---|---|---|---|---|---|---|
+| **Attacks** | | | | | | | | |
+| **Crew Result** | | | | | | | | |
+| **Enemy Result** | | | | | | | | |
+
+#### Combat B
+
+| | Edgerunner #1 | Enemy #1 | Edgerunner #2 | Enemy #2 | Edgerunner #3 | Enemy #3 | Edgerunner #4 | Enemy #4 |
+|---|---|---|---|---|---|---|---|---|
+| **Attacks** | | | | | | | | |
+| **Crew Result** | | | | | | | | |
+| **Enemy Result** | | | | | | | | |
+
+---
+
+### Quick & Dirty Combat Tracker (Landscape)
+
+| | Edgerunner #1 | Enemy #1 | Edgerunner #2 | Enemy #2 | Edgerunner #3 | Enemy #3 | Edgerunner #4 | Enemy #4 |
+|---|---|---|---|---|---|---|---|---|
+| **Attacks** | | | | | | | | |
+| **Crew Result** | | | | | | | | |
+| **Enemy Result** | | | | | | | | |
+
+| | Edgerunner #1 | Enemy #1 | Edgerunner #2 | Enemy #2 | Edgerunner #3 | Enemy #3 | Edgerunner #4 | Enemy #4 |
+|---|---|---|---|---|---|---|---|---|
+| **Attacks** | | | | | | | | |
+| **Crew Result** | | | | | | | | |
+| **Enemy Result** | | | | | | | | |
+
+---
+
+### Quick & Dirty Netrun Tracker
+
+| **Location** | |
+|---|---|
+| **Goal** | |
+| **# of Checks** | |
+
+| Check | Program / Action | Success or Failure |
+|-------|------------------|-------------------|
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+
+---
+
+### Mission Builder/Tracker
+
+| **Who's Hiring?** | |
+|---|---|
+| **Payment** | |
+| **Focus and Specifics** | |
+| **Mission Summary** | |
+| **The Twist** | |
+| **Notes** | |
+
+---
+
+### Beat Chart Tracker
+
+| **The Hook** | |
+|---|---|
+| **Cliffhanger/Development 1** | |
+| **Cliffhanger/Development 2** | |
+| **Cliffhanger/Development 3** | |
+| **Cliffhanger/Development 4** | |
+| **Cliffhanger/Development 5** | |
+| **Cliffhanger/Development 6** | |
+| **Climax** | |
+| **Resolution** | |
+
+---
+
+### IP Tracking Sheet
+
+*Ten Edgerunner IP tracking blocks per page.*
+
+| **Edgerunner** | |
+|---|---|
+| **Date** | **Spent On** | **Spent** | **TOTAL IP** |
+| | | | |
+| | | | |
+| | | | |
+
+*(Repeat for each Edgerunner slot on the sheet.)*
