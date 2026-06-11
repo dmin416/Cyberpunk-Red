@@ -56,44 +56,83 @@ Downtime salvaging rules and 3-Piece's guide to scavenging the ruins.
 
 ### [Midnight with the Upload](<05 Midnight with the Upload.md>)
 
-Netrunning / AI content.
+Fifteen new cyberdecks and eleven new hardware options sold by the mysterious Netrunner fixer known as the Upload.
 
-- [Midnight with the Upload](<05 Midnight with the Upload.md#midnight-with-the-upload>)
+- [Midnight with the Upload](<05 Midnight with the Upload.md#midnight-with-the-upload>) (p. 37)
+- [The Upload](<05 Midnight with the Upload.md#the-upload>) (p. 38)
+- [New Cyberdecks](<05 Midnight with the Upload.md#new-cyberdecks>) (p. 39)
+- [Bodyweight Suits & Cyberarm Decks](<05 Midnight with the Upload.md#bodyweight-suits--cyberarm-decks>) (p. 39)
+- [New Hardware](<05 Midnight with the Upload.md#new-hardware>) (p. 40)
+- [New Cyberdecks Master Table](<05 Midnight with the Upload.md#new-cyberdecks-master-table>) (p. 42)
+- [New Cyberdeck Hardware Master Table](<05 Midnight with the Upload.md#new-cyberdeck-hardware-master-table>) (p. 43)
+- [Cyberdeck Sheet](<05 Midnight with the Upload.md#cyberdeck-sheet>) (p. 43)
 
 
 ### [Must Have Cyberware Deals](<06 Must Have Cyberware Deals.md>)
 
-Curated cyberware options.
+Twelve cyberware and fashionware items advertised by William "Mr. A-MAAAAZE" Maze at the House of MAAAAAZE on Dock 13.
 
-- [Must Have Cyberware Deals](<06 Must Have Cyberware Deals.md#must-have-cyberware-deals>)
+- [Must Have Cyberware Deals](<06 Must Have Cyberware Deals.md#must-have-cyberware-deals>) (p. 46)
+- [Mr. A-MAAAAZE](<06 Must Have Cyberware Deals.md#mr-a-maaaaaze>) (p. 46)
+- [New Chrome! Buy Now!!!](<06 Must Have Cyberware Deals.md#new-chrome-buy-now>) (p. 46)
+- [Mr. A-MAAAAZE's New Cyberware Master Table](<06 Must Have Cyberware Deals.md#mr-a-maaaaazes-new-cyberware-master-table>) (p. 49)
 
 
 ### [Collecting the Random](<07 Collecting the Random.md>)
 
-Random loot / encounter tables.
+Six lists from the CP:R CREW—complementary skill checks, reskinning roles, campaign ideas, multiclassing concepts, fashion styles, and random Kibble flavors.
 
-- [Collecting the Random](<07 Collecting the Random.md#collecting-the-random>)
+- [Collecting the Random](<07 Collecting the Random.md#collecting-the-random>) (p. 52)
+- [Complementary Skill Checks](<07 Collecting the Random.md#complementary-skill-checks>) (p. 52)
+- [Reskinning Roles](<07 Collecting the Random.md#reskinning-roles>) (p. 52)
+- [Ten Punk Campaign Ideas](<07 Collecting the Random.md#ten-punk-campaign-ideas>) (p. 53)
+- [Multiclassing Ideas](<07 Collecting the Random.md#multiclassing-ideas>) (p. 56)
+- [Cyberpunk RED Fashion](<07 Collecting the Random.md#cyberpunk-red-fashion>) (p. 63)
+- [Twenty Random Kibble Flavors](<07 Collecting the Random.md#twenty-random-kibble-flavors>) (p. 64)
 
 
 ### [Elflines Online the TCG](<08 Elflines Online the TCG.md>)
 
-In-world trading card game rules.
+Playable in-world trading card game rules for Elflines Online—use a regular poker deck at the table or in character on The Street.
 
-- [Elflines Online the TCG](<08 Elflines Online the TCG.md#elflines-online-the-tcg>)
+- [Elflines Online the TCG](<08 Elflines Online the TCG.md#elflines-online-the-tcg>) (p. 66)
+- [Betrayal](<08 Elflines Online the TCG.md#betrayal>) (p. 66)
+- [What Is This Thing?](<08 Elflines Online the TCG.md#what-is-this-thing>) (p. 66)
+- [Buying Into the Craze](<08 Elflines Online the TCG.md#buying-into-the-craze>) (p. 66)
+- [How to Play](<08 Elflines Online the TCG.md#how-to-play>) (p. 67)
+- [The Cards](<08 Elflines Online the TCG.md#the-cards>) (p. 69)
+- [Cheating](<08 Elflines Online the TCG.md#cheating>) (p. 72)
+- [Elflines Online Merch](<08 Elflines Online the TCG.md#elflines-online-merch>) (p. 73)
 
 
 ### [Spinning Your Wheels](<09 Spinning Your Wheels.md>)
 
-Bicycle rules.
+Bicycle, inline skate, and skateboard rules plus Yang's Wheels interview with Gabriel Yang.
 
-- [Spinning Your Wheels](<09 Spinning Your Wheels.md#spinning-your-wheels>)
+- [Spinning Your Wheels](<09 Spinning Your Wheels.md#spinning-your-wheels>) (p. 75)
+- [Rebuilding Night City](<09 Spinning Your Wheels.md#rebuilding-night-city>) (p. 76)
+- [Bicycles in Night City](<09 Spinning Your Wheels.md#bicycles-in-night-city>) (p. 77)
+- [Bicycles as a Vehicle](<09 Spinning Your Wheels.md#bicycles-as-a-vehicle>) (p. 77)
+- [Upgrading Your Bicycle](<09 Spinning Your Wheels.md#upgrading-your-bicycle>) (p. 78)
+- [Other Offerings](<09 Spinning Your Wheels.md#other-offerings>) (p. 79)
+- [Sick Tricks for Bicycles, Inline Skates, and Skateboards](<09 Spinning Your Wheels.md#sick-tricks-for-bicycles-inline-skates-and-skateboards>) (p. 80)
+- [Costs and Information](<09 Spinning Your Wheels.md#costs-and-information>) (p. 80)
+- [Bicycle Sheet](<09 Spinning Your Wheels.md#bicycle-sheet>) (p. 81)
 
 
 ### [The 12 Days of Cybermas](<10 The 12 Days of Cybermas.md>)
 
-Holiday gear drops.
+Holiday cyberware sequel with twelve 2020 conversions and the parody song "A Lot Like Cybermas."
 
-- [The 12 Days of Cybermas](<10 The 12 Days of Cybermas.md#the-12-days-of-cybermas>)
+- [The 12 Days of Cybermas](<10 The 12 Days of Cybermas.md#the-12-days-of-cybermas>) (p. 84)
+- [A Lot Like Cybermas](<10 The 12 Days of Cybermas.md#a-lot-like-cybermas>) (p. 84)
+- [Cyberware](<10 The 12 Days of Cybermas.md#cyberware>) (p. 85)
+- [DeathTrance and the Philharmonic Vampyres](<10 The 12 Days of Cybermas.md#deathtrance-and-the-philharmonic-vampyres>) (p. 85)
+- [Radline vs. Radine](<10 The 12 Days of Cybermas.md#radline-vs-radine>) (p. 86)
+- [Operation: Lump of Coal](<10 The 12 Days of Cybermas.md#operation-lump-of-coal>) (p. 87)
+- [Who Is S.A.N.T.A.?](<10 The 12 Days of Cybermas.md#who-is-santa>) (p. 87)
+- [Brain at Short Circuit](<10 The 12 Days of Cybermas.md#brain-at-short-circuit>) (p. 87)
+- [Cybermas Cyberware Master Table](<10 The 12 Days of Cybermas.md#cybermas-cyberware-master-table>) (p. 90)
 
 
 ### [Going Metal](<11 Going Metal.md>)

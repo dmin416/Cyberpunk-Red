@@ -64,9 +64,30 @@ Cars, bikes, AVs, and vehicle upgrades.
 
 ### [Weapons](<09 Weapons.md>)
 
-Firearms, melee weapons, ammo, and attachments.
+Firearms, melee, thrown weapons, and explosives.
 
-- [Weapons](<09 Weapons.md#weapons>)
+- [Explosives](<09 Weapons.md#explosives>) (p. 86)
+- [Melee Weapons](<09 Weapons.md#melee-weapons>) (p. 91)
+- [Thrown Weapons](<09 Weapons.md#thrown-weapons>) (p. 100)
+- [Firearms](<09 Weapons.md#firearms>) (p. 102)
+
+
+### [Economics 101](<10 Economics 101.md>)
+
+Getting stuff in the Time of the Red — supply chain and lifestyles.
+
+- [Today at the Source](<10 Economics 101.md#today-at-the-source>) (p. 126)
+- [Lifestyles in Detail](<10 Economics 101.md#lifestyles-in-detail>) (p. 130)
+
+
+### [Night Markets](<11 Night Markets.md>)
+
+Vendor profiles, booths, and NPC stat blocks.
+
+
+### [Black Chrome Lists](<12 Black Chrome Lists.md>)
+
+Summary tables for all gear in the book.
 
 
 ## Files
@@ -82,3 +103,6 @@ Firearms, melee weapons, ammo, and attachments.
 | 7 | [Linear Frames](<07 Linear Frames.md>) | Linear Frames |
 | 8 | [Vehicles](<08 Vehicles.md>) | Vehicles |
 | 9 | [Weapons](<09 Weapons.md>) | Weapons |
+| 10 | [Economics 101](<10 Economics 101.md>) | Economics 101 |
+| 11 | [Night Markets](<11 Night Markets.md>) | Night Markets |
+| 12 | [Black Chrome Lists](<12 Black Chrome Lists.md>) | Black Chrome Lists |
