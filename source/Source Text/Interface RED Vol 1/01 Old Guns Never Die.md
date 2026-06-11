@@ -6,148 +6,98 @@ Conversion guide for Cyberpunk 2020 weapons to RED.
 
 ## Contents
 
-- [Old Guns Never Die](<01 Old Guns Never Die.md#old-guns-never-die>)
+- [Old Guns Never Die](<01 Old Guns Never Die.md#old-guns-never-die>) (p. 3)
+- [Step 0](<01 Old Guns Never Die.md#step-0>) (p. 3)
+- [Step 1](<01 Old Guns Never Die.md#step-1>) (p. 3)
+- [Step 2](<01 Old Guns Never Die.md#step-2>) (p. 3)
+- [Step 3](<01 Old Guns Never Die.md#step-3>) (p. 3)
+- [Step 4](<01 Old Guns Never Die.md#step-4>) (p. 3)
+- [Step 5](<01 Old Guns Never Die.md#step-5>) (p. 4)
+- [Step 6](<01 Old Guns Never Die.md#step-6>) (p. 4)
+- [Example](<01 Old Guns Never Die.md#example>) (p. 4)
 
 ---
 
-## Text
-
-2
-old guns never dieold guns never die
-converting cyberpunk 2020  converting cyberpunk 2020  
-weapons  to cyberpunk redweapons  to cyberpunk redBY RICHARD BAGNALL
-Writing and Design by  Mike Pondsmith, James Hutt, Cody Pondsmith, and J Gray
-Editing by M a t t  C l i c k• Art Direction  by Jaye Kovach
-Business Management  by Lisa Pondsmith • Layout  by J Gray
-Copyright  © 2020 by R. Talsorian Games, Inc., Cyberpunk is a registered trademark of CD Projekt Red S.A. All rights reserved under the Universal Copyrights Convention.  
-All situations, governments, and people herein are fictional. Any similarities portrayed herein without satiric intent are strictly coincidental.
+*converting cyberpunk 2020 weapons to cyberpunk red*
 
 BY RICHARD BAGNALL
-3OLD GUNS NEVER DIE
-Here is how to port your Cyberpunk 2020  guns (and 
-melee weapons) to Cyberpunk RED .
-Step 0
-s tezer o s tezer o s tep zer o
-If your weapon doesn’t fire bullets, shotgun shells, 
-explosives, or arrows, or isn’t a typical gun or melee 
-weapon (for example, it has specific use require -
-ments or unique rules), your weapon is an Exotic 
-Weapon. Check the equipment sections in your entire 
-Cyberpunk RED  collection to see if we’ve already 
-written an Exotic Weapon that closely matches it. 
-If not, ask your GM if you can work something out. 
-Careful though, it might be imbalanced. Not every 
-weapon works well with every type of campaign. 
-Otherwise, move on.
-Step 1
-s tep o n es tep o n es tep o n e
-Find the weapon’s closest matching Weapon Type in Cyberpunk RED . Weapon Category 
-determines everything about a weapon except Weapon Accuracy and whether or not it is a 
-Poor Reliability Weapon, which is determined by 
-weapon quality. This means the weapon’s Single Shot Damage, Autofire Multiplier (if it has one), 
-Standard Magazine, Ammunition Type, Rate of Fire, 
-Hands Required, Cost, and Concealability change 
-to match the Weapon Type in the Cyberpunk RED  
-core rulebook.
-Step 2
-st e ptw o st e ptw o st e ptw o
-Flatten Weapon Accuracy (WA). If the 2020  
-weapon had -1 or less WA, in RED  it has 0 WA. If 
-it had +1 or more WA in 2020  it now has +1 WA, 
-which makes it an Excellent Quality Weapon in 
-Cyberpunk RED .
-Step 3
-st e pthr e e st e pthr e e st e pthr e e
-Flatten Reliability. Any 2020  Weapon with 
-Reliability of Unreliable (UR) becomes a Poor 
-Reliability Weapon in RED , meaning that whenever 
-you roll a Critical Failure when attacking with the 
-weapon, it Malfunctions, requiring an Action to reverse the jam, loose grip, etc, before it can be 
-used again. It is possible that after this conversion 
-you're left with an Excellent Quality Weapon that nonetheless jams because it is also a Poor 
-Reliability Weapon. Your GM (and likely, your 
-local Fixer) should take this into account when 
-pricing the item.
-Step 4
-st e pfo urst e pfo urst e pfo ur
-Determine the quality of the weapon. Weapons are 
-always sold based on the cost of the highest Weapon 
-Quality for which they qualify. Use the outcome of Steps 
-2 and 3 to and the table below to determine this.
-Weapon Quality Qualifications
-PoorPoor Reliability Weapon with +0 
-Weapon Accuracy
-Standard+0 Weapon Accuracy and is not a 
-Poor Reliability Weapon.
-Excellent+1 Weapon Accuracy, even if it is 
-Poor Reliability. 
-Step 5
-s tep f i ves tep f i ves tep f i ve
-Strip any old Weapon Attachments from the 
-weapon. Replace them with similar ones from RED . 
-If the 2020  version of the weapon has a Standard 
-Magazine size greater than listed for the Weapon’s 
-Type in RED , consider adding either the Extended 
-Magazine or Drum Magazine Attachment as is 
-fitting. Non-Exotic Weapons in Cyberpunk RED  
-come with 3 Attachment Slots. If the features of 
-the 2020  version would require Attachments that 
-take up more than 3 Attachment Slots, the weapon 
-should be considered Exotic. Note that some 
-Weapon Attachments, such as Extended Magazine, 
-can change the Concealability of a weapon from 
-YES to NO.
-Step 6
-st e psixst e psixst e psix
-Your GM will assign the Weapon a Cost based on its 
-value in the market. Call your Fixer. It might be a little harder to find that it used to be.
 
-4OLD GUNS NEVER DIE
-Example
-e xampl e e xAMPL E E XAMPL E E XAMPL E E XAMPL E
-Az decides, in their next game, the Crew will be hired to track down a cargo container of old Neo-Soviet 
-weapons from the 4th Corporate War period. Knowing they’ll probably skim a gun or two off the top, Az works 
-on converting a few Neo-Soviet firearms from Blackhand’s Street Weapons  to Cyberpunk RED  rules. They 
-start with the Stolbovoy St-5 Assault Rifle and, specifically, the variant that comes with an installed Smartgun 
-Link. In Cyberpunk 2020 , the Stolbovoy had the following stat loadout.
-Relability : -1
-Concealability : Can’t be Hidden
-Availability : Common or Rare depending on the part of the world you’re in.
-Damage : 5d6 (5.45mm)
-# of Shots : 30
-Rate of Fire : 1/30
-Reliability : Very Reliable
-Range : 400m
-Cost : 1,800eb
-Features : Smartgun Link
-Obviously, this is an Assault Rifle, so Az compares the 2020  St-5’s stats to the Assault Rifle Weapon Type in 
-Cyberpunk RED . Concealability and Single Shot Damage do not change. Availability isn’t a factor and is disre -
-garded. Rate of Fire 1/30 becomes simply ROF 1. Autofire works differently in Cyberpunk RED  so the second 
-number is irrelevant and all Assault Rifles have a ROF of 1. The # of Shots is 30 but the Standard Magazine for 
-an Assault Rifle in RED  is 25. Az makes a note to come back to that when working on the Attachments. The 400m 
-Range is tossed out, as all Assault Rifles in Cyberpunk RED  use the same row on the Range Table. Cost changes 
-from 1,800eb to 500eb but Az knows that’ll change as they continue along with the process.
-The St-5 in 2020  has a Weapon Accuracy of -1. That gets flattened to +0. The Weapon Quality is Very 
-Reliable. Only Unreliable would matter in this conversion, so no changes there. Looking at the table for Step 4 
-of the conversion process, Az sees the Stolbovoy St-5 is a Standard Quality Weapon since it has a +0 Weapon 
-Accuracy and does not have a Poor Reliability. So far, the cost of 500eb is unchanged.
-The St-5 has one feature: a Smartgun Link. There’s a Smartgun Link Weapon Attachment in RED , so Az adds 
-that to the weapon’s stat loadout. That adds 500eb to the weapon’s cost for a total of 1,000eb. Az also decides 
-to address the difference between the magazine size of the St-5 in 2020  and the standard Assault Rifle in RED  
-by adding an Extended Magazine Attachment. That brings the magazine size to 35 and the standard value of 
-a St-5 in a 2045 Fixer’s Night Market to 1,100eb.
- ▶Stolbovoy  St-5
-Weapon  
-TypeWeapon  
-Skill Single 
-Shot 
-DamageStandard 
-MagazineRate 
-of Fire
-(ROF)Hands 
-RequiredCan be
-Concealed?Cost
-Assault Rifle Shoulder Arms 5d635
-(Rifle)1 2 NO 1,100eb
-Alt. Fire Modes & Special Features : Autofire (4) • Suppressive Fire 
-Weapon Attachments : Smartgun Link (2 slots) • Extended Magazine (1 slot)
+Writing and Design by Mike Pondsmith, James Hutt, Cody Pondsmith, and J Gray  
+Editing by Matt Click • Art Direction by Jaye Kovach  
+Business Management by Lisa Pondsmith • Layout by J Gray
+
+Copyright © 2020 by R. Talsorian Games, Inc., Cyberpunk is a registered trademark of CD Projekt Red S.A. All rights reserved under the Universal Copyrights Convention.  
+All situations, governments, and people herein are fictional. Any similarities portrayed herein without satiric intent are strictly coincidental.
+
+---
+
+## Old Guns Never Die
+
+Here is how to port your Cyberpunk 2020 guns (and melee weapons) to Cyberpunk RED.
+
+### Step 0
+
+If your weapon doesn't fire bullets, shotgun shells, explosives, or arrows, or isn't a typical gun or melee weapon (for example, it has specific use requirements or unique rules), your weapon is an Exotic Weapon. Check the equipment sections in your entire Cyberpunk RED collection to see if we've already written an Exotic Weapon that closely matches it. If not, ask your GM if you can work something out. Careful though, it might be imbalanced. Not every weapon works well with every type of campaign. Otherwise, move on.
+
+### Step 1
+
+Find the weapon's closest matching Weapon Type in Cyberpunk RED. Weapon Category determines everything about a weapon except Weapon Accuracy and whether or not it is a Poor Reliability Weapon, which is determined by weapon quality. This means the weapon's Single Shot Damage, Autofire Multiplier (if it has one), Standard Magazine, Ammunition Type, Rate of Fire, Hands Required, Cost, and Concealability change to match the Weapon Type in the Cyberpunk RED core rulebook.
+
+### Step 2
+
+Flatten Weapon Accuracy (WA). If the 2020 weapon had -1 or less WA, in RED it has 0 WA, and if it had +1 or more WA in 2020 it now has +1 WA, which makes it an Excellent Quality Weapon in Cyberpunk RED.
+
+### Step 3
+
+Flatten Reliability. Any 2020 Weapon with Reliability of Unreliable (UR) becomes a Poor Reliability Weapon in RED, meaning that whenever you roll a Critical Failure when attacking with the weapon, it Malfunctions, requiring an Action to reverse the jam, loose grip, etc, before it can be swung or fired again. It is possible that after this conversion you're left with an Excellent Quality Weapon that nonetheless jams because it is also a Poor Reliability Weapon. Your GM (and likely, your local Fixer) should take this into account when pricing the item.
+
+### Step 4
+
+Determine the quality of the weapon. Weapons are always sold based on the cost of the highest Weapon Quality for which they qualify. Use the outcome of Steps 2 and 3 to use the table below to determine this.
+
+#### Weapon Quality Qualifications
+
+| Weapon Quality | Qualifications |
+|----------------|----------------|
+| Poor | Poor Reliability Weapon with +0 Weapon Accuracy |
+| Standard | +0 Weapon Accuracy, and is not a Poor Reliability Weapon. |
+| Excellent | +1 Weapon Accuracy, even if it is Poor Reliability. |
+
+### Step 5
+
+Strip any old Weapon Attachments off of the weapon. Replace them with similar ones from RED. If the 2020 version of the weapon has a Standard Magazine size greater than what is listed for the Weapon's Type in RED, consider adding either the Extended Magazine or Drum Magazine Attachment as is fitting. Non-Exotic Weapons in Cyberpunk RED come with 3 Attachment Slots. If the features of the 2020 version would require Attachments that take up more than 3 Attachment Slots, the weapon should be considered Exotic. Note that some Weapon Attachments, such as Extended Magazine, can change the Concealability of a weapon from YES to NO.
+
+### Step 6
+
+Your GM will assign the Weapon a Cost based on its value in the market. Call your Fixer. It might be a little harder to find than it used to be.
+
+### Example
+
+Az decides, in their next game, the Crew will be hired to track down a cargo container of old Neo-Soviet weapons from the 4th Corporate War period. Knowing they'll probably skim a gun or two off the top, Az works on converting a few Neo-Soviet firearms from Blackhand's Street Weapons to Cyberpunk RED rules. They start with the Stolbovoy St-5 Assault Rifle and, specifically, the variant that comes with an installed Smartgun Link. In Cyberpunk 2020, the Stolbovoy had the following stat loadout.
+
+- Weapon Accuracy : -1
+- Concealability : Can't be Hidden
+- Availability : Common or Rare depending on the part of the world you're in.
+- Damage : 5d6 (5.45mm)
+- # of Shots : 30
+- Rate of Fire : 1/30
+- Reliability : Very Reliable
+- Range : 400m
+- Cost : 1,800eb
+- Features : Smartgun Link
+
+Obviously, this is an Assault Rifle, so Az compares the 2020 St-5's stats to the Assault Rifle Weapon Type in Cyberpunk RED. Concealability and Single Shot Damage do not change. Availability isn't a factor and is disregarded. Rate of Fire 1/30 becomes simply ROF 1. Autofire works differently in Cyberpunk RED so the second number is irrelevant and all Assault Rifles have a ROF of 1. The # of Shots is 30 but the Standard Magazine for an Assault Rifle in RED is 25. Az makes a note to come back to that when working on the Attachments. The 400m Range is tossed out, as all Assault Rifles in Cyberpunk RED use the same row on the Range Table. Cost changes from 1,800eb to 500eb but Az knows that'll change as they continue along with the process.
+
+The St-5 in 2020 has a Weapon Accuracy of -1. That gets flattened to +0. The Weapon Quality is Very Reliable. Only Unreliable would matter in this conversion, so no changes there. Looking at the table for Step 4 of the conversion process, Az sees the Stolbovoy St-5 is a Standard Quality Weapon since it has a +0 Weapon Accuracy and does not have a Poor Reliability. So far, the cost of 500eb is unchanged.
+
+The St-5 has one feature: a Smartgun Link. There's a Smartgun Link Weapon Attachment in RED, so Az adds that to the weapon's stat loadout. That adds 500eb to the weapon's cost for a total of 1,000eb. Az also decides to address the difference between the magazine size of the St-5 in 2020 and the standard Assault Rifle in RED by adding an Extended Magazine Attachment. That brings the magazine size to 35 and the standard value of a St-5 in a 2045 Fixer's Night Market to 1,100eb.
+
+#### ▶ Stolbovoy St-5
+
+| Weapon Type | Weapon Skill | Single Shot Damage | Standard Magazine | Rate of Fire (ROF) | Hands Required | Can be Concealed? | Cost |
+|-------------|--------------|-------------------|-------------------|--------------------|----------------|-------------------|------|
+| Assault Rifle | Shoulder Arms | 5d6 | 35 (Rifle) | 1 | 2 | NO | 1,100eb |
+
+**Alt. Fire Modes & Special Features:** Autofire (4) • Suppressive Fire
+
+**Weapon Attachments:** Smartgun Link (2 slots) • Extended Magazine (1 slot)

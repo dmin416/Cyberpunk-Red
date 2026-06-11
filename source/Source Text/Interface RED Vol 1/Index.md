@@ -22,7 +22,7 @@ Train heist scenario.
 
 ### [Single Shot Pack](<03 Single Shot Pack.md>)
 
-Additional weapons by role.
+Ten pregens and six NET architectures for one-shot play.
 
 - [Single Shot Pack](<03 Single Shot Pack.md#single-shot-pack>)
 
@@ -43,16 +43,18 @@ Night City's in-setting MMORPG rules.
 
 ### [ELO Expansion Pack 1](<06 ELO Expansion Pack 1.md>)
 
-Expansion on Elflines Online content.
+Ten Night City ELO players, ten server PCs, and ten pregens.
 
 - [ELO Expansion Pack 1](<06 ELO Expansion Pack 1.md#elo-expansion-pack-1>)
 
 
 ### [All About Drones](<07 All About Drones.md>)
 
-Exclusive: Zhirafa and personal drones.
+Exclusive: six new drones — GRAF3, Savannah Eagle & Panther, and three personal drones.
 
-- [All About Drones](<07 All About Drones.md#all-about-drones>)
+- [All About Drones](<07 All About Drones.md#all-about-drones>) (p. 58)
+- [Zhirafa Drones](<07 All About Drones.md#zhirafa-drones>) (p. 59)
+- [Personal Drones](<07 All About Drones.md#personal-drones>) (p. 61)
 
 
 ## Files

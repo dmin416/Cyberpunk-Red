@@ -8,30 +8,50 @@ Third Interface RED compilation. DLCs plus exclusive article **Going Metal** (fu
 
 ### [Hardened Mini Bosses](<01 Hardened Mini Bosses.md>)
 
-Expanded boss-tier enemies.
+Six Hardened Mini Boss stat blocks, mini promotion table, and blank NPC sheets.
 
-- [Hardened Mini Bosses](<01 Hardened Mini Bosses.md#hardened-mini-bosses>)
+- [Hardened Mini Bosses](<01 Hardened Mini Bosses.md#hardened-mini-bosses>) (p. 4)
+- [Mini Boss Mini Promotions](<01 Hardened Mini Bosses.md#mini-boss-mini-promotions>) (p. 4)
+- [Hardened Arasaka Assassin](<01 Hardened Mini Bosses.md#hardened-arasaka-assassin>) (p. 5)
+- [Hardened Executive Protection](<01 Hardened Mini Bosses.md#hardened-executive-protection>) (p. 5)
+- [Hardened Militech Veteran](<01 Hardened Mini Bosses.md#hardened-militech-veteran>) (p. 6)
+- [Hardened Outrider](<01 Hardened Mini Bosses.md#hardened-outrider>) (p. 6)
+- [Hardened Pyro](<01 Hardened Mini Bosses.md#hardened-pyro>) (p. 7)
+- [Hardened Sniper](<01 Hardened Mini Bosses.md#hardened-sniper>) (p. 7)
 
 
 ### [Digital Dating in the Dark Future](<02 Digital Dating in the Dark Future.md>)
 
-In-setting dating app / social mechanics.
+The Garden Dating app and Datepath tables for first dates in Night City.
 
-- [Digital Dating in the Dark Future](<02 Digital Dating in the Dark Future.md#digital-dating-in-the-dark-future>)
+- [Digital Dating in the Dark Future](<02 Digital Dating in the Dark Future.md#digital-dating-in-the-dark-future>) (p. 10)
+- [Datepath? What is this?](<02 Digital Dating in the Dark Future.md#datepath-what-is-this>) (p. 10)
+- [The Datepath](<02 Digital Dating in the Dark Future.md#the-datepath>) (p. 11)
+- [Keywords](<02 Digital Dating in the Dark Future.md#keywords>) (p. 11)
+- [Where is Your Date?](<02 Digital Dating in the Dark Future.md#where-is-your-date>) (p. 12)
+- [What is Your Date?](<02 Digital Dating in the Dark Future.md#what-is-your-date>) (p. 12)
+- [How Does Your Date Go?](<02 Digital Dating in the Dark Future.md#how-does-your-date-go>) (p. 19)
+- [The Post-Date Review](<02 Digital Dating in the Dark Future.md#the-post-date-review>) (p. 23)
 
 
 ### [Woodchipper's Garage](<03 Woodchipper's Garage.md>)
 
-Vehicle content.
+Twelve explosion- and fire-themed exotic weapons sold by Nomad fixer Woodchipper.
 
-- [Woodchipper's Garage](<03 Woodchipper's Garage.md#woodchippers-garage>)
+- [Woodchipper's Garage](<03 Woodchipper's Garage.md#woodchippers-garage>) (p. 26)
+- [Today at the Source](<03 Woodchipper's Garage.md#today-at-the-source>) (p. 26)
+- [Woodchipper's Boomsticks](<03 Woodchipper's Garage.md#woodchippers-boomsticks>) (p. 27)
+- [Woodchipper's Boomsticks Weapon Master Table](<03 Woodchipper's Garage.md#woodchippers-boomsticks-weapon-master-table>) (p. 30)
 
 
 ### [Salvaging Night City](<04 Salvaging Night City.md>)
 
-Scavenging rules.
+Downtime salvaging rules and 3-Piece's guide to scavenging the ruins.
 
-- [Salvaging Night City](<04 Salvaging Night City.md#salvaging-night-city>)
+- [Salvaging Night City](<04 Salvaging Night City.md#salvaging-night-city>) (p. 32)
+- [Hustling with 3-Piece](<04 Salvaging Night City.md#hustling-with-3-piece>) (p. 32)
+- [Salvaging Rules](<04 Salvaging Night City.md#salvaging-rules>) (p. 35)
+- [Keyword Info](<04 Salvaging Night City.md#keyword-info>) (p. 36)
 
 
 ### [Midnight with the Upload](<05 Midnight with the Upload.md>)
