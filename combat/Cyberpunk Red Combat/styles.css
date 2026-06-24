@@ -793,6 +793,16 @@ body {
     animation: reset-pulse 0.9s ease-in-out infinite alternate;
 }
 
+.btn-action--recover {
+    border-color: var(--green);
+    color: var(--green);
+}
+
+.btn-action--recover:hover:not(:disabled) {
+    background: var(--green);
+    color: var(--bg-deep);
+}
+
 @keyframes reset-pulse {
     from { box-shadow: 0 0 4px rgba(255, 42, 109, 0.4); }
     to { box-shadow: 0 0 14px rgba(255, 42, 109, 0.85); }

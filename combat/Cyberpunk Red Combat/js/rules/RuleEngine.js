@@ -7,6 +7,7 @@ import {
 import { ruleBuyItem, ruleEquipItem, ruleSellItem } from './RuleStore.js';
 import { rulePlayerAttack } from './RuleAttack.js';
 import { ruleUpdateCharacter } from './RuleCharacter.js';
+import { ruleRestAndRecover } from './RuleRest.js';
 
 /**
  * Single entry point for all mechanical resolution.
@@ -31,6 +32,12 @@ export function RuleEngine(state, command) {
                 command.payload.defenderId,
                 command.payload.sourceId,
             );
+
+        case PlayerCommandType.REST_RECOVER:
+            return ruleRestAndRecover(state, { days: 1 });
+
+        case PlayerCommandType.REST_UNTIL_FULL:
+            return ruleRestAndRecover(state, { untilFull: true });
 
         case PlayerCommandType.RESET_SESSION:
             return ruleResetSession(state);

@@ -1,6 +1,7 @@
 import { getStoreItemById } from '../data/GearCatalog.js';
 import { updateCombatant } from '../core/GameState.js';
 import { applyDamageToCombatant } from '../combat/Combatant.js';
+import { markUnstableIfDamaged } from './RuleRest.js';
 import {
     BODY_CRITICAL_INJURIES,
     HEAD_CRITICAL_INJURIES,
@@ -101,7 +102,10 @@ export function resolveCriticalInjuries(state, defender, attacker, {
         );
         trace.push(`IF Critical Injury THEN +${CRITICAL_INJURY_BONUS_DAMAGE} bonus HP (ignores armor)`);
 
-        const wounded = applyDamageToCombatant(current, CRITICAL_INJURY_BONUS_DAMAGE);
+        const wounded = markUnstableIfDamaged(
+            applyDamageToCombatant(current, CRITICAL_INJURY_BONUS_DAMAGE),
+            CRITICAL_INJURY_BONUS_DAMAGE,
+        );
         const deathSavePenalty = (current.deathSavePenalty ?? 0)
             + (injury.effect.includes('Death Save Penalty') ? 1 : 0);
 

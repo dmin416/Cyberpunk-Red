@@ -2,6 +2,7 @@ import { DiceRoller } from '../system/DiceRoller.js';
 import { applyDamageToCombatant } from '../combat/Combatant.js';
 import { updateCombatant } from '../core/GameState.js';
 import { createRuleOutcome } from '../core/RuleOutcome.js';
+import { markUnstableIfDamaged } from './RuleRest.js';
 
 /**
  * Parse "2d6" style dice (v1 subset).
@@ -70,7 +71,10 @@ export function applyArmorToDamage(rawDamage, armorSP, options = {}) {
  * @returns {import('../core/GameState.js').GameState}
  */
 export function applyDamageToState(state, defender, damageThrough, newArmorSP) {
-    const wounded = applyDamageToCombatant(defender, damageThrough);
+    const wounded = markUnstableIfDamaged(
+        applyDamageToCombatant(defender, damageThrough),
+        damageThrough,
+    );
     const withArmor = { ...wounded, armorSP: newArmorSP };
     return updateCombatant(state, withArmor);
 }

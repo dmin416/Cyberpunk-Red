@@ -3,6 +3,7 @@ import { RuleEngine } from '../rules/RuleEngine.js';
 import { isCombatantAlive } from '../combat/Combatant.js';
 import { ENEMY_CATALOG } from '../data/EnemyCatalog.js';
 import { hasLivingEnemies } from '../rules/RuleAttack.js';
+import { playerNeedsRest } from '../rules/RuleRest.js';
 
 /**
  * Classic game loop: read state → accept command → RuleEngine → apply outcome → render.
@@ -37,7 +38,9 @@ export class GameLoop {
         for (const line of outcome.narrativeLines) {
             const css = line.includes('Critical Injury') || line.includes('CRIT SUCCESS') || line.includes('CRIT FAILURE')
                 ? 'crit'
-                : line.includes('You\'re down') || line.includes('Enemy turn')
+                : line.includes('Stabiliz') || line.includes('Rest day') || line.includes('Rest break')
+                    ? 'rule'
+                    : line.includes('You\'re down') || line.includes('Enemy turn')
                     ? 'rule'
                     : line.includes(' hits you') || line.includes(' misses you')
                         ? 'hit'
@@ -83,6 +86,14 @@ export class GameLoop {
                 commands.push(
                     createPlayerCommand(PlayerCommandType.ADD_ENEMY, { templateId: template.id }),
                 );
+            }
+        }
+
+        if (this.state.shoppingOpen && !hasLivingEnemies(this.state)) {
+            const player = this.state.combatants.find((c) => c.isPlayerControlled);
+            if (playerNeedsRest(player)) {
+                commands.push(createPlayerCommand(PlayerCommandType.REST_RECOVER));
+                commands.push(createPlayerCommand(PlayerCommandType.REST_UNTIL_FULL));
             }
         }
 

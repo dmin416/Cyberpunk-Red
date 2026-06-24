@@ -13,9 +13,13 @@ import { hasLivingEnemies, attackSourceLabel, getSourceRof } from '../rules/Rule
 import { isPlayerAlive } from '../rules/RuleEnemyTurn.js';
 import { formatCriticalInjuryLabels } from '../data/CriticalInjuries.js';
 import { formatBodyDamageLabel } from '../rules/BodyDamage.js';
+import { getWoundState, woundStateLabel } from '../rules/RuleWoundState.js';
+import { playerNeedsRest } from '../rules/RuleRest.js';
 
 const COMMAND_LABELS = {
     [PlayerCommandType.RESET_SESSION]: 'Reset',
+    [PlayerCommandType.REST_RECOVER]: 'Rest 1 Day',
+    [PlayerCommandType.REST_UNTIL_FULL]: 'Rest Until Full',
 };
 
 const INVENTORY_SECTIONS = ['weapon', 'armor', 'cyberware', 'grenade', 'ammo', 'gear'];
@@ -373,10 +377,16 @@ export class UIController {
             ? `<dt>Critical Injuries</dt><dd>${formatCriticalInjuryLabels(player.criticalInjuries)}</dd>`
             : '';
 
+        const wound = player ? getWoundState(player) : 'none';
+        const woundNote = wound !== 'none'
+            ? `<dt>Wounds</dt><dd>${woundStateLabel(wound)}${player?.stabilized === false ? ' · not stabilized' : player?.stabilized ? ' · stabilized' : ''}</dd>`
+            : '';
+
         this.el.sessionReadout.innerHTML = `
             <dt>Stats</dt><dd>REF ${player?.ref ?? 0} · DEX ${player?.dex ?? 0} · BODY ${player?.body ?? 0} · WILL ${player?.will ?? 0} · MOVE ${player?.move ?? 0}</dd>
             <dt>Skills</dt><dd>${skillSummary}</dd>
             <dt>You</dt><dd>HP ${player?.hp ?? 0}/${player?.maxHp ?? 0} <span class="derived-note">(10 + 5×⌈(BODY+WILL)/2⌉)</span> · SP ${player?.armorSP ?? 0}</dd>
+            ${woundNote}
             ${critNote}
             <dt>Target</dt><dd>${this.selectedEnemyId
                 ? state.combatants.find((c) => c.id === this.selectedEnemyId)?.displayName ?? '—'
@@ -393,9 +403,23 @@ export class UIController {
                     : 'Click an enemy, then pick a weapon or martial move to attack.'
                 : state.shoppingOpen && hasLivingEnemies(state)
                     ? 'Enemies staged. Shop or add more, then click a target and attack.'
-                    : 'Buy gear, add enemies on the right, then fight for eurobucks.';
+                    : state.shoppingOpen && playerNeedsRest(player)
+                        ? 'Area clear — rest to stabilize and heal (BODY HP/day), or shop for gear.'
+                        : 'Buy gear, add enemies on the right, then fight for eurobucks.';
 
         this.el.turnActions.innerHTML = '';
+
+        for (const cmd of commands.filter((c) => (
+            c.type === PlayerCommandType.REST_RECOVER || c.type === PlayerCommandType.REST_UNTIL_FULL
+        ))) {
+            const btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'btn-action btn-action--recover';
+            btn.textContent = COMMAND_LABELS[cmd.type] ?? cmd.type;
+            btn.addEventListener('click', () => this.onCommand(cmd));
+            this.el.turnActions.appendChild(btn);
+        }
+
         for (const cmd of commands.filter((c) => c.type === PlayerCommandType.RESET_SESSION)) {
             const btn = document.createElement('button');
             btn.type = 'button';

@@ -39,7 +39,8 @@ export function createPlayerCharacter() {
         baseMove: stat,
         armorSP: 0,
         eurobucks: STARTING_EUROBUCKS,
-        skills: defaultPlayerSkills(stat),
+        skills: { ...defaultPlayerSkills(stat), firstAid: Math.max(2, stat) },
+        tech: stat,
         weapon: { ...UNARMED_WEAPON },
         inventory: [],
     }));

@@ -55,6 +55,7 @@
  * @property {number} [initiativeTotal]
  * @property {string[]} [criticalInjuries] - active Critical Injury ids
  * @property {number} [deathSavePenalty]
+ * @property {boolean} [stabilized] - CP:R natural healing requires stabilization after damage
  */
 
 /**
@@ -83,6 +84,7 @@ export function createCombatant(partial) {
         inventory: [],
         criticalInjuries: [],
         deathSavePenalty: 0,
+        stabilized: true,
         ...partial,
     };
 }
