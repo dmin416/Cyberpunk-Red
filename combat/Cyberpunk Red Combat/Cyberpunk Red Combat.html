@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberpunk Red Combat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-shell">
+        <header class="game-header">
+            <h1 class="game-title">
+                <span class="cyber-glow">CYBERPUNK</span>
+                <span class="red-glow">RED</span>
+            </h1>
+            <p class="game-subtitle">Combat</p>
+        </header>
+
+        <div class="game-layout">
+            <aside class="game-panel game-panel--inventory" aria-label="Inventory and store">
+                <div class="wallet-bar" id="walletBar">—</div>
+
+                <h2 class="panel-title">Your Gear</h2>
+                <div class="inventory-list" id="inventoryList"></div>
+
+                <div class="store-block">
+                    <h2 class="panel-title">Night Market Store</h2>
+                    <input
+                        type="search"
+                        class="store-search"
+                        id="storeSearch"
+                        placeholder="Search weapons, armor, cyberware, ammo…"
+                        autocomplete="off"
+                    />
+                    <div class="store-categories" id="storeCategories" role="tablist"></div>
+                    <div class="store-subcategories" id="storeSubcategories" role="tablist" hidden></div>
+                    <div class="store-list" id="storeList"></div>
+                </div>
+            </aside>
+
+            <main class="game-panel game-panel--center" aria-label="Combat status and log">
+                <section class="attack-block" id="attackBlock" aria-label="Attack options" hidden>
+                    <section class="attack-panel" id="attackPanel">
+                        <h2 class="panel-title">Attack <span id="attackTargetName"></span></h2>
+                        <div class="attack-options" id="attackOptions"></div>
+                    </section>
+                </section>
+
+                <section class="log-block" aria-label="Combat log">
+                    <h2 class="panel-title">Log</h2>
+                    <div class="log-scroll" id="narrativeLog" tabindex="0"></div>
+                    <details class="rule-trace-details">
+                        <summary>Rule trace</summary>
+                        <pre class="rule-trace" id="ruleTrace"></pre>
+                    </details>
+                </section>
+
+                <section class="status-block" aria-label="Status">
+                    <div class="phase-banner" id="phaseBanner">Phase: SETUP</div>
+                    <p class="status-hint" id="statusHint"></p>
+
+                    <div class="status-grid">
+                        <dl class="state-readout" id="sessionReadout"></dl>
+                    </div>
+
+                    <div class="turn-actions" id="turnActions" aria-label="Actions"></div>
+                </section>
+            </main>
+
+            <aside class="game-panel game-panel--enemies" aria-label="Enemies">
+                <h2 class="panel-title">Enemies</h2>
+                <div class="add-enemy-bar" id="addEnemyBar" aria-label="Add enemies"></div>
+                <div class="enemy-list" id="enemyList"></div>
+            </aside>
+        </div>
+
+        <section class="character-customizer" id="characterCustomizer" aria-label="Character customizer">
+            <h2 class="panel-title character-customizer__title">Character</h2>
+            <p class="character-customizer__hint" id="characterHint"></p>
+            <div class="character-presets" id="characterPresets" role="group" aria-label="Character presets"></div>
+            <div class="character-customizer__grid" id="characterForm"></div>
+        </section>
+
+        <footer class="game-footer">
+            <p>Cyberpunk RED is © R. Talsorian Games, Inc. — unofficial fan tool.</p>
+        </footer>
+    </div>
+
+    <script type="module" src="js/game-main.js"></script>
+</body>
+</html>
