@@ -11,10 +11,10 @@
 - **TECH:** 2  
 - **COOL:** 2  
 - **WILL:** 8  
-- **LUCK:**  
 - **MOVE:**  
 - **BODY:** 2  
 - **EMP:** 8  
+- **LUCK:**  
 
 **HP:**  
 **Humanity:**  

@@ -6,7 +6,7 @@ The full game. Includes the Time of the Red setting, Interlock System rules (sta
 
 Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order.
 
-**18 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file.
+**19 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapter 19, *No Place Like Home*, is the base-building DLC (extracted from `PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf`), filed here as a core chapter.
 
 ## Chapters
 
@@ -30,6 +30,7 @@ Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order.
 | 16 | [The New Street Economy](<16 The New Street Economy.md>) | The New Street Economy | 333 |
 | 17 | [Screamsheets](<17 Screamsheets.md>) | Screamsheets | 425 |
 | 18 | [Black Dog](<18 Black Dog.md>) | Black Dog | 435 |
+| 19 | [No Place Like Home](<19 No Place Like Home.md>) | No Place Like Home (DLC) | DLC 1 |
 
 ## Subsections by chapter
 
@@ -403,3 +404,17 @@ Short fiction set in 2045: a search for a legacy tied to the past.
 - [Los Alamos](<18 Black Dog.md#los-alamos>) (p. 447)
 - [Epilogue](<18 Black Dog.md#epilogue>) (p. 449)
 - [Black Dog](<18 Black Dog.md#black-dog>) (p. 449)
+
+### [No Place Like Home](<19 No Place Like Home.md>)
+
+Base-building DLC (August 2024): rules for earning HQ IP and buying HQ Improvements and Upgrades for a crew Headquarters.
+
+- [What is a Headquarters?](<19 No Place Like Home.md#what-is-a-headquarters>) (DLC p. 2)
+- [Earning Headquarters IP (HQ IP)](<19 No Place Like Home.md#earning-headquarters-ip-hq-ip>) (DLC p. 3)
+- [Your Very Own HQ](<19 No Place Like Home.md#your-very-own-hq>) (DLC p. 3)
+- [HQ Improvements and Upgrades](<19 No Place Like Home.md#hq-improvements-and-upgrades>) (DLC p. 3)
+- [Headquarters Improvements](<19 No Place Like Home.md#headquarters-improvements>) (DLC p. 3)
+- [Morale Boost Upgrade](<19 No Place Like Home.md#morale-boost-upgrade>) (DLC p. 5)
+- [NPC Faction Headquarters](<19 No Place Like Home.md#npc-faction-headquarters>) (DLC p. 7)
+- [A Home for the Cyber6](<19 No Place Like Home.md#a-home-for-the-cyber6>) (DLC p. 7)
+- [Headquarters Record Sheet](<19 No Place Like Home.md#headquarters-record-sheet>) (DLC p. 8)

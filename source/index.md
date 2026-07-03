@@ -28,7 +28,7 @@ Catalog of source materials for this repository. Each entry represents content p
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces (Never Fade Away / The Fall of the Towers / Black Dog).
 
-**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 18 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk).
+**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 19 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk), [No Place Like Home](<Source Text/Core Rulebook/19 No Place Like Home.md>) (base-building DLC).
 
 ---
 
@@ -282,7 +282,8 @@ source/
 │   ├── Interface RED Vol 2.pdf
 │   ├── Interface RED Vol 3.pdf
 │   ├── Interface RED Vol 4.pdf
-│   └── Interface RED Vol 5.pdf
+│   ├── Interface RED Vol 5.pdf
+│   └── RTG-CPR-DLC-NoPlaceLikeHome.pdf
 ├── Rules/
 │   └── Mechanics/
 └── Source Text/
