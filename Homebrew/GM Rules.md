@@ -11,20 +11,6 @@ Guidance and house rulings for Game Masters.
 - All GMs can only host **one gig at a time**. This includes easy gigs.
 - All gigs must be posted in **gig-ic** and **gig-ooc** respectively.
 
-### GM Payout (Per Hosted Gig)
-
-One of your characters receives the following when hosting:
-
-| Difficulty | eb | IP |
-|------------|-----|-----|
-| **Easy** | 250 | 20 |
-| **Mild** | 750 | 70 |
-| **Hazardous** | 2500 | 250 |
-| **Lethal** | 4000 | 400 |
-| **Hyper Lethal** | Whatever amount is approved |
-
-If the players lose, you still gain that amount.
-
 ### General Guidelines
 
 - **Lethal gigs should be lethal.** Make sure the gig's payment matches its difficulty.
@@ -37,6 +23,7 @@ If the players lose, you still gain that amount.
 - **Don't railroad.** Having consequences for player actions is not railroading, but preventing them from making their own decisions is. Make sure consequences are reasonable.
 - Let staff know if a player becomes an issue.
 - Make sure you tag your gigs **"Complete"** once they end (the forum post).
+- When you host a gig, **one of your characters** receives the **GM payout** for that difficulty (see tables below). You still gain that amount **even if the players lose**.
 
 ### Loot Limits
 
@@ -50,11 +37,17 @@ Any loot exceeding this value should be treated as **unsellable** at the end of 
 
 ---
 
-## Gig Difficulty Tiers (Street Level)
+## Gig Difficulty — Street Level
+
+| Difficulty | Player Payout | Rep Max | GM Payout |
+|------------|---------------|---------|-----------|
+| **Easy** | 0–500eb · 0–50 IP | 1 | 250eb · 20 IP |
+| **Mild** | 500–1,500eb · 50–150 IP | 3 | 750eb · 70 IP |
+| **Hazardous** | 1,500–3,000eb · 150–300 IP | 5 | 2,500eb · 250 IP |
+| **Lethal** | 3,000–5,000eb · 300–500 IP | 7 *(4 rep to enter)* | 4,000eb · 400 IP |
+| **Hyper Lethal** | 5,000–7,500eb · 500–750 IP | 10 | Staff-approved |
 
 ### Easy
-
-**0–500eb | 0–50 IP | 1 rep max**
 
 A cake walk for anyone. Stupidity is the only potentially lethal thing here.
 
@@ -63,8 +56,6 @@ A cake walk for anyone. Stupidity is the only potentially lethal thing here.
 ---
 
 ### Mild
-
-**500–1,500eb | 50–150 IP | 3 rep max**
 
 A team of beginners could struggle, but the chance of any of them dying or failing is very low.
 
@@ -77,31 +68,100 @@ A team of beginners could struggle, but the chance of any of them dying or faili
 
 ### Hazardous
 
-**1,500–3,000eb | 150–300 IP | 5 rep max**
-
 A team of experienced edgerunners could struggle. High chance of injury and a low chance of death. Beginners could win, but it's a gamble at best.
 
 **Example:** A cyberpsycho has apparently taken over a building and C-SWAT is stretched too thin to deal with it. Goal is to kill him. He's been there a while and is obsessed with building traps. There's a survivor in the building you need to rescue.
+
+**Typical opposition (Street):** ~**equal** to the crew in total threat weight (see [Opposition by Gig Difficulty](#opposition-by-gig-difficulty)). One **Mini-Boss** or **Cyberpsycho**-tier anchor, plus **Lieutenants** and/or **Mooks** to round out the fight. Lean on **traps, timers, split objectives, and terrain** — not raw body count — to make it Hazardous. Deaths are possible but should not be the default outcome.
 
 ---
 
 ### Lethal
 
-**3,000–5,000eb | 300–500 IP | 7 rep max | Requires 4 rep to enter**
-
 If your team isn't prepared, expect death. Even veterans would struggle to win. Victory can still be achieved.
 
 **Example:** Storm and hold a ganger compound that knows a powerful force is coming and is ready for a fight. The compound is in their territory, so backup will arrive. One of them has a rocket launcher. The place is trapped and heavily fortified. You can't just blow it all up either.
+
+**Typical opposition (Street):** **more** than the crew in threat weight — roughly **1.25–1.5×** the party in the opening fight, plus **reinforcements** or a second wave. Expect **Mini-Bosses**, **Lieutenants** with standout gear (RL, explosives, heavy armor), and **fortifications**. Unprepared teams should lose people; winning while untouched is a red flag that the gig was underbalanced.
 
 ---
 
 ### Hyper Lethal
 
-**5,000–7,500eb | 500–750 IP | 10 rep max**
-
 Everything listed on this line is just a suggestion. Even Adam Smasher would think twice. Veterans would struggle significantly. High chance of death; even winning is a gamble. A suicide mission for any beginner.
 
 **Example:** Storming a ganger compound? Nah — you're gonna storm a **megacorp HQ**. When you do, they'll send everything they have. Tanks, large drones, whatever the fuck that thing is in Cynosure — it's all fair game. Expect to die. That can all happen before you complete your first objective. If you win, you'll be a legend.
+
+---
+
+## Opposition by Gig Difficulty
+
+Use **CP:R NPC levels** (*Screamsheets* p. 412+) to build fights. Each level converts to **Edgerunner-equivalent threat** when balancing:
+
+| NPC Level | Threat Weight | Rule of Thumb |
+|-----------|---------------|---------------|
+| **Mook** | 1 | 1 Mook per Edgerunner (2:1 if the crew is combat-heavy) |
+| **Lieutenant** | 2 | 1 Lieutenant per 2 Edgerunners |
+| **Mini-Boss** | 3 | 1 Mini-Boss per 3 Edgerunners |
+| **Boss** | 6+ | Can threaten a full crew alone; use sparingly |
+
+**Gear beats bodies.** Upgrading a Mook's weapon or armor can matter more than adding another Mook. A Lieutenant with an assault rifle and armorjack hits harder than three boostergangers with poor pistols.
+
+**Hardened crews need Hardened NPCs.** If the party runs heavy chrome, *Solo of Fortune* gear, or is mostly combat-optimized, bump opposition up a tier or **Harden** them: **+2** to all attacking and defending Skills, and either **+1 SP** on armor or **−1** to all armor penalties. Hardened NPCs should not carry Poor Quality gear unless they are Mooks.
+
+**Player count cap is 6.** The examples below assume a full crew; scale threat weight down proportionally for smaller groups.
+
+### Street — Hazardous
+
+| | Guidance |
+|---|----------|
+| **Threat budget** | ~**6** Edgerunner-equivalent for a 6-player crew |
+| **Who shows up** | **Mini-Boss** or **Cyberpsycho** anchor · **1–2 Lieutenants** · **2–4 Mooks** |
+| **Example mixes (6 players)** | 1 Mini-Boss + 3 Mooks · 2 Lieutenants + 2 Mooks · 1 Cyberpsycho + traps (no extra bodies) |
+| **Gear ceiling** | **Expensive** weapons on key NPCs; **Premium–Expensive** armor; grenades and one standout threat (flamethrower, SMG, netrunner deck) |
+| **What makes it Hazardous** | Traps · timed objectives · split goals (rescue + kill) · ambush positions · netrunning · environmental hazards |
+| **Death expectation** | **Low.** Injuries and critical injuries are common; a wipe is possible but the fight should not be built to flatline the crew |
+
+### Street — Lethal
+
+| | Guidance |
+|---|----------|
+| **Threat budget** | ~**8–10** Edgerunner-equivalent in the **opening** fight, plus **reinforcements** |
+| **Who shows up** | **1–2 Mini-Bosses** · **2–3 Lieutenants** · **4–6 Mooks** · optional **Boss** as climax |
+| **Example mixes (6 players)** | 1 Mini-Boss + 2 Lieutenants + 4 Mooks (11) · 2 Mini-Bosses + 2 Mooks (8) + backup wave of 4 Mooks · 1 Boss + 2 Lieutenants (10) |
+| **Gear ceiling** | **Very Expensive–Luxury** weapons on leaders; **armorjacks**; explosives, RLs, autofire; prepared defenses |
+| **What makes it Lethal** | Fortifications · the enemy **knows you're coming** · reinforcements on a clock · area denial · no easy exfil |
+| **Death expectation** | **Real.** Unprepared characters should die. If nobody is seriously hurt on a Lethal gig, it was underbalanced |
+
+### Mercenary — Hazardous
+
+Per *Interface RED Vol. 5* / *Solo of Fortune 2045*. **Do not scale enemy count to player count** — scale to the **situation**.
+
+| | Guidance |
+|---|----------|
+| **Average grunt** | **Hardened Lieutenant** |
+| **Cannon fodder** | **Hardened Mook** — trainees and new hires only; use sparingly |
+| **Climax / fierce resistance** | **Hardened Mini-Boss** or **Hardened Boss** |
+| **Gear** | **Military-grade** (*Interface 5*, *Solo of Fortune 2045*). Autofire, explosives, and attachments are baseline — not surprises |
+| **Extras** | Rival **Complete Package** edgerunner crews (with Role Abilities and LUCK) hired to interfere |
+| **Death expectation** | Veterans can win; beginners are gambling. Injuries should be routine |
+
+### Mercenary — Lethal
+
+| | Guidance |
+|---|----------|
+| **Opposition** | Whatever the **mission site** would realistically deploy — platoons, hardened squads, ACPAs, air support, fixed defenses |
+| **Key NPCs** | **Hardened Mini-Bosses** and **Hardened Bosses** for set-piece fights; **Hardened Lieutenants** as line troops |
+| **Rival crews** | Full **Complete Package** teams at party power level; expect them to use LUCK |
+| **Balance check** | If **new players** sign up and **none of them die**, you **severely underbalanced** the gig |
+| **Death expectation** | **High.** Signing up for Merc Lethal means accepting total party kill as a possible outcome |
+
+### Statblock Sources
+
+- **CP:R core** — *Screamsheets* p. 412+ (Bodyguard, Boosterganger, Security Operative, Netrunner, Outrider, Pyro, Cyberpsycho, etc.)
+- **Danger Gal Dossier** — faction NPCs by level
+- **Interface RED Vol. 5** — military gear and Mercenary opposition
+- **Hardened DLC** — Hardened variants when the crew outclasses street mooks
 
 ---
 
@@ -125,6 +185,8 @@ Type: [Gig type/approach]
 Premise: [Detailed situation description]
 
 Suggested Skillset: [Recommended roles/skills]
+
+Suggested Opposition: [NPC levels, rough headcount, reinforcements, standout gear]
 
 Timezone/Availability Requirement: [GM scheduling needs (including start date)]
 ```
@@ -191,19 +253,10 @@ Mercenary level gigs are harder than street level. That much is obvious.
 
 ### Mercenary Difficulty
 
-| Tier | Player Payout |
-|------|---------------|
-| **Easy** | Mercenary Easy doesn't exist. You're working for people who need firepower, not just some intern. |
-| **Mild** | 3000–5000eb • 300–500 IP |
-| **Hazardous** | 5000–7000eb • 500–700 IP |
-| **Lethal** | 7000–10,000eb • 700–1000 IP |
-| **Hyper Lethal** | 10,000eb+ • 1000 IP+ — Welcome to the front lines. |
-
-### Mercenary GM Payout
-
-| Difficulty | eb | IP |
-|------------|-----|-----|
-| **Mild** | 4000 | 400 |
-| **Hazardous** | 6000 | 600 |
-| **Lethal** | 8500 | 850 |
-| **Hyper Lethal** | Whatever is approved |
+| Difficulty | Player Payout | GM Payout |
+|------------|---------------|-----------|
+| **Easy** | *Doesn't exist.* You're working for people who need firepower, not just some intern. | — |
+| **Mild** | 3,000–5,000eb · 300–500 IP | 4,000eb · 400 IP |
+| **Hazardous** | 5,000–7,000eb · 500–700 IP | 6,000eb · 600 IP |
+| **Lethal** | 7,000–10,000eb · 700–1,000 IP | 8,500eb · 850 IP |
+| **Hyper Lethal** | 10,000eb+ · 1,000 IP+ — Welcome to the front lines. | Staff-approved |

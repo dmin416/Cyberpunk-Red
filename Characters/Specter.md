@@ -5,7 +5,7 @@
 
 ## Stats
 
-- **INT:** 8
+- **INT:** 2
 - **REF:** 8
 - **DEX:** 8
 - **TECH:** 2
@@ -14,7 +14,7 @@
 - **MOVE:** 8
 - **BODY:** 14 *(Implanted Linear Frame β — set to 14; was 2)*
 - **EMP:** 8
-- **LUCK:** 2
+- **LUCK:** 8
 
 **HP:** 65 *(10 + 5 × round-up((BODY 14 + WILL 8) / 2))*
 **Humanity:** _(EMP 8 → base 80, minus cyberware HL — set once gear is listed)_
