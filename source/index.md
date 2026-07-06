@@ -1,6 +1,6 @@
 # Cyberpunk RED Source Index
 
-Catalog of source materials for this repository. Each entry represents content planned or available under `source/`. Last updated: June 2026.
+Catalog of source materials for this repository. Each entry represents content planned or available under `source/`. Last updated: July 2026.
 
 ---
 
@@ -28,7 +28,7 @@ Catalog of source materials for this repository. Each entry represents content p
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces (Never Fade Away / The Fall of the Towers / Black Dog).
 
-**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 19 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk), [No Place Like Home](<Source Text/Core Rulebook/19 No Place Like Home.md>) (base-building DLC).
+**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 21 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk), [No Place Like Home](<Source Text/Core Rulebook/19 No Place Like Home.md>) (base-building DLC), [The 12 Days of Vehiclemas](<Source Text/Core Rulebook/20 The 12 Days of Vehiclemas.md>) (vehicle DLC), [Invented Tech Upgrades](<Source Text/Core Rulebook/21 Invented Tech Upgrades.md>) (Tech upgrade DLC).
 
 ---
 
@@ -123,6 +123,9 @@ A way to give a variety of critical injuries in firefights.
 | Mixing Drinks Changing Lives | [Mixing Drinks, Changing Lives](PDF/Mixing Drinks Changing Lives.pdf) | 2024 | free |
 | Danger Gal Dossier+ | [Danger Gal Dossier+](PDF/Danger Gal Dossier+.pdf) | 2023 | free |
 | Night Market Index | [Night Market Index](PDF/Night Market Index.pdf) | 2023 | free |
+| No Place Like Home | [No Place Like Home](PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf) | 2024 | free |
+| 12 Days of Vehiclemas | [The 12 Days of Vehiclemas](PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf) | 2025 | free |
+| Invented Tech Upgrades | [Invented Tech Upgrades](PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf) | 2026 | free |
 
 ### Mixing Drinks Changing Lives
 
@@ -141,6 +144,24 @@ Cut content from Danger Gal Dossier. Plot hooks for each faction, an additional 
 **Night Market Index** (November 2023, free, living document)
 
 Master catalog of every purchasable item, service, and gear in Cyberpunk RED with costs and source references across all supplements and DLCs. Updated through January 2026 (v1.24).
+
+### No Place Like Home
+
+**No Place Like Home** (August 2024, free)
+
+Base-building DLC. Rules for earning Headquarters IP and buying HQ Improvements and Upgrades for a crew Headquarters. Extracted as [Core Rulebook chapter 19](<Source Text/Core Rulebook/19 No Place Like Home.md>).
+
+### The 12 Days of Vehiclemas
+
+**The 12 Days of Vehiclemas** (December 2025, free)
+
+Holiday vehicle DLC. Twelve vehicles (land, air, and sea) updated from 2020 to 2045, plus new Nomad vehicle upgrades (Aerozep Selfsealing Gasbag, Hangar, Titanic Hull, etc.) and Luxury/Complex room rules. Extracted as [Core Rulebook chapter 20](<Source Text/Core Rulebook/20 The 12 Days of Vehiclemas.md>).
+
+### Invented Tech Upgrades
+
+**Invented Tech Upgrades** (March 2026, free)
+
+Tech upgrade DLC. Rules for buying and installing NPC-invented Tech Upgrades, a pricing thermometer, and eighteen example upgrades from six Night City Techs (Android Ace, Jack Sawyer, Lotos, Never Naughty Nedd, Troy Gordon, Tweak). Extracted as [Core Rulebook chapter 21](<Source Text/Core Rulebook/21 Invented Tech Upgrades.md>).
 
 ---
 
@@ -283,7 +304,9 @@ source/
 │   ├── Interface RED Vol 3.pdf
 │   ├── Interface RED Vol 4.pdf
 │   ├── Interface RED Vol 5.pdf
-│   └── RTG-CPR-DLC-NoPlaceLikeHome.pdf
+│   ├── RTG-CPR-DLC-NoPlaceLikeHome.pdf
+│   ├── RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf
+│   └── RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf
 ├── Rules/
 │   └── Mechanics/
 └── Source Text/

@@ -4,6 +4,17 @@
 
 Living master catalog of every purchasable item, service, and gear in Cyberpunk RED with costs and source references. Updated through January 2026 (v1.24).
 
+## Source Abbreviations
+
+Abbreviations used in the **Source** columns below. Extracted DLC text is filed under [Core Rulebook chapter 20](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>).
+
+| Code | Publication | Extracted text |
+|------|-------------|----------------|
+| CP:R | *Cyberpunk RED Core Rulebook* | [Core Rulebook/Index.md](<../Core Rulebook/Index.md>) |
+| DL:12V | *The 12 Days of Vehiclemas* (Dec 2025) | [20 The 12 Days of Vehiclemas.md](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>) |
+| BC | *Black Chrome* | [Black Chrome/Index.md](<../Black Chrome/Index.md>) |
+| DGD | *Danger Gal Dossier* | [Danger Gal Dossier/Index.md](<../Danger Gal Dossier/Index.md>) |
+
 ## Contents
 
 ### [Weapons, Ammo and Attachments](<01 Weapons, Ammo and Attachments.md>)

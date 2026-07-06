@@ -4,6 +4,17 @@
 
 Reorganized catalog of every purchasable item from the Night Market Index. Same content as the index files, with weapons split from ammunition and attachments (files 11–12).
 
+## Source Abbreviations
+
+Abbreviations used in **Source** columns. *The 12 Days of Vehiclemas* (`DL:12V`) is extracted as [Core Rulebook chapter 20](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>).
+
+| Code | Publication | Extracted text |
+|------|-------------|----------------|
+| CP:R | *Cyberpunk RED Core Rulebook* | [Core Rulebook/Index.md](<../Core Rulebook/Index.md>) |
+| DL:12V | *The 12 Days of Vehiclemas* (Dec 2025) | [20 The 12 Days of Vehiclemas.md](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>) |
+| BC | *Black Chrome* | [Black Chrome/Index.md](<../Black Chrome/Index.md>) |
+| DGD | *Danger Gal Dossier* | [Danger Gal Dossier/Index.md](<../Danger Gal Dossier/Index.md>) |
+
 ## Contents
 
 ### [Weapons](<01 Weapons.md>)

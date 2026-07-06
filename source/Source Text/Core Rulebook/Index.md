@@ -4,9 +4,18 @@
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces.
 
-Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order.
+Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters extracted from [`RTG-CPR-DLC-NoPlaceLikeHome.pdf`](<../../PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf>), [`RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf`](<../../PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf>), and [`RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf`](<../../PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf>).
 
-**19 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapter 19, *No Place Like Home*, is the base-building DLC (extracted from `PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf`), filed here as a core chapter.
+**21 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapters 19–21 are free DLCs filed here as core chapters: *No Place Like Home* (base building), *The 12 Days of Vehiclemas* (vehicles and Nomad upgrades), and *Invented Tech Upgrades* (NPC Tech upgrades).
+
+## Contents
+
+- [Chapters](#chapters)
+- [Subsections by chapter](#subsections-by-chapter)
+- Ch. 1–18 — Core Rulebook
+- Ch. 19 — [No Place Like Home](<19 No Place Like Home.md>) (DLC)
+- Ch. 20 — [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>) (DLC)
+- Ch. 21 — [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>) (DLC)
 
 ## Chapters
 
@@ -30,7 +39,9 @@ Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order.
 | 16 | [The New Street Economy](<16 The New Street Economy.md>) | The New Street Economy | 333 |
 | 17 | [Screamsheets](<17 Screamsheets.md>) | Screamsheets | 425 |
 | 18 | [Black Dog](<18 Black Dog.md>) | Black Dog | 435 |
-| 19 | [No Place Like Home](<19 No Place Like Home.md>) | No Place Like Home (DLC) | DLC 1 |
+| 19 | [No Place Like Home](<19 No Place Like Home.md>) | No Place Like Home (DLC) | DLC 1–8 |
+| 20 | [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>) | The 12 Days of Vehiclemas (DLC) | DLC 1–16 |
+| 21 | [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>) | Invented Tech Upgrades (DLC) | DLC 1–9 |
 
 ## Subsections by chapter
 
@@ -418,3 +429,41 @@ Base-building DLC (August 2024): rules for earning HQ IP and buying HQ Improveme
 - [NPC Faction Headquarters](<19 No Place Like Home.md#npc-faction-headquarters>) (DLC p. 7)
 - [A Home for the Cyber6](<19 No Place Like Home.md#a-home-for-the-cyber6>) (DLC p. 7)
 - [Headquarters Record Sheet](<19 No Place Like Home.md#headquarters-record-sheet>) (DLC p. 8)
+
+### [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>)
+
+Vehicle DLC (December 2025): twelve vehicles and new Nomad vehicle upgrades and room types.
+
+- [O Burning Burg of Night City](<20 The 12 Days of Vehiclemas.md#o-burning-burg-of-night-city>) (p. 2)
+- [Land Vehicles](<20 The 12 Days of Vehiclemas.md#land-vehicles>) (pp. 3–6)
+  - [AmeriCar Armadillo](<20 The 12 Days of Vehiclemas.md#americar-armadillo>) (p. 3)
+  - [New American Motors Ambunaught m2](<20 The 12 Days of Vehiclemas.md#new-american-motors-ambunaught-m2>) (p. 4)
+  - [TetraCorp America Luxus 15](<20 The 12 Days of Vehiclemas.md#tetracorp-america-luxus-15>) (p. 5)
+  - [Zonda R400 Trail](<20 The 12 Days of Vehiclemas.md#zonda-r400-trail>) (p. 6)
+- [Air Vehicles](<20 The 12 Days of Vehiclemas.md#air-vehicles>) (pp. 7–11)
+  - [Dayton M405 AdZep](<20 The 12 Days of Vehiclemas.md#dayton-m405-adzep>) (p. 7)
+  - [Dayton Sky Queen](<20 The 12 Days of Vehiclemas.md#dayton-sky-queen>) (pp. 8–9)
+  - [Militech F-152 Autocopter](<20 The 12 Days of Vehiclemas.md#militech-f-152-autocopter>) (p. 10)
+  - [VMW Aerojeep](<20 The 12 Days of Vehiclemas.md#vmw-aerojeep>) (p. 11)
+- [Sea Vehicles](<20 The 12 Days of Vehiclemas.md#sea-vehicles>) (pp. 12–15)
+  - [Hydrosubsidium Bimac](<20 The 12 Days of Vehiclemas.md#hydrosubsidium-bimac>) (p. 12)
+  - [Highland Defense Ullapool Raider](<20 The 12 Days of Vehiclemas.md#highland-defense-ullapool-raider>) (p. 13)
+  - [Thelas Tríaina Patrol Boat](<20 The 12 Days of Vehiclemas.md#thelas-tríaina-patrol-boat>) (p. 14)
+  - [Zetatech Moray](<20 The 12 Days of Vehiclemas.md#zetatech-moray>) (p. 15)
+- [New Vehicle Upgrades](<20 The 12 Days of Vehiclemas.md#new-vehicle-upgrades>) (p. 16)
+- [New Vehicle Rooms](<20 The 12 Days of Vehiclemas.md#new-vehicle-rooms>) (p. 16)
+
+### [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>)
+
+Tech DLC (March 2026): rules for buying NPC-invented Tech Upgrades, pricing thermometer, and eighteen example upgrades from six Night City Techs.
+
+- [Invented Tech Upgrades](<21 Invented Tech Upgrades.md#invented-tech-upgrades>) (p. 3)
+- [Buying an Upgrade](<21 Invented Tech Upgrades.md#buying-an-upgrade>) (p. 3)
+- [Invented Tech Upgrade Thermometer](<21 Invented Tech Upgrades.md#invented-tech-upgrade-thermometer>) (p. 4)
+- [Examples of Invented TUps](<21 Invented Tech Upgrades.md#examples-of-invented-tups>) (pp. 5–9)
+  - [Android Ace](<21 Invented Tech Upgrades.md#android-ace>) (p. 5)
+  - [Jack Sawyer](<21 Invented Tech Upgrades.md#jack-sawyer>) (p. 6)
+  - [Lotos](<21 Invented Tech Upgrades.md#lotos>) (pp. 6–7)
+  - [Never Naughty Nedd](<21 Invented Tech Upgrades.md#never-naughty-nedd>) (pp. 7–8)
+  - [Troy Gordon](<21 Invented Tech Upgrades.md#troy-gordon>) (pp. 8–9)
+  - [Tweak](<21 Invented Tech Upgrades.md#tweak>) (p. 9)
