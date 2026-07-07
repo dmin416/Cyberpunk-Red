@@ -1,0 +1,62 @@
+MARSHAL — FBC REMAINING BILL
+============================
+
+Rules: Tech HQ (DTD ÷ 3). Fab materials one tier below retail (Super Luxury = half).
+        Upgrades = full retail in materials.
+        Material discounts: 1,000eb → 900eb · 5,000eb → 4,500eb · 10,000eb → 9,250eb
+
+Already his (strip & reinstall — no fab cost):
+  Cyberaudio Suite, Cybereye x2, Neural Link, Subdermal Grip
+  Internal Agent, UV/IR/Low Light  → into FBC immediately
+  Targeting Scope, Image Enhance   → saving for later install
+
+Dropped permanently:
+  Enhanced Antibodies, GBML x2
+
+
+TECH 1 — Foundation (done) + Biosystem & Gemini
+------------------------------------------------
+Total: 11,600eb materials · 42.67 DTD
+
+  Cyberarm x2 ...................... 200eb .... 4.67 DTD
+  Cyberleg x2 ...................... 100eb .... 1.33 DTD
+  Cyberskull ....................... 900eb .... 9.33 DTD
+  ILF Omega ..................... 4,500eb .... 9.33 DTD
+  Biosystem ..................... 4,500eb .... 9.33 DTD
+  FBC Gemini Sculpt ............... 500eb .... 4.67 DTD
+  Upgrade Gemini (Omega-size) ..... 900eb .... 4.67 DTD
+
+
+TECH 2 — Plating, Viper kit, hydraulics
+---------------------------------------
+Total: 11,060eb materials · 29.00 DTD
+
+  Heavy Subdermal Plating ......... 900eb .... 9.33 DTD
+  Interface Plugs ................. 100eb .... 2.33 DTD
+  Militech Viper .................. 100eb .... 2.33 DTD
+  Smartgun Link ................... 100eb .... 2.33 DTD
+  Smart-Sight (upgrade) ........... 500eb .... 2.33 DTD
+  Scope Mount (Compat. Rail) ....... 10eb .... 0.33 DTD
+  SMG Cyclic Internals ............. 50eb .... 0.33 DTD
+  Sniping Scope .................... 50eb .... 0.33 DTD
+  Int Hydraulics, Perfected ..... 9,250eb .... 9.33 DTD
+
+
+TOTALS
+------
+  Full project ................ 22,660eb .... 71.67 DTD
+  Foundation credit (Tech 1) .. −5,700eb .... −24.00 DTD
+  -----------------------------------------------
+  Still owed (materials) ...... 16,960eb .... 47.67 DTD
+
+Medical:
+  Biosystem install ........... 1,000eb .... 1 DTD
+  Implant into body ................. — .... 4 hr (DV17)
+  -----------------------------------------------
+  Still owed w/ medical ....... 17,960eb .... 48.67 DTD
+
+Labor @ 50eb/DTD:
+  Fab ......................... 16,960eb + 2,383.50eb = 19,343.50eb
+  w/ medical .................. 17,960eb + 2,433.50eb = 20,393.50eb
+
+(1 month = 30 DTD)

@@ -1,11 +1,14 @@
 ﻿# Locations
 
-Night City areas, housing, and key places in the **Time of the Red** (2045). Compiled from the Core Rulebook, Interface RED, Black Chrome, Danger Gal Dossier, Mixing Drinks Changing Lives, Single Player Mode, and Tales of the RED.
+Night City areas, megabuildings, transport, and key places in the **Time of the Red** (2045). Compiled from the Core Rulebook, Interface RED, Black Chrome, Danger Gal Dossier, Mixing Drinks Changing Lives, Single Player Mode, Tales of the RED, and [Cyberpunk Wiki RED Locations](https://cyberpunk.fandom.com/wiki/Category:Cyberpunk_RED_Locations).
+
+**Minor venues** (bars, housing, markets, shops): [Venues.md](Venues.md)
 
 ## Contents
 
 - [Source Abbreviations](#source-abbreviations)
 - [Zone Types & Threat Ratings](#zone-types--threat-ratings)
+- [Night City by Cardinal Direction](#night-city-by-cardinal-direction)
 - [The Hot Zone](#the-hot-zone)
 - [The Rebuilding Urban Center](#the-rebuilding-urban-center)
 - [The Executive Zone](#the-executive-zone)
@@ -14,16 +17,16 @@ Night City areas, housing, and key places in the **Time of the Red** (2045). Com
 - [The Reclaimed Perimeter](#the-reclaimed-perimeter)
 - [The Open Road](#the-open-road)
 - [Historical Neighborhoods (2020)](#historical-neighborhoods-2020)
-- [Housing & Residential](#housing--residential)
-- [Bars, Clubs & Nightlife](#bars-clubs--nightlife)
+- [Megabuildings](#megabuildings)
+- [Transport & Infrastructure](#transport--infrastructure)
 - [Key Places Index](#key-places-index)
 - [Interface RED & DLC Locations](#interface-red--dlc-locations)
-- [Night Markets](#night-markets)
 - [Faction Headquarters](#faction-headquarters)
 - [Named Neighborhoods](#named-neighborhoods)
 - [Mission Locations](#mission-locations)
 - [Salvaging Areas](#salvaging-areas)
 - [SPM District List](#spm-district-list)
+- [Venues (bars, housing, shops)](Venues.md)
 
 ---
 
@@ -67,6 +70,61 @@ In 2045, locals refer to seven **zone types** rather than the old 2020 neighborh
 | **Moderate** | Working-class areas; safer than Combat Zones; spillover violence common |
 | **Combat** | Worst parts of the city; bodies don't get cleaned up |
 | **Outskirts** | Outside city sprawl; road gangers and Nomads |
+
+---
+
+## Night City by Cardinal Direction
+
+Alternate index aligned with the [2045 map](NightCity2045Map.webp) and campaign Discord channels. Zone-type details remain in the sections below.
+
+### Night City North
+
+| District | Zone (typical) | Key places |
+|----------|----------------|------------|
+| **NorCal Military Base** | Rebuilding Urban Center | Militech Offices |
+| **Watson Development** | Rebuilding Urban Center | NCPD Precinct #3, Petrochem, SovOil, Trauma Team Tower |
+| **Kabuki** | Rebuilding Urban Center | Watson's Asian neighborhood; Glitch City border |
+
+### Central Night City
+
+| District | Zone (typical) | Key places |
+|----------|----------------|------------|
+| **Little Europe** | Rebuilding Urban Center | Camden Court, Danger Gal, Short Circuit, Holy Angels Church |
+| **Upper Marina** | Rebuilding Urban Center | City Medical Center, McCartney Field, Afterlife, Ziggurat |
+| **Downtown** | Rebuilding Urban Center | The Glen — City Hall, 1st Night City Bank, Club Atlantis, Hall of Justice |
+| **The Hot Zone** | Hot Zone | Totentanz, Old City Center, Old Bank Block, Old Corp/Med Center |
+| **Little China** | Combat Zone | The Forlorn Hope (original site) |
+| **University District** | Reclaimed Perimeter | Night City University, Biotechnica Campus |
+| **The Glen** | Rebuilding Urban Center | *(see Downtown — government core)* |
+| **Old Japantown** | Combat Zone | Crisis Medical Center, Highcourt Plaza Hotel |
+| **South Night City** | Combat Zone | Medical Technologies, Savage Docs, The Slammer |
+| **Old Combat Zone** | Combat Zone | Jesse James' Kosher Deli |
+| **Morro Rock** | Reclaimed Perimeter | Orbital Air Massdriver (offshore) |
+
+### Night City South
+
+| District | Zone (typical) | Key places |
+|----------|----------------|------------|
+| **Pacifica Playground** | Rebuilding Urban Center | Playland by the Sea |
+| **Rancho Coronado** | Overpacked Suburbs | Tent cities, industrial sprawl; Ms. Mynah's Night Market |
+
+### Night City East
+
+| District | Zone (typical) | Key places |
+|----------|----------------|------------|
+| **New Westbrook** | Overpacked Suburbs | Network 54, Firestation #1, Rocklin Augmentics, WorldSat, North Cargo Village |
+| **Executive Zone** | Executive | Gated corp elite community |
+| **Heywood Industrial Zone** | Overpacked Suburbs | Zhirafa Office Park; D.V. Rambling Rose (Skidz) |
+| **North Heywood** | Overpacked Suburbs | 6th Street HQ, Woodland Park, Xanadu, Dynalar Campus, Forlorn Hope (new site) |
+| **Santo Domingo** | Overpacked Suburbs | Poor south of Heywood; Aldecaldo Camp, Precinct #2, MetalStorm |
+| **Badlands** | Open Road / Outskirts | Highways, Nomad convoys, Reclaimed Perimeter towns |
+
+### Beyond Night City
+
+| Area | Notes |
+|------|-------|
+| **Reclaimed Perimeter** | Atascadero, Avila Beach, Cambria, Los Osos, Paso Robles, Pismo Beach, San Luis Obispo, San Simeon |
+| **Open Road** | CA-41, CA-46, CA-58, CA-99, CA-828, I-5, I-101 |
 
 ---
 
@@ -134,6 +192,8 @@ Heavily fortified base north of Night City; primarily Militech. Mostly shut off 
 | # | Location | Notes |
 |---|----------|-------|
 | 26 | **Militech Offices** | On-base; outsiders meet between two security checkpoints |
+
+**Base facilities:** Main Gate · Hospital · Motor Pool · Parade Ground · Post Exchange · Mess Hall · Recreation Center · Stockade · USO Hall · Fire & Emergency Response Center · NorCal-SoCal Border Wall
 
 ### Pacifica Playground
 
@@ -317,130 +377,73 @@ Pre-War "Disneyland zones" — useful for buried loot and lore (CP:R p. 288). Ma
 
 ---
 
-## Housing & Residential
+## Megabuildings
 
-Housing costs from CP:R ch. 16. Random tables from **DL:Cargo**, **DL:Conapts**, and **SPM** extend the lists below.
+All-in-one residential arcologies modeled on the destroyed New Harbor Mallplex. Modern megabuilding construction began **2040**; by **2045** thousands of apartments per block house War refugees. Lower floors = cubes/containers; upper floors = conapts and luxury suites. Interior shops and services listed in [Venues.md](Venues.md).
 
-### Housing Types (CP:R ch. 16)
+| Building | Address | District | Status (2040 → 2045) | Notes |
+|----------|---------|----------|----------------------|-------|
+| **H4** | — | Santo Domingo | Under construction | Rat Kings gang; H4 Clinic (El Norte ripperdoc) |
+| **H6** | — | New Westbrook | Site cleared ~2045 | NCPD cleared homeless camps (37 dead); fenced empty lot; relocation debated |
+| **H8** | BW324 | Upper Marina / Japantown | Groundbreaking **2045** | Night Corp + Ziggurat; AllNations Construction; NIMBY vs pro-housing gangs |
+| **H10** | LC896 | Little China / Watson | Building **2040** → **complete 2045** | First finished megabuilding; symbol of recovery; Shiv FM rooftop parties |
+| **H11** | WN185 | Watson / Northside | Foundation **2040** → mostly complete **2045** | Future BuildWorks HQ (Kanzaki ties); KCP2 radio on top; lower levels occupied |
 
-| Type | Rent/mo | Buy | Zones | Notes |
-|------|---------|-----|-------|-------|
-| Cube Hotel | 500eb | — | Corporate, Moderate, Combat | Windowless cell; shared bath; >1 person = fatigued |
-| Cargo Container | 1,000eb | 15,000eb | Suburbs, Reclaimed Perimeter, Combat Zone | Bed, desk, fridge; shared facilities |
-| Studio Apartment | 1,500eb | 25,000eb | Corporate, Moderate, Combat | First private bath/kitchen; 1 protected parking |
-| Two-Bedroom Apartment | 2,500eb | 35,000eb | Corporate, Moderate, Combat | 2 bed, in-unit laundry; 2 protected parking |
-| Corporate Conapt | Corp-provided | — | Corporate | 2 bed, 2 bath, balcony; Corp surveillance |
-| Upscale Conapt | 7,500eb | 85,000eb | Corporate, Moderate | Luxury tier |
-| Luxury Penthouse | 15,000eb | 150,000eb | — | Top tier |
-
-### Cube Hotels (DL:Cargo d10 + SPM extras)
-
-| Location | District | Notes |
-|----------|----------|-------|
-| Orbital Air Housing Block #3 | Morro Rock | Massdriver staff housing; no on-island restaurants |
-| Scenic Cubes | Pacifica Playground | Roof views; gang-affiliated neighbors |
-| University Cubes | University District | NCU overflow housing on water's edge |
-| Cube-A-Rama | Little Europe | Historic brick façade; walking distance to Short Circuit |
-| Cubeland by the Sea | Pacifica Playground | Shoddy pre-War worker housing; Playland half-price Mon–Thu |
-| A Dilapidated Cube Hotel | Hot Zone edge | Near Totentanz; bodies in hallways |
-| Watson Central Cubelife | Watson | Average cube hotel; low-level Corp employees |
-| Seafoam | The Glen | Near Club Atlantis; afterparty hotspot |
-| McCartney Cubes | Upper Marina | Sports-team-themed floors; loud on game nights |
-| Unnamed Cube Hotel | Old Japantown | No staff/cameras; ceiling water-jet evictions |
-| TravlStay CityCenter | Upper Marina | Paper-thin walls *(SPM)* |
-| Evergreen Apartments | New Westbrook | Former big-box store converted *(SPM)* |
-| The Zolletta | North Heywood / Woodland Park | Tight-knit neighborhood; Wash n' Run, PI office *(SPM, T:Hope)* |
-
-### Cargo Container Communities (DL:Cargo d10 + SPM extras)
-
-| Location | District | Notes |
-|----------|----------|-------|
-| University Cargo Bay | South Night City (NCU border) | 7-high stack; Combat Zone keggers |
-| Dock Cargo Community | South Night City waterfront | Sea Nomads; near The Slammer |
-| South Cargo Village | South Night City / Glen border | Faces Precinct #1 patrols |
-| Eagle Rock Stadium | Rancho Coronado / Heywood border | Repurposed football field; near MetalStorm |
-| The Precipice | Old Japantown | Overlooks Hot Zone; near Crisis Medical |
-| North Cargo Village | New Westbrook | Near WorldSat, SovOil, Petrochem, Militech |
-| NC Ionic Semiconductor Building | Old Combat Zone | Containers in collapsed factory; locked midnight–7am |
-| Old Ironworks Building | Heywood Industrial Zone | Roof stack overlooking Zhirafa Office Park |
-| Bridgetown | Little China waterfront | Under overpass; near Forlorn Hope |
-| East Cargo Village | Santo Domingo edge | Near Aldecaldo Camp; Nomads and reclaimers |
-| The Palms | North Heywood / Woodland Park | Northwest edge of Woodland Park; Terminus food truck *(SPM, T:Hope)* |
-
-### Corporate Conapts (DL:Conapts d10)
-
-| Name | District | Employer |
-|------|----------|----------|
-| Biotechnica Habitation Sphere Alpha | University District | Biotechnica |
-| Continental Brands Vertical Neighborhood: "Flavors of the World" | Little Europe | Continental Brands |
-| Danger Gal Housing Facility ("The Danger Zone") | Little Europe | Danger Gal |
-| Militech Corporate Operatives Housing | NorCal Military Base | Militech |
-| Network 54 Westbrook Private Acres | New Westbrook | Network 54 |
-| Petrochem & SovOil Joint Temporary Housing Solution | Watson Development | Petrochem / SovOil |
-| Rocklin Augmentics Innovation Hub | New Westbrook | Rocklin Augmentics |
-| Trauma Team Corporate Living Center | Watson Development | Trauma Team |
-| Ziggurat Corporate Terrace "The Hanging Garden" | Upper Marina | Ziggurat |
-| Zhirafa Office Park MicroVillage | Heywood Industrial Zone | Zhirafa |
-
-### Studio Apartments (DL:Conapts d10 + SPM extras)
-
-| Name | District | Notes |
-|------|----------|-------|
-| Converted Motel Studio Apartments | North Heywood | |
-| Coronado Heights | Rancho Coronado | Near Pacifica Playground |
-| Dock 14 Studio Apartments | Port of Night City | Waterfront |
-| Glenlife Perfected | The Glen | Looks good outside, not inside |
-| Heywood Suites | Santo Domingo | Under noisy overpass |
-| Marina FloatHomes | Upper Marina | Houseboats for rent |
-| Parkside Living | University District | Mostly NCU students |
-| Playhouse | Pacifica Playground | |
-| Silverhand Studios | South Night City | Musicians and artists |
-| South Night City Reclaimed Studio | Port of Night City | |
-| Camden Court | Little Europe | Secure luxury; Solos *(SPM — also CP:R #11)* |
-| L'Ermitage | Charter Hill | High-end complex *(SPM)* |
-| The Shark | North Heywood / Woodland Park | Five-story building; Pearce guerilla gardeners on roof *(SPM, T:Hope)* |
-| Old Ironworks Building | Heywood Industrial Zone | Converted factory worker apartments *(SPM)* |
-| Acorn Towers | North Heywood / Woodland Park | Dynalar employee conapts; non-employees can rent *(T:Hope)* |
+**Sports teams (2045):** H10 Hammerheads · H11 Cazadoras (intramural basketball)
 
 ---
 
-## Bars, Clubs & Nightlife
+## Transport & Infrastructure
 
-### Key Places (CP:R)
+### Ground Transit
 
-See [Key Places Index](#key-places-index) for Totentanz (#1), Club Atlantis (#5), Short Circuit (#16), The Afterlife (#20), Forlorn Hope (#31), Jesse James' (#32), The Slammer (#35), MetalStorm (#38).
+| System | Status | Notes |
+|--------|--------|-------|
+| **NCTC** (Night City Transit Corp) | Active | Bus service on major thoroughfares |
+| **Freeways** | Active / dangerous | Night City on **CA-828** → **I-5**; SF ~4 hr, LA ~6 hr (road gangs, bad roads) |
+| **Open Road highways** | Outskirts | CA-41, CA-46, CA-58, CA-99, CA-828, **I-5**, **I-101** |
+| **Data Terms** | ~30% of streets | Armored posts; NET/Data Pool access; 10eb/min; often rewired for pay access |
 
-### Night City Hotspots (SPM d12)
+### Rail
 
-| Location | District | Notes |
-|----------|----------|-------|
-| The Afterlife | Upper Marina | Premier edgerunner bar; Rogue |
-| Club Atlantis | The Glen | Multi-layered avant-garde Exec club |
-| Delirium | Downtown | Gothpunk virtuality club *(T:SS)* |
-| The Forlorn Hope | Little China or North Heywood | Solo veterans' bar; campaign-dependent site |
-| MetalStorm | Santo Domingo | Indestructible chromer bar |
-| Short Circuit | Little Europe | Tech and Netrunner bar |
-| The Slammer | South Night City | Cinder-block arena |
-| Smash/Cut | Watson | EDM club |
-| Totentanz | Hot Zone | Maelstrom home base |
-| Xanadu | North Heywood | Muses roller derby rink/club *(T:Hope)* |
-| The XX | Pacifica Playground | Dive punk bar; serves juice not booze |
+| System | Status | Notes |
+|--------|--------|-------|
+| **NCART** (Night City Area Rapid Transit) | Mostly flooded | Submerged when water table collapsed; runs when not flooded; tunnels open to bay *(T:SS)* |
+| **Monorail (Corp loop)** | **Operational** | Executive Zone ↔ Little Europe ↔ Watson Development; high-security |
+| **Monorail (public extension)** | Planned | North Oak, New Westbrook, Pacifica, Heywood, Watson — not yet built |
+| **Executive Zone Monorail Station** | Operational | Corp maglev to work |
 
-### Night City Bars (SPM d12)
+### Air & Space
 
-| Bar | District | Notes |
-|-----|----------|-------|
-| Air | The Glen | Oxygen bar |
-| Chrome Cross | Little China | Red Chrome Legion dive *(T:Hope M1)* |
-| Greta's | Little Europe | Pool hall; strong lesbian clientele |
-| Jesse James' Kosher Deli | Old Combat Zone | Nomad/booster saloon |
-| Kasim's | The Glen | Turkish coffee and tobacco; closed Fridays |
-| Maria's | Santo Domingo | Family-owned beer tent |
-| Rusty's Dive Shack | Port of Night City | Built from old container sub *(T:SS)* |
-| Sakura's | Watson | Izakaya |
-| Vargtimmen | Watson | Neo-pagan mead bar |
-| Yewtree | University District | Neo-hipster bar |
-| Yum Seng | Kabuki | Host/hostess bar; famous seafood |
+| Facility | District | Status (2045) | Notes |
+|----------|----------|---------------|-------|
+| **Night City Metropolitan Airport** | South Night City | **Abandoned / ruined** | Pre-War main airport; 4 terminals; disrupted by War; replaced by Morro Rock project |
+| **Jackson Plains Regional Airport** | Outskirts | Interim field | Served NC while spaceport planned *(Night City 2045)* |
+| **Orbital Air Massdriver** | Morro Rock | **Under construction** | Volcanic batholith; geologically stable; Franklin M'bolu (OA); launches to LEO when complete |
+| **NCX Spaceport** | Morro Rock | **Future (2047+)** | Night City International & Translunar; replaces massdriver in later timeline |
+| **Night City Spaceport** (planned) | Morro Rock | Recruitment / planning | Future OA flagship; see *Solo of Fortune 2045* |
+| **Aerozeps** | Regional | Nomad-operated | Cargo blimps with escort fighters |
+| **Deltajocks** | Ad hoc | Suborbital scram-jets; illegal cargo/passengers |
+
+### Sea & Port
+
+| Facility | Notes |
+|----------|-------|
+| **Del Coronado Bay** | Night City's bay; renamed from Morro Bay after founding |
+| **Night City Main Port** | Waterfront industrial; Nomad depot sites; Mister Kernaghan's shipping empire |
+| **Night City Harbor Patrol HQ** | Law enforcement on the water |
+| **Harbor Canal** | New canal; Watson megabuilding construction visible from Upper Marina *(T:SS)* |
+| **Morro Canal** | Connects bay to Morro Rock area |
+| **Del Coronado Bridges** | Old and new bridge footings spanning the bay *(T:SS)* |
+| **Coronado Bay Bridge** | Major bay crossing |
+| **Pacifica Bridge** | Links Pacifica to city |
+| **San Morro Bridge** | Bay crossing |
+| **Northern Pacific Task Force 384 Docks** | Military docks |
+| **SS *MacDonnelson*** | Militech sub in flooded NCART tunnels *(T:SS)* |
+
+### Nomad Transport
+
+Most reliable long-range transport. Armed convoys (100+ vehicles) along coast and to NUSA edges. Sea clans use commandeered liners and container ships. See **Aldecaldo Camp** (Heywood) for badlands guides.
 
 ---
 
@@ -498,45 +501,11 @@ Quick reference by CP:R list number (p. 310+).
 
 ## Interface RED & DLC Locations
 
-| Location | District | Source | Notes |
-|----------|----------|--------|-------|
-| **Toggle's Temple** | Underground Hot Zone / Little Europe sewers | IR5 | Hidden armory, gun range, SWAT obstacle course; entrance 3 blocks north of Short Circuit; 20eb/visit; referral-only |
-| **Hornet's Pharmacy** | Abandoned Heywood rail station | IR4 | Fixer Hornet's graffitied cargo-train HQ; street drugs, pharmaceuticals, chemical cyberware |
-| **Woodchipper's Garage** | Heywood | IR3 | Nomad-affiliated arms clearinghouse; Aldecaldo conflict mediator |
-| **VA-11 HALL-A (Valhalla)** | Glitch City, Watson | MD | Hammered Industries franchise bar; soundproofed; near New Westbrook / Upper Marina / Kabuki border |
-| **Glitch City** | Watson | MD | DMZ between Tyger Claws, Maelstrom, Street Queens; ruled by Unicorns gang |
-
-### Halloween Screamsheets (IR4)
-
-| Location | District | Notes |
-|----------|----------|-------|
-| The Boneyard (Garden of Rest) | — | Sinful Adams Halloween carnival |
-| The Obituary | Waterfront | Dragula Racers gang garage |
-| Megabuilding H10 Oasis | Watson | TSpooks meetup |
-| Precinct #3 morgue | Watson | Werewolf autopsy |
-
----
-
-## Night Markets
-
-From **BC** ch. 11. All require invitations or vouching.
-
-| Market | Location | District | Frequency | Notes |
-|--------|----------|----------|-----------|-------|
-| **3-Piece's Joint** | Top floor, Short Circuit | Little Europe / Hot Zone edge | Monthly | Tech, cyberdecks, programs; 3-Piece, Brain, Bug |
-| **Woodchipper's Block Party** | Cul-de-sac near Woodchipper's garage | Santo Domingo | Bi-monthly | Nomad guns, bikes, food, ILF surgery |
-| **Molly Anderson's Market** | Underground parking under toppled high-rise | Old Combat Zone | Monthly | Salvage, second-hand cyberware; Anderson Family |
-| **Mister K's Midnight Market** | Two floors above Club Atlantis | The Glen | Quarterly | Luxury auction; 100 invite-only |
-| **Ms. Mynah's Night Market** | Minimallism mall (RC Night Market complex) | Rancho Coronado | Monthly | Fashion bazaar; 500 Zchat passcodes |
-| **Rex Royale's Casino** | Rotating abandoned buildings | North of Little China / Upper Marina | Varies | Mobile protection-racket casino; 52 playing-card invites |
-
-**Related retail (BC):** Euro Shop chain · Militech Urban Avenger Ammo Stores (Watson) · Everest Survival Huts (Santo Domingo) · Ghostglobe Halloween pop-ups (Little Europe)
+DLC-specific venues (Toggle's Temple, Hornet's Pharmacy, Woodchipper's Garage, VA-11 HALL-A, Halloween sites, and more): [Venues.md](Venues.md).
 
 ---
 
 ## Faction Headquarters
-
-From **DGD** — bases not already in CP:R Key Places.
 
 | Faction | HQ / Base | District | Notes |
 |---------|-----------|----------|-------|
@@ -556,37 +525,13 @@ From **DGD** — bases not already in CP:R Key Places.
 | **Tyger Claws** | Kimen-Gumi offices; Nakagawa Kabuki Theater leadership | Old Japantown and Kabuki | Public legal offices + gang leadership |
 | **Zoners** | Two large housing complexes + fortnightly laundry-room meetings | South Night City (north portion) | Activist movement HQ |
 
-**Named businesses from faction NPCs:**
-
-| Location | District | NPC / Context |
-|----------|----------|---------------|
-| Torch's Total Repairs | Upper Marina (south end) | Torch (Edgerunners) |
-| Loggagia Arboretum | NCU campus | Puma Squad case site |
-
 ---
 
 ## Named Neighborhoods
 
 ### Woodland Park (T:Hope)
 
-Border of **North Heywood** and **New Westbrook**. Campaign hub for *Hope Reborn* M3. Up-and-coming; Dynalar campus to the south.
-
-| # | Location | Notes |
-|---|----------|-------|
-| 1 | **The Palms** | Cargo container community; Terminus food truck |
-| 2 | **Construction Yard** | Jack Skorkowsky's fenced yard |
-| 3 | **The Forlorn Hope** (new site) | Two-story + two sub-levels; ex-mahjong parlor |
-| 4 | Parking Lot | Future Hope parking |
-| 5 | Collapsed Building | EBM repair outlet ruins; kids' playground |
-| 6 | **Burning Bright Bodega** | Ella Corella's corner store |
-| 7 | **Breeze** | Nana & Pop Pop's street-drug bar |
-| 8 | **Biotechnica Palm Grove** | Engineered palms with biomonitor collars |
-| 9 | **The Zolletta** | Cube hotel; Wash n' Run; PI office; Place of Rest (Navad nomads) |
-| 10 | **Choom Goes Vroom** | Billy Flight's parking elevators + cargo-container office |
-| 11 | **The Shark** | Apartment building; Pearce guerilla gardeners on roof |
-| 12 | **Dynalar Campus** | Admin/manufacturing; private maglev stop |
-| 13 | **Xanadu** | Muses roller derby rink/club |
-| 14 | **Acorn Towers** | Upscale Dynalar employee conapts |
+Border of **North Heywood** and **New Westbrook**. Campaign hub for *Hope Reborn* M3. Up-and-coming; Dynalar campus to the south. Full site list: [Venues.md — Woodland Park](Venues.md#woodland-park-thope).
 
 ### Glitch City (MD)
 
@@ -637,14 +582,10 @@ Quick reference for named places in Tales adventures. See source missions for fu
 |---------|-----------|----------|
 | M1 The Angel's Share | Forlorn Hope (old); Chrome Cross; Ling Po warehouse; Phoenix Redwyne's clinic | Little China |
 | M2 Real Estate Rumble | Jack Skorkowsky's office; haunted construction site; South Night City garage; Kasim's; Woodland Park tour | Heywood; South NC; The Glen; Woodland Park |
-| M3 Welcome to the Neighborhood | Woodland Park (full list above) | North Heywood |
+| M3 Welcome to the Neighborhood | Woodland Park — [full site list](Venues.md#woodland-park-thope) | North Heywood |
 | M4 The Devil's Cut | In-progress Forlorn Hope; The Devil's Cut liquor bank; Wicked Pissa; Camden Court | Upper Marina; Little Europe |
 | M5 Hope's Calling!!! | Forlorn Hope; Stems & Seeds; Highcourt Plaza Hotel | North Heywood; University District; Old Japantown |
 | M6 Ripping the Ripper | Redline gladiator bar; Ashcroft Hotel fortress; Rocklin Augmentics secret warehouse; sewers | Watson; Hot Zone |
-
-### Digital Dating venues (DL:DGD)
-
-Date tables cover all major districts. Named venues referenced include: Watson Central Cubelife, Kabuki izakaya, Zhirafa laser tag, Metalstorm, Aldecaldo barbecue, East Cargo Village party, Oasis Megamart, Holy Angels Church, Short Circuit, Danger Gal go-karts, Camden Court rooftop, McCartney Field, The Afterlife, Biotechnica living museum, University Cargo Bay, Forlorn Hope, Jesse James', Totentanz, Playland by the Sea.
 
 ---
 

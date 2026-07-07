@@ -1,0 +1,73 @@
+MARSHAL — ASSET SALE (market price)
+===================================
+Buyer: Void · Source: CP:R pg. 344–350, 1108–1109, 1177, 589
+
+Prices below are retail list. Used gear may sell for less unless your table
+uses full market value for player-to-player trades.
+
+
+CHROME — Void taking
+--------------------
+  Targeting Scope (Cybereye) .......... 500eb
+  Image Enhance (paired cybereyes) .... 500eb
+  -----------------------------------------------
+  Subtotal ............................ 1,000eb
+
+
+CHROME — also offered (not confirmed)
+-------------------------------------
+  Subdermal Grip ...................... 100eb
+  *Marshal's FBC plan reinstalls this at 0 HL — only sell if stripping it.*
+
+
+WEAPONS & GEAR — Void taking
+----------------------------
+  Heavy Pistol (standard) ............. 100eb
+  Assault Rifle ....................... 500eb
+  Sniping Scope (attached) ............ 100eb
+  Excellent Quality Heavy Pistol ...... 500eb
+  Smartgun Link (on EQ pistol) ........ 500eb
+  Bodyweight Suit ..................... 1,000eb
+  -----------------------------------------------
+  Subtotal ............................ 2,700eb
+
+
+GRENADES — Void taking
+----------------------
+  Smoke ×4 ............................ 200eb   (50eb each)
+  Flashbang ×3 ........................ 300eb   (100eb each)
+  Teargas ×1 .......................... 50eb   (50eb each)
+  Armor-Piercing ×2 ................... 200eb   (100eb each)
+  Incendiary ×2 ....................... 200eb   (100eb each)
+  -----------------------------------------------
+  Subtotal .............................. 950eb
+
+
+AMMUNITION — offered with lot
+-----------------------------
+  Basic Heavy Pistol ×95 ............... 95eb   (10eb / 10 rnd)
+  Basic Rifle ×80 ...................... 80eb   (10eb / 10 rnd)
+  Incendiary Heavy Pistol ×40 ......... 400eb   (100eb / 10 rnd)
+  -----------------------------------------------
+  Subtotal .............................. 575eb
+  *Rounded to full 10-rnd packs: 600eb*
+
+
+TOTALS
+------
+  Void confirmed (chrome + guns + grenades) ... 4,650eb
+  + ammunition ................................   575eb
+  -----------------------------------------------
+  Full lot w/ ammo ............................ 5,225eb
+
+  If Subdermal Grip included .................. 5,325eb
+
+
+NOTES
+-----
+  • EQ Heavy Pistol + Smartgun Link = 500 + 500 = 1,000eb (not sold as
+    separate weapon + attachment if bought as one gun).
+  • AR + Sniping Scope = 500 + 100 = 600eb.
+  • "Heavy explosive bullets" = Incendiary Heavy Pistol ammo (100eb/10).
+  • Image Enhance is one 500eb purchase (paired install), not per eye.
+  • Psycho Goober's "~3k" for scope + image was high — correct is 1,000eb.
