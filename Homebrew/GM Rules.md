@@ -111,6 +111,82 @@ Use **CP:R NPC levels** (*Screamsheets* p. 412+) to build fights. Each level con
 
 **Player count cap is 6.** The examples below assume a full crew; scale threat weight down proportionally for smaller groups.
 
+### Practical Encounter Tuning
+
+If you are completely at a `~~.:|:;~~` for how to balance your gigs, start here.
+
+Some of the terms below are informal and not official CP:R terminology.
+
+#### Use a Battlemap
+
+Use a **battlemap**. They help a lot. Cover, distance, chokepoints, sightlines, and objective placement matter too much in Cyberpunk RED to handwave every fight.
+
+#### Corebook NPCs Are a Baseline, Not Gospel
+
+The corebook statblocks are well designed, but they are mostly built around more average characters without DLC power creep. Once your players start showing up hardened, heavily chromed, or combat-optimized, you may need to tweak those statblocks.
+
+When you do, remember this: in most fights, **not every shot should hit, and not every shot should be dodged**. If everyone is auto-landing attacks or auto-evading everything, the numbers are probably off.
+
+#### Combat Skill Ceilings
+
+When tweaking statblocks, use these recommendations for an NPC's **highest combat-relevant Skill Base**:
+
+| NPC Type | Highest recommended combat Skill Base |
+|---|---|
+| **Mook** | **12** |
+| **Lieutenant** | **14** |
+| **Mini-Boss** | **15** |
+| **Boss** | **16** |
+
+Two exceptions:
+
+- **Specialists:** effectively a Mook or Lieutenant with one standout combat stat around **18** or maybe **19** with gear. They should have significantly stronger weaknesses than a normal NPC of their tier.
+- **Super Bosses:** use only on **Hyper Lethal** gigs. Either make them effectively unkillable but at least somewhat avoidable, or make them killable only at the cost of several player characters. Their statblocks can vary wildly and may include unique abilities. An unkillable Mook is technically a Super Boss.
+
+#### Rough Placement Rules
+
+The book's "`1 Mook per player`" guidance is a rough baseline, not sacred truth. It assumes relatively average characters. Hardened starter characters can usually handle more than that.
+
+Practical rule of thumb:
+
+- A **starter character** can often beat **2 Mooks**.
+- A **starter character** can often beat **1 Lieutenant**.
+- A **Boss** is still roughly a **3-player** problem.
+- For **4 starter players**, `1 Cyberpsycho + 2 Mooks` is around the upper limit before deaths start becoming likely.
+
+This is not a guarantee. Death Saves, terrain, ambushes, explosives, and player builds all matter. Use judgment.
+
+#### Who Enemies Should Target
+
+In general, enemies should target **everyone**, but not all enemies fight intelligently.
+
+When deciding who gets pressured, look at three things:
+
+- Who is doing the most damage **through armor**
+- Who is the most **visible** or **closest**
+- Who is about to do something **immediately significant** to the enemy
+
+Then decide how smart the enemies are:
+
+- **Dumb enemies** charge blindly or focus on the most obvious threat.
+- **Normal enemies** use cover, avoid bunching up, and make basic tactical choices.
+- **Smart enemies** are as smart as you are, but they do not cheat. If a player is hidden, invisible, or otherwise unknown, the enemies do not magically know where they are.
+
+Enemy intelligence should also affect how strictly they follow the targeting priorities above. Smart enemies should additionally focus on players who are closest to being **incapacitated**, whether that means nearly dead, pinned down, disarmed, or otherwise about to stop contributing to the fight.
+
+#### Maps Matter
+
+Maps create advantage and disadvantage.
+
+- If the objective is in a wide-open middle while the enemies enter from protected edges, that is **disadvantage** for the players.
+- If the middle has good cover and the enemy approaches are exposed, that is **advantage** for the players.
+
+Simple, but important. Encounter balance is not just statblocks. The map can swing a fight hard.
+
+#### Weapons by Difficulty
+
+As a general rule, **explosives**, **special ammunition**, and especially nasty **special weapons** should not appear before **Hazardous** difficulty outside of edge cases.
+
 ### Street — Hazardous
 
 | | Guidance |
