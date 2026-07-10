@@ -23,12 +23,12 @@ Kabuki bar. Fight starts inside, spills to the street.
 
 | # | Area | Notes |
 |---|------|-------|
-| **1** | Bar rail | Marshal + Weaver start here. Bottles = improvised; bartender ducks Round 1. |
-| **2** | Booths / tables | Wave 1 Claws drinking. Flip tables = cover (SP 7–10 junk cover, GM fiat). |
-| **3** | Open floor | Crossfire. Neon, sticky. |
+| **1** | Bar rail | Marshal + Weaver start here. Bottles / *ochoko* / stools = improvised; bartender ducks Round 1. |
+| **2** | Booths / tables | Wave 1 Claws drinking (vinyl booths, *tokkuri*+*ochoko*, beer cans, Smash cups, SCOP skewers / synthsquid). Flip tables = cover (SP 7–10). |
+| **3** | Open floor | Crossfire. Neon, sticky, SCOP-grill smell. |
 | **4** | Back hall | Toilets, kegs, service door toward alley. |
-| **5** | Private room | Wave 2. Soundproof-ish until gunfire; door opens when escalation triggers. |
-| **6** | Street / curb | Spill zone. Cars, neon puddles, bystanders running. |
+| **5** | Private room | Wave 2. Nicer chairs, Excellent Quality Alcohol ashtray money. Soundproof-ish until gunfire. |
+| **6** | Street / curb | Spill zone. **2–3 CHOOH² Roadbikes**, Compact Groundcar, neon puddles, bystanders running. |
 | **7** | Alley | Side exit; optional Claw escape or flanking. |
 
 ---

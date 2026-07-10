@@ -1,80 +1,99 @@
 # Layout — Gig 3
 
-Sakura Street, Kabuki. Ground-floor **pachinko parlor** (still open / neon) with a **Claw safe flat** above. Sitters are dragging Aya in through the side door when Marshal clocks the scene.
-
-**Scale:** Street → side alley door → one stairwell → flat (2–3 rooms). Tight CQB. Treat numbered zones as combat beats.
+Kabuki. **Two combat locations**, one premise: entryway fight while the woman is hauled upstairs, then the room she's in.
 
 ```
-SAKURA STREET (neon, crowd thinning)
+SAKURA STREET
   │
-  ├─ [0] Street / sightline ── Marshal clocks the "snatch"
+  [0] Sightline — woman dragged through doorway
   │
   ▼
-[1] Side door (alley) ──► [2] Stairwell
-                              │
-                              ▼
-                         [3] Landing / hall
-                              │
-              ┌───────────────┼───────────────┐
-              ▼               ▼               ▼
-           [4] Main room   [5] Back room   [6] Bath / closet
-           (Aya + Ren      (stash /        (optional
-            + Takumi)       radio)          hide)
+[1] ENTRYWAY (Wave 1) ── door / alley mouth / first steps
+  │
+  │   escort peels UP with woman during Wave 1
+  ▼
+[2] Stairwell (transit / choke)
+  │
+  ▼
+[3] Landing + flat door
+  │
+  ▼
+[4] UPSTAIRS ROOM (Wave 2) — woman + escort survivors
+  │
+  └─ Hard backup can enter via [1]/[2]/[3] or a side window
 ```
-
-**Pachinko floor (below):** Open for business. Noise covers gunfire for 1–2 Rounds before someone calls Claws / NCPD. Marshal does not need to clear the parlor unless he goes loud through the front.
 
 ---
 
 ## Zones
 
-| # | Area | Notes |
+| # | Area | Fight |
 |---|------|-------|
-| **0** | Sakura Street | Neon, wet asphalt, parlor façade. Marshal's first read of the scene. Optional Perception / Human Perception before he commits (see Flavor). |
-| **1** | Alley side door | Marked employee / private. Sitters prefer this over the parlor floor. Barrable from inside once they're up. |
-| **2** | Stairwell | Narrow, one flight. **Hideo & Yui** set the ambush here once Marshal hits the door. No cover worth naming. |
-| **3** | Landing / hall | Flat door; radio chatter possible through the wood. |
-| **4** | Main room | Couch, low table, blinds. **Ren + Takumi + Aya** start here (or arrive as Marshal climbs). Kill zone. |
-| **5** | Back room | Weapons locker / radio / skim cash. Detail chit / Agent logs if searched. |
-| **6** | Bath / closet | Aya may bolt here if the fight turns; soft cover only. |
+| **0** | Street sightline | Hook — drag + **2–3 CHOOH² Roadbikes** (engines warm, helmets on bars) |
+| **1** | Entryway (street door / alley / bottom stairs) | **Wave 1** — hold team; brick doorstop, beer cans, Smash |
+| **2** | Stairwell | Chase / choke; reinforcements push here (Roadbike or foot) |
+| **3** | Landing / flat door | Breach into Wave 2 |
+| **4** | Upstairs room | **Wave 2** — Inflatable Bed, folding chairs, vinyl couch, woman here |
+| **5** | Back room / closet (optional) | Loot / hide; not required |
 
 ---
 
-## Opening positions
+## Opening positions (Round 0 → 1)
 
-| Who | Start |
-|-----|-------|
-| **Marshal** | Zone 0 → commits to 1 |
-| **Aya** | Being hauled 1→2→4 (or already in 4 if Marshal is slow) |
-| **Ren** | With Aya (1 or 4) |
-| **Takumi** | With Ren |
-| **Hideo** | Stairwell mid (2) — holds against climb |
-| **Yui** | Landing (3) or top of stairs — shoots down / cuts retreat |
+| Who | Start | Action as Marshal commits |
+|-----|-------|---------------------------|
+| **Woman** | Mid-drag at **[1]** | Pulled through door toward **[2]→[4]** |
+| **Escort** (1 LT, or LT + 1 Mook) | At **[1]** with woman | **Leaves for upstairs immediately** — do not stick them in Wave 1 unless Marshal somehow cuts them off Round 1 |
+| **Hold team** (remaining of 3 Mooks + 1–2 LTs) | **[1]** | Fight Marshal at the entryway |
+| **Marshal** | **[0]** | Engages **[1]** |
 
-**No reinforcements** if Marshal ends it in a few Rounds. If the fight stretches **6+ Rounds** of loud gunfire, GM option: 1d6 more Hanmen from the street (or parlor security) — Lethal second wave.
+**Key:** Some enemies **make it upstairs with the woman while Wave 1 resolves.** Wave 2 is whoever got her into **[4]** plus any hold survivors who fall back.
 
 ---
 
-## Exploration / tells (optional)
+## Timers
 
-| Check | DV | Result |
-|-------|-----|--------|
-| Perception (street, before commit) | **15** | Aya isn't bagged — no hood, no zip ties; sitters keep her *between* them and the street, not shoved ahead like cargo. |
-| Human Perception (street) | **15** | She's furious and drunk, not terrified-submissive. Sitters look stressed-protective, not predatory-excited. |
-| Perception (stairwell / hall) | **13** | Radio: "Package is upstairs— wait, negative, *princess* is upstairs. Keep the street clear." |
-| Perception / Electronics (back room) | **13** | Detail chit / Agent: Kimen-Gumi sitter rotation, Kenji Kurosawa's seal, "extract Aya if rivals sighted." |
-| Local Expert (Kabuki) | **13** | Flat above this parlor is a known Claw crash / safe room — not a random snatch den. |
+### Wave 1 → Reinforcements
 
-Failing these is fine. The gig works as a straight bloodbath; the truth is spice.
+If Wave 1 (entryway hold team) is **not cleared by the end of Round 4**:
+
+- **Reinforcements** arrive at **[0]/[1]** — **1–2 Hardened Mooks**, or **1 Hardened LT** if the table is melting the hold team anyway.
+- They join Wave 1 or block the stair so Marshal can't chase clean.
+
+### Wave 2 → Hard backup
+
+If Wave 2 is trivial (enemies folding fast, no PC Seriously Wounded by Round 2 of the room fight):
+
+| Players | Hard backup |
+|---------|-------------|
+| **1** | +1 Hardened LT **or** light Mini-Boss pressure |
+| **2** (or Breach stacked) | **+1 Hardened LT + 1 Hardened Mini-Boss + maybe 1 Hardened Mook** |
+
+Enter from stair, street, or adjoining access. See [Enemies.md](Enemies.md).
 
 ---
 
 ## Suggested flow
 
-1. **Street read** (optional checks) → Marshal decides to intervene.
-2. **Breach** side door → stairwell ambush (Hideo/Yui).
-3. **Flat** — Ren/Takumi with Aya in the main room; she may draw on *Marshal*.
-4. **Reveal** mid-fight or on loot / last words / Aya screaming the truth.
-5. **Extract or leave** — no NCPD contractor; Claw heat is the long tail.
+1. **Hook** — woman dragged through doorway; Claws see Marshal.
+2. **Split** — escort upstairs with her; hold team stays.
+3. **Wave 1** — entryway. Chase is live in the background (woman reaching **[4]** by ~Round 2–3 if unimpeded).
+4. **Round 4?** — reinforcements if hold team still up.
+5. **Push stairs** — break **[3]** door into **[4]**.
+6. **Wave 2** — room fight with woman in the kill zone.
+7. **Too easy?** — hard backup.
+8. **End** — loot / leave Kabuki before more masks show.
 
-**Timer (optional):** Every loud Round after Round 3, roll 1d10. On 1–2, a civilian from the parlor calls someone. On 9–10 if the fight is still going past Round 6, bring the optional second wave.
+---
+
+## Optional tells (story depth)
+
+Only if Marshal slows down. Cyberpsychosis can skip them.
+
+| Check | DV | Result |
+|-------|-----|--------|
+| Perception (street) | **15** | No hood/ties; bodies between her and the street (sitter read) |
+| Human Perception | **15** | Rage/drunk more than prey-fear |
+| Local Expert (Kabuki) | **13** | Upstairs is Claw crash space |
+
+Combat structure works as a straight snatch either way.

@@ -1,181 +1,178 @@
 # Flavor — Gig 3
 
-Setting, dialogue, secret truth, and resolution for Marshal's Kabuki night. Pair with [Layout.md](Layout.md) and [Enemies.md](Enemies.md).
+Two-location Tyger hunt. Pair with [Layout.md](Layout.md) and [Enemies.md](Enemies.md).
 
 ---
 
 ## Where
 
-**Kabuki** (Watson Development) — **Sakura Street**.
-
-Threat Rating: **Moderate** with Combat spillover. Tyger Claw turf in practice: oni masks, parlor neon, Day Market leftovers, Kimen-Gumi "neighborhood security." NCPD exists here as a rumor with a badge. Claws police their own.
-
-**Building:** Ground-floor pachinko parlor (lights on, machines screaming) with a private stair to a **safe flat** the Claws use when someone needs to disappear for a night — not a torture den, not a snatch house. Tonight it is Aya's bolt-hole.
+**Kabuki** — doorway off Sakura Street into a pachinko / walk-up. Claw turf. NCPD is a punchline.
 
 ---
 
 ## Appearance
 
-**Street**
+**Street / entryway:** Neon, wet ferrocrete, private door under a faded pachinko sign. Woman mid-drag. Half-masks splitting — some toward the chrome, some hauling her inside and **up**.
 
-Sakura Street at the ugly hour — neon pink and sick green on wet ferrocrete, pachinko spill light, cigarette heat, fried oil. Crowd thinning. A side alley door with a private sticker. Four figures: half-masks, armorjack under street fashion, one woman in expensive Asia Pop who is *not* walking willingly.
+**Outside bikes:** **Two CHOOH² Roadbikes** (Claws = fast bikes) and maybe a third ticking warm — half-mask charm on a mirror, tiger-stripe tank wrap, helmets on bars (they didn't expect a fight). Reinforcements arrive on another Roadbike or on foot from Sakura Street.
 
-**What it looks like:** A snatch. Grip on her arm. She's twisting. One sitter scanning the street. Another opening the door.
-
-**What it is:** Extraction. They're putting their bodies between her and the block.
-
-**Flat**
-
-Low ceiling, blinds drawn, couch that has seen better bloodless nights. Smell: gun oil, perfume, stale sake. Back room with a locker and a radio. Not lived-in — *staged* for short stays.
+**Upstairs room:** Blinds half-drawn, crash flat that smells like perfume over cordite. Woman ends up here with whoever escorted her.
 
 ---
 
-## Hook (Marshal)
+## Claw look
 
-No fixer. No Agent ping. No pay.
+Fashion over armor (CP:R + [Enemies.md](Enemies.md)).
 
-He is already slipping — early cyberpsychosis, too ready to read violence as permission. He sees the grip, the door, the struggling woman, and the part of him that still wants to be a hero lines up with the part that wants to *end* something.
+| Who | Wear |
+|-----|------|
+| **Hold mooks** | **Gang Colors** / **Asia Pop** jackets over **Light Armorjack**, bottoms, boots; half-masks already **down** (working, not drinking). Gloves on the ones handling the woman. |
+| **Escort LT (Ren)** | **Urban Flash** or clean **Asia Pop** coat over **Medium Armorjack**, nicer mask, Radio — the one giving orders in Japanese. |
+| **Reinforcements** | Same as hold; rain-wet Gang Colors, breath steaming, CHOOH² on their jackets. |
+| **Hard backup (Ryo)** | **Businesswear** over **Medium Armorjack**, **nice** mask — looks like he left a better room two blocks over. |
+
+If **sitter spice** is live: same Claw clothes (they're Claws), but no hood/ties on the woman — bodies between her and the street.
+
+---
+
+## Set dressing
+
+Book items where possible. Vessels freestyle.
+
+### Street / entryway
+
+| Sense | Detail |
+|-------|--------|
+| **Smell** | Wet asphalt, **CHOOH²** Roadbike exhaust, pachinko ozone, crushed cigarette, cheap perfume off the woman. |
+| **Props** | Door propped with a brick; Agent light blinking on a crate; empty **beer can** (12oz) in the gutter — not a stein. No bar service — if someone has synth-sake, it's a pocket **ochoko** or Oasis plastic cup from earlier. |
+| **Snacks (pocket / crate)** | Half-eaten Generic Prepak *onigiri*, Food Stick wrappers, foil **synthsquid**, **SCOP fishballs** in a cold pack, Smash can dented flat. |
+
+### Upstairs room
+
+| Sense | Detail |
+|-------|--------|
+| **Smell** | Gun oil, incense burned to ash, perfume, old Prepak takeout. |
+| **Seats** | **Inflatable Bed & Sleep-bag** against the wall, two folding metal chairs, low crate-table with a gun-cleaning rag. Thrift vinyl couch — woman gets shoved onto it. |
+| **Drinks / snacks** | Plastic cups of **Smash**, warm **beer** bottle, open *senbei* bag, foil synthsquid, ashtray of cigarette butts. Throw liquid = **plastic cup** or beer bottle — not barware. |
+| **Props** | Radio charger, spare half-mask on a nail, blinds with a knife slit for street watch, Kibble Pack crushed under a chair leg. |
+
+**Improvised:** folding chair, beer bottle, incense burner, blinds rod.
+
+---
+
+## Hook
+
+Marshal is **hunting**. He sees the doorway drag. They see him.
 
 **Boxed open (optional):**
 
-> Kabuki doesn't do quiet. It does neon and machine-scream and the wet slap of someone else's problem. Tonight the problem is four half-masks and a woman who doesn't want to go through that door. Your chrome is humming. Your empathy is a rumor. You could walk on. You don't.
+> Kabuki at the ugly hour. CHOOH² Roadbikes still warm at the curb. Half-masks — Gang Colors zipped over Armorjack, masks down — and a woman who isn't walking through that door on her own. They clock the chrome. Two peel toward you. The rest shove her through and take the stairs. Exhaust and perfume. No fixer. No pay. Just the hunt and whatever's left of your judgment.
 
 ---
 
-## Secret (GM only)
+## Story depth (Void)
+
+Gauge Marshal's mental state at the table:
+
+| How he plays | How deep to go |
+|--------------|----------------|
+| Pure hunt / slaughter | Surface snatch. Woman is a victim. No twist required. |
+| Still trying to "save" someone | Lean optional tells + sitter/daughter reveal mid-Wave 2 or on loot |
+| On the cusp / spiraling | Breach cusp check after ([Friends.md](Friends.md)); execute-wounded = spiral beat |
+
+---
+
+## Optional secret (GM spice)
 
 | Surface | Truth |
 |---------|-------|
-| Snatch crew | **Sitters** — Hanmen on Aya's detail |
-| Victim | **Aya Kurosawa**, daughter of Kimen-Gumi captain **Kenji Kurosawa** |
-| Flat | Claw **safe room**, not a rape/snatch den |
-| Why rough | She's drunk, angry, trying to go back out where a **rival crew** already made a play |
-| Why Marshal is the enemy | Full-borg Solo crashing the extract reads as the rival's cleaner |
+| Snatch | **Sitters** extracting **Aya Kurosawa** after a rival play |
+| Flat | Claw safe room |
+| Why Marshal is the enemy | Full-borg crashing the extract reads as the hit |
+
+Skip entirely if you want a shallow combat night.
+
+### Optional tells
+
+- **Perception DV15:** No hood/ties; bodies between her and the street.
+- **Human Perception DV15:** Rage/drunk > prey-fear.
+- **Local Expert DV13:** Upstairs is Claw crash space.
 
 ---
 
-## Optional pre-commit tells
+## Claw lines
 
-Call these only if Marshal slows down and looks. Cyberpsychosis can justify skipping them.
+Mix English with Japanese. Gloss in parentheses for the GM.
 
-- **Perception DV15:** No hood, no ties. They keep her *inside* the triangle of bodies, street-side open.
-- **Human Perception DV15:** Her face is rage and sake, not prey-fear. The lead's voice is clipped-protective when he says her name wrong / too familiar.
-- **Local Expert (Kabuki) DV13:** This parlor's upstairs is Claw crash space.
+### Doorway / split
 
----
+- "Chrome— hold the door!"
+- 「ハクだ！入口を押さえろ！」 *(Haku da! Iriguchi o osaero! — Chrome! Hold the entrance!)*
+- 「上げろ！急げ！」 *(Agero! Isoge! — Get her up! Hurry!)*
+- 「階段は俺たちが買う！」 *(Kaidan wa oretachi ga kau! — We'll buy the stairs!)*
 
-## Sitter lines
+### Wave 1 (entryway)
 
-**Voice:** Professional under stress. Japanese / Streetslang mix. They think Marshal is the hit.
+- "He's alone— drop him!"
+- 「一人だ！やれ！」 *(Hitori da! Yare! — He's alone! Do him!)*
+- 「通すな！」 *(Tōsu na! — Don't let him through!)*
+- (Round 4 radio) 「入口まだ熱い！増援！」 *(Iriguchi mada atsui! Zōen! — Entry still hot! Reinforcements!)*
+- (bike arriving) 「来た！裏から！」 *(Kita! Ura kara! — They're here! From the back!)*
 
-### Street / door (before shots)
+### Wave 2 (room)
 
-- "Inside. *Now.*"
-- "Eyes on the street — move her."
-- "Aya— stop fighting us—"
-- (to her) "They're still out there. You want to die pretty?"
+- 「荷物は確保— 待て、来た！」 *(Nimotsu wa kakuho— Mate, kita! — Package secure— wait, he's here!)*
+- 「ソファ！押さえろ！」 *(Sofa! Osaero! — Couch! Hold her!)*
+- (sitter spice) 「俺たちはシッターだ、クソが！」 *(Oretachi wa shittā da, kuso ga! — We're sitters, you fuck!)*
 
-### When Marshal commits
+### Hard backup (Ryo)
 
-- "Contact! Chrome— full conversion!"
-- "Not the rivals— *worse*. Drop him!"
-- "Keep her behind the couch. Ren—"
-
-### Mid-fight (reveal cracks)
-
-- "We're *sitters*, you chrome fuck— she's the package we *protect*!"
-- "Captain Kurosawa will have your spine!"
-- (Ren, if Aya is aimed at) "Not her— *me*! Take the shot on me!"
-
-### Downed / last breath
-
-- "…Tell Kenji… we held…"
-- "She wasn't… stolen…"
-- Or just the radio still looping: "Princess is upstairs. Princess is upstairs."
+- "I was two blocks over. You made noise."
+- 「二ブロック先にいた。音がした。」 *(Ni burokku saki ni ita. Oto ga shita.)*
+- 「名前。面のために。」 *(Namae. Men no tame ni. — Name. For the masks.)*
+- 「歌舞伎は許さない。」 *(Kabuki wa yurusanai. — Kabuki doesn't forgive this.)*
 
 ---
 
-## Aya lines
+## Woman lines
 
-**Voice:** Sharp, drunk-edged, privileged Kabuki Japanese with Streetslang bite. She does not sound like a grateful rescue.
+### Drag / stairs
 
-### Being hauled (street / stairs)
+- "Let *go*—!"
+- 「離して—！」 *(Hanashite—!)*
+- "You're hurting me—"
+- 「痛い…！」 *(Itai…!)*
 
-- "Let *go*— I said I can walk—"
-- "I'm not going in that fucking closet again—"
-- "If father's men are so good, where were they an hour ago?!"
+### Wave 2
 
-### When Marshal breaches (she may think *he* is the threat)
-
-- "Who the fuck— Ren, *shoot him*!"
-- "You're with *them*? The ones from the alley?"
-- (drawing pistol) "Stay back. Stay *back*!"
-
-### If she clocks the truth mid-fight
-
-- "They're *mine*! They're my detail— stop—*stop killing them*!"
-- "You idiot chrome— you think this is a rescue?!"
-- "I didn't ask for a psycho with a savior complex!"
-
-### If Ren dies in front of her
-
-- "Ren— no— no, no—"
-- (to Marshal) "You don't get to look confused. You *did* this."
-
-### After / if alive
-
-- "Don't touch me. Don't you *dare* touch me."
-- "You want thanks? Dig your own grave in Japantown. Father will help."
-- (quieter, if Marshal showed restraint) "…You really thought they were snatching me. Fuck. Of course you did."
-- "Get out of Kabuki before the rest of the masks show up."
-
----
-
-## Rival crew (offscreen / optional)
-
-Never need to appear. Flavor only unless the fight runs long:
-
-- Earlier: a car, a grab attempt, shots that missed.
-- Sitters won the first round and are finishing the extract.
-- If Marshal leaves Aya alone in the street, GM fiat: rivals might actually take a second swing — making his misread accidentally correct *later*.
+- (snatch) "Help— please—" / 「助けて—！」 *(Tasukete—!)*
+- (sitter) "They're *mine*— stop killing them!" / 「私の人よ— 殺さないで！」 *(Watashi no hito yo— korosanai de!)*
+- (either, if Marshal looks psycho) "Stay back— stay *back*!" / 「来るな—！」 *(Kuru na—!)*
 
 ---
 
 ## Conclusion
 
-**Resolution:** Sitters down or fled. Aya alive, dead, or gone. No NCPD payout. No parents with cash. Marshal's reward is whatever he strips — and whatever heat he earned.
+**Resolution:** Both locations clear (or not). No contractor cash. Strip Claw iron before more masks arrive.
 
-### Narration — the room after
+### Narration
 
-- The flat smells like cordite and her perfume. Half-masks on the floor. The "victim" is staring at you like you kicked in the wrong door on purpose.
-- On Ren's body (or the back-room locker): a detail chit with a Kimen-Gumi seal. Rotation orders. A name — **Aya Kurosawa** — and a captain's chop. Sitters. Not snatchers.
-- The radio is still live for a second: someone asking if the princess is secure. Then static. Then nothing you want to answer.
+- Entryway is brass and neon blood. Upstairs smells like perfume and cordite.
+- If the escort got her up clean, the room fight was always the real one.
+- If Round 4 brought friends, Kabuki already knows a full-borg hit a doorway snatch.
 
-### Narration — loot
+### Loot caps
 
-- Claw iron and armorjack, stained. Cash in a skim box. Her jewelry if you're that kind of monster. Chrome off the dead if you rip.
-- It adds up — until you remember fencing Tyger kit in Kabuki is how you buy a second funeral.
-- **Cap: 5,000eb** sellable loot for a full clear (Lethal Street band). Blood and faction marks don't raise the price.
+| Outcome | Salvage |
+|---------|---------|
+| Full clear, woman alive | up to **5,000eb** |
+| Woman dead | up to **3,000eb** |
 
-### Suggested loot split (full clear, GM fiat)
+### Aftermath
 
-| Salvage | Value |
-|---------|-------|
-| Assault Rifle + ammo (Ren) | ~1,000eb |
-| SMGs / blades / pistols (sitters + Aya's if taken) | ~1,200eb |
-| Armorjack pieces (sellable / scrap) | ~1,000eb |
-| Skim cash / parlor skim | ~800eb |
-| Jewelry / Agent scrap / misc | ~1,000eb |
-| **Total** | **~5,000eb** |
-
-Leave heat on the table if Marshal wants to live in Kabuki next week.
-
-### Optional aftermath beats
-
-- **Aya alive, hostile:** She calls someone. Marshal should leave. Rep still awards if the sitters are down and she's breathing — the Street doesn't care about his intentions.
-- **Aya alive, shaken-grateful-adjacent:** Rare. Only if he stopped shooting when the truth landed and got her out clean. She still won't pay him. She might owe a favor she hates.
-- **Aya dead:** Kabuki will learn a full-borg killed Kenji Kurosawa's daughter. Future gigs in Claw turf get harder. Reduce loot/IP/rep per Premise table.
-- **Cyberpsychosis:** If Marshal ignored every tell and executed wounded sitters for fun, lean on homebrew Stage rules — this night is a spiral beat, not a payday.
+- Claw heat in Kabuki / Japantown.
+- Optional: Aya's father if sitter twist was live.
+- Breach cusp check if Marshal is drifting — [Friends.md](Friends.md).
 
 ---
 
@@ -183,11 +180,9 @@ Leave heat on the table if Marshal wants to live in Kabuki next week.
 
 | Beat | Play |
 |------|------|
-| Hook | No contractor; Marshal chooses violence |
-| Street | Optional tells; cyberpsychosis excuses missing them |
-| Stairwell | Hideo/Yui ambush; they think he's the hit |
-| Flat | Ren protects Aya; she may shoot *Marshal* |
-| Reveal | Mid-fight lines, radio, or loot chit |
-| Breach | Optional ally — [Friends.md](Friends.md); two Solos = sitters die fast, twist matters more |
-| Cusp | Marshal on the edge — Breach Stealth **16** → gun to head → "Are you still *here*?" |
-| Conclusion | No cash pay; ≤5,000eb loot; Claw heat |
+| Hook | Doorway drag; hunt energy |
+| Split | Escort upstairs **now**; hold fights Wave 1 |
+| Round 4 | Reinforcements if entryway not clear |
+| Wave 2 | Break door; woman in room |
+| Too easy | Hard backup (2P package) |
+| Depth | Scale story to Marshal's head |
