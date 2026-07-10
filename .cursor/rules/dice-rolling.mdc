@@ -1,0 +1,39 @@
+---
+description: Instant CPR dice — look up sheets, bash PowerShell, resolve shorthand
+alwaysApply: true
+---
+
+# Dice Rolling (Cyberpunk RED)
+
+When the user asks to roll anything (skill, `1d10+#`, damage, init, death save, opposed, luck), follow `Homebrew/Dice.md`.
+
+## Do this every time
+
+1. **Identify the actor** from the message (character name, enemy name, or “that psycho” / open gig context).
+2. **Look up numbers** before rolling:
+   - PCs: `Epics/Story */Players/<Name>.md` (prefer over empty `Characters/` stubs)
+   - Enemies: `Gigs/<n>/Enemies.md`
+   - PCs store **skill levels** → base = **STAT + Skill**
+   - Enemies often store **Skill Bases** (already summed) → use as-is; do not add STAT again
+   - Hardened: +2 attack/defend bases per `Homebrew/GM Rules.md` (check if sheet already includes it)
+3. **Roll in PowerShell** with `Get-Random` — never write a Python script for dice.
+   - 1d10: `Get-Random -Minimum 1 -Maximum 11`
+   - 1d6: `Get-Random -Minimum 1 -Maximum 7`
+4. **Resolve CPR**: beat DV to succeed; ties → defender / fail vs static DV; nat 10 add another d10; nat 1 subtract another d10; ≥2 sixes on damage → Critical Injury.
+5. **House LUCK** from `Homebrew/Rules.md`: after = +1/pt; before during gig = +2/pt.
+
+## Shorthand map
+
+| User says | Action |
+|-----------|--------|
+| `roll skill X` / `Name Skill` | Look up base, `STAT+Skill+1d10` (or enemy Skill Base + 1d10) |
+| `1d10+#` / `d10+#` | Roll 1d10, add # |
+| `Nd6` | Damage; report faces + total + crit flag |
+| `init` | REF + 1d10 |
+| `death save` | 1d10 ≤ BODY − penalty |
+| `opposed A vs B` | Both roll; tie → defender |
+| Weapon / autofire / evade | Use that weapon’s skill + DMG from the sheet |
+
+## Reply style
+
+Short: formula with looked-up numbers → dice → total vs target → outcome. Do not open files in the editor to “show” sheets — read and cite in chat.

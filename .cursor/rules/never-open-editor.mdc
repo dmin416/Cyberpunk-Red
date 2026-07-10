@@ -1,0 +1,18 @@
+---
+description: Never open files in the user's editor (code, cursor, start, etc.)
+alwaysApply: true
+---
+
+# Never Open Files in the Editor
+
+**NEVER** open, reveal, or focus files in the user's editor or IDE.
+
+Forbidden (non-exhaustive):
+- `code <path>`
+- `cursor <path>`
+- `start <path>` / `xdg-open` / `open` on a file to launch an editor
+- Any shell or tool call whose purpose is to open a file in the UI for the user
+
+When the user asks to "pull up" a sheet, rule, or reference: **read it and show the content in chat**. Do not open the file in their editor.
+
+Only edit files with Write/StrReplace/etc. when the task requires changing them — never as a way to "show" something.
