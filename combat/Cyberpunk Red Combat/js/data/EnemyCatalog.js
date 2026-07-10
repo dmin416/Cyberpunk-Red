@@ -445,6 +445,47 @@ export const ENEMY_CATALOG = [
         notes: 'EMP 0. Only deploy if the Crew is ready.',
     },
 
+    // ── Legend — Hardened Cyberpsycho: Screamsheets Boss + DGD/homebrew harden ──
+    {
+        id: 'hardened_cyberpsycho',
+        displayName: 'Hardened Cyberpsycho',
+        source: 'Homebrew · Hardened Boss (from CP:R Screamsheets)',
+        level: 'Legend',
+        ref: 8, dex: 8, body: 12, will: 8, move: 8,
+        hp: 60,
+        armorHeadSP: 12, armorBodySP: 12,
+        skills: { handgun: 14, evasion: 15, meleeWeapon: 19, heavyWeapons: 16, autofire: 16, brawling: 17 },
+        weapon: {
+            name: 'Popup Heavy SMG',
+            rangeCategory: 'SMG',
+            skillKey: 'handgun',
+            damageDice: '3d6',
+            rof: 1,
+        },
+        secondaryWeapon: {
+            name: 'Very Heavy Melee Weapon',
+            rangeCategory: 'Melee',
+            skillKey: 'meleeWeapon',
+            damageDice: '4d6',
+            rof: 1,
+        },
+        gear: [
+            'AP Grenade x2',
+            'Thrown Grenade x2',
+            'EMP Grenade x1',
+            'Heavy Pistol Ammo x100',
+            'Popup Grenade Launcher',
+            'Very Heavy Melee Weapon',
+            'Grafted Muscle & Bone Lace',
+            'Implanted Linear Frame Sigma',
+            'Subdermal Armor',
+            'Pain Editor',
+            'Kerenzikov',
+            'Hardened Shielding',
+        ],
+        notes: 'Solo Combat Awareness 8. EMP 0. Hardened Boss — only vs a Hardened Crew.',
+    },
+
     // ── Legend — DGD Hardened Boss tier: elite Max-Tac response ──
     {
         id: 'max_tac_operator',
