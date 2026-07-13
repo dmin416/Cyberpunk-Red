@@ -1,8 +1,12 @@
-# Friends — Gig 1
+# Friends — Kabuki Kill Floor (Gig 1)
 
 ---
 
 ## Weaver
+
+**PC sheet:** [Epics/Story 1/Players/Weaver.md](../../Epics/Story%201/Players/Weaver.md) · Gig index: [Players.md](Players.md)
+
+*Below = **simplified ally block** if GM runs Weaver as NPC. Do not use for player dice — stats differ.*
 
 **Level:** Hardened Lieutenant (ally) · **Role:** Tech (Maker 4: Field Expertise 2, Upgrade Expertise 1, Fabrication Expertise 1) · **Rep:** 3  
 **Handle:** Weaver · **Focus:** Combat Tech — guns, gadgets, mid-fight Field Expertise
@@ -66,7 +70,7 @@ See [Flavor.md](Flavor.md#weaver-at-the-table).
 
 **Level:** Hardened Mini-Boss (plays like a Boss) · **Role:** Solo (Combat Awareness 8) · **Rep:** 6  
 **Handle:** Breach · **Legal / meat name:** Marek Creed  
-**Relationship:** Friend / fireteam — same sheet as [Gig 3](../3/Friends.md); **do not stack into Wave 1+2 unless you want the bar erased**
+**Relationship:** Friend / fireteam — same sheet as [Gig 3](../3/Friends.md). **Gig 1: after combat only** — never joins the Claw fight.
 
 | INT | REF | DEX | TECH | COOL | WILL | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|-----|
@@ -127,17 +131,43 @@ Biosystem + FBC (Beta-class) · **Gemini Sculpt** · Linear Frame **Beta** (BODY
 
 ### Prior bond (short)
 
-Mutual psycho-promise at Roxy's: Breach gave Marshal **AR+GL** to finish him; Marshal gave Breach **etched X-9mm** + friendship. Full beat: [../3/Friends.md](../3/Friends.md#prior-bond-table-canon--roxys-workshop-chenviktor-shipment).
+Mutual psycho-promise at Roxy's ([full beat](../3/Friends.md#prior-bond-table-canon--roxys-workshop-chenviktor-shipment)):
 
-### How he shows up (Gig 1)
+- **Breach → Marshal:** AR+GL — *when I'm too far gone, put me down; keep me from killin anyone innocent.*
+- **Marshal → Breach:** Etched X-9mm — *trust until then; we're friends; call me if you're losing it.*
 
-| Option | Beat |
-|--------|------|
-| **Default** | **Not here.** Weaver is the ally. Breach turns a Lethal bar into a massacre. |
-| **Aftermath only** | Street outside after Wave 2 — cusp check if Marshal is spiraling |
-| **Emergency** | Marshal Agent-pings mid-wipe; Breach enters Round 3+ as cavalry (expect Claw heat to explode) |
+**Tonight's question (inverted):** Marshal promised to stop **Breach** before innocents die. Breach is here to ask if **Marshal** lost himself **first**.
 
-### Cusp check (if present)
+### Breach — after combat (mandatory)
+
+**When:** **Always.** After combat resolves — bar floor, street spill, or loot scramble. **Not** during Wave 1 / reinforcements / Ryo. Breach does **not** help with Tyger Claws.
+
+**Why:** Reconnect. Cusp check. He heard gunfire or got the ping; he doesn't care who won the booth fight. He cares whether the chrome in the wreckage is still **Marshal**.
+
+| Step | Beat |
+|------|------|
+| **1** | Combat ends. Loot / breathe / rain on neon blood. |
+| **2** | Breach is already there — **Stealth 18**; green hoodie, synth voice, etched **X-9mm** not the AR. |
+| **3** | Ignores Claws, Weaver, loot unless they force it. Eyes on **Marshal**. |
+| **4** | **Cusp check** — gun to head or open draw. Full procedure: [../3/Friends.md](../3/Friends.md#cusp-check--gun-to-marshals-head). |
+| **5** | Outcome: still here → extract together / "remember your promise"; gone → sorry / hard choice. |
+
+**O narration seed:**
+
+> The Tyger Claws aren't the point anymore. Somewhere in the rain and cordite, a hooded full-borg is watching **you** — not the bodies, not the Tech. He didn't come to save you from half-masks. He came to see if you're still in there. Before anyone asks whether *he* needs putting down.
+
+**Key lines (Gig 1):**
+
+- "You promised you'd stop me if I went. I'm asking if I have to stop **you**."
+- "Did you lose yourself first, choom? That's the question."
+- "I don't give a fuck about the Claws. Look at me."
+- "You called it a drink. Kabuki's gonna call it a massacre. But I ain't here for them."
+
+**Weaver:** Witness or buffer — her call. Breach isn't negotiating with the sitters; he's reading Marshal.
+
+**Never:** Breach joins mid-combat for this gig. Combat is Marshal + Weaver vs Claws. Breach is **epilogue**.
+
+### Cusp check (procedure)
 
 **Stealth 18** → etched X-9mm to Marshal's head → "Are you still *here*?" Full procedure: [../3/Friends.md](../3/Friends.md#cusp-check--gun-to-marshals-head).
 

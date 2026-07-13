@@ -94,6 +94,42 @@ Everything listed on this line is just a suggestion. Even Adam Smasher would thi
 
 ---
 
+## What is Hardened?
+
+*Source: Interface RED Vol. 2 — Hardened Lieutenants (p. 10).*
+
+**Hardened** is a prefix meaning **combat-optimized**. It marks NPC statblocks and encounter tier built to challenge combat-optimized PCs without inflating body count or breaking economy.
+
+### Hardened Character
+
+A PC is **Hardened** if they meet **any** of:
+
+- **REF 8** and **Evasion 6+**
+- Can attack at **STAT + Skill + mods ≥ 15**
+- **WILL + BODY ≥ 16**
+- Owns a weapon valued **Luxury** or higher
+- **DEX 8** and **MOVE 8**
+- **Autofire 6+** or **Martial Arts 6+**
+- **Solo Rank 4+**
+
+*One criterion is enough.*
+
+### Hardened Crew
+
+A **Hardened Crew** is a crew where **every** PC is Hardened.
+
+If **even one** member is **not** Hardened, you do **not** have a Hardened Crew. Hardened opposition will likely kill the non-Hardened character(s). Field softer material for mixed crews, or accept that risk.
+
+### Hardened NPC statblocks
+
+Hardened **enemy** blocks (IR2+): **+2** to attacking and defending Skill Bases; **−1** armorjack penalty (or **+1 SP** — pick one per block). No Poor Quality gear on non-Mooks.
+
+Use **Hardened Lieutenants** at **one per two Edgerunners** against a **Hardened Crew** only. Hardened Mooks can appear in smaller doses against non-Hardened crews; Hardened LTs against a mixed crew is a funeral.
+
+At combat, roll **[Hardened Lieutenant Tactics](#hardened-lieutenant-tactics)** for Hardened LTs.
+
+---
+
 ## Opposition by Gig Difficulty
 
 Use **CP:R NPC levels** (*Screamsheets* p. 412+) to build fights. Each level converts to **Edgerunner-equivalent threat** when balancing:
@@ -107,7 +143,7 @@ Use **CP:R NPC levels** (*Screamsheets* p. 412+) to build fights. Each level con
 
 **Gear beats bodies.** Upgrading a Mook's weapon or armor can matter more than adding another Mook. A Lieutenant with an assault rifle and armorjack hits harder than three boostergangers with poor pistols.
 
-**Hardened crews need Hardened NPCs.** If the party runs heavy chrome, *Solo of Fortune* gear, or is mostly combat-optimized, bump opposition up a tier or **Harden** them: **+2** to all attacking and defending Skills, and either **+1 SP** on armor or **−1** to all armor penalties. Hardened NPCs should not carry Poor Quality gear unless they are Mooks.
+**Hardened Crew at the table?** See [What is Hardened?](#what-is-hardened). Use Hardened NPC blocks and [Lieutenant Tactics](#hardened-lieutenant-tactics) — not bigger mook swarms alone.
 
 **Player count cap is 6.** The examples below assume a full crew; scale threat weight down proportionally for smaller groups.
 
@@ -173,6 +209,27 @@ Then decide how smart the enemies are:
 - **Smart enemies** are as smart as you are, but they do not cheat. If a player is hidden, invisible, or otherwise unknown, the enemies do not magically know where they are.
 
 Enemy intelligence should also affect how strictly they follow the targeting priorities above. Smart enemies should additionally focus on players who are closest to being **incapacitated**, whether that means nearly dead, pinned down, disarmed, or otherwise about to stop contributing to the fight.
+
+#### Hardened Lieutenant Tactics
+
+*Source: Interface RED Vol. 2 — Hardened Lieutenants (p. 11). Use at combat start or when an Hardened LT takes command.*
+
+Optional garnish — roll **1d10** (or pick) when a **Hardened Lieutenant** is in the fight:
+
+| 1d10 | Tactic |
+|------|--------|
+| **1** | Lieutenant and allies **ambush** the party (CP:R 399). |
+| **2** | Lieutenant is **grappling a human shield** (CP:R 184). |
+| **3** | Lieutenant orders allies to **focus one player** (pick by damage / visibility / incapacitation — see above). |
+| **4** | Lieutenant orders allies to **charge wildly** at the party. |
+| **5** | Lieutenant is in a **highly defensible position** with good cover. |
+| **6** | Lieutenant has **First Aid** and **Paramedic** Skill Bases of **14** each. |
+| **7** | Lieutenant rigged an **Armor-Piercing Grenade** (CP:R 345) as a trap on the field. **Notice:** DV15 Perception. **Disarm:** DV9 Demolitions. Detonates if any character enters the trapped square. |
+| **8** | Lieutenant has done **extensive research** into the party's combat capabilities. |
+| **9** | Lieutenant has **COOL 6**, **Rep 2**, and attempts a **Facedown** (CP:R 194) before or at the start of combat. |
+| **10** | Lieutenant has **Tactics** Skill Base **16** and is in **command**. |
+
+**Gig use:** Roll for each Hardened LT (Kaito, Nori, Ren, etc.) or once for the fight's field commander. Re-roll duplicates if you want variety.
 
 #### Maps Matter
 

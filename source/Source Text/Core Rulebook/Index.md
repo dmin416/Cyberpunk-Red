@@ -4,9 +4,9 @@
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces.
 
-Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters extracted from [`RTG-CPR-DLC-NoPlaceLikeHome.pdf`](<../../PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf>), [`RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf`](<../../PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf>), and [`RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf`](<../../PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf>).
+Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters extracted from [`RTG-CPR-DLC-NoPlaceLikeHome.pdf`](<../../PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf>), [`RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf`](<../../PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf>), [`RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf`](<../../PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf>), and [`RTG-CPR-DLC-NightCityTarot-v1.2.pdf`](<../../PDF/RTG-CPR-DLC-NightCityTarot-v1.2.pdf>).
 
-**21 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapters 19–21 are free DLCs filed here as core chapters: *No Place Like Home* (base building), *The 12 Days of Vehiclemas* (vehicles and Nomad upgrades), and *Invented Tech Upgrades* (NPC Tech upgrades).
+**22 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapters 19–22 are free DLCs filed here as core chapters: *No Place Like Home* (base building), *The 12 Days of Vehiclemas* (vehicles and Nomad upgrades), *Invented Tech Upgrades* (NPC Tech upgrades), and *Night City Tarot* (optional Critical Injury subsystem).
 
 ## Contents
 
@@ -16,6 +16,7 @@ Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters ext
 - Ch. 19 — [No Place Like Home](<19 No Place Like Home.md>) (DLC)
 - Ch. 20 — [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>) (DLC)
 - Ch. 21 — [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>) (DLC)
+- Ch. 22 — [Night City Tarot](<22 Night City Tarot.md>) (DLC)
 
 ## Chapters
 
@@ -42,6 +43,7 @@ Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters ext
 | 19 | [No Place Like Home](<19 No Place Like Home.md>) | No Place Like Home (DLC) | DLC 1–8 |
 | 20 | [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>) | The 12 Days of Vehiclemas (DLC) | DLC 1–16 |
 | 21 | [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>) | Invented Tech Upgrades (DLC) | DLC 1–9 |
+| 22 | [Night City Tarot](<22 Night City Tarot.md>) | Night City Tarot (DLC) | DLC 1–12 |
 
 ## Subsections by chapter
 
@@ -467,3 +469,14 @@ Tech DLC (March 2026): rules for buying NPC-invented Tech Upgrades, pricing ther
   - [Never Naughty Nedd](<21 Invented Tech Upgrades.md#never-naughty-nedd>) (pp. 7–8)
   - [Troy Gordon](<21 Invented Tech Upgrades.md#troy-gordon>) (pp. 8–9)
   - [Tweak](<21 Invented Tech Upgrades.md#tweak>) (p. 9)
+
+### [Night City Tarot](<22 Night City Tarot.md>)
+
+Optional combat subsystem using Major Arcana cards from Cyberpunk 2077 to replace typical Critical Injuries with rare outcomes. Includes printable Letter and A4 card sheets in the PDF.
+
+- [What Is This?](<22 Night City Tarot.md#what-is-this>) (p. 2)
+- [How Do I Use It?](<22 Night City Tarot.md#how-do-i-use-it>) (p. 2)
+- [Major Arcana Alterations](<22 Night City Tarot.md#major-arcana-alterations>) (p. 4)
+- [Major Arcana](<22 Night City Tarot.md#major-arcana>) (pp. 3–5)
+  - [The Fool](<22 Night City Tarot.md#the-fool>) through [The World](<22 Night City Tarot.md#the-world>)
+- [Printable Deck](<22 Night City Tarot.md#printable-deck>) (pp. 6–12 Letter; pp. 14–21 A4)

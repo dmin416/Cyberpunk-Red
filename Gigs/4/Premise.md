@@ -26,6 +26,10 @@
 
 
 
-## Timezone / Availability
+## Session log
 
+- [In Character Story](In%20Character%20Story.md) — **gig-ic** Discord transcript
+- [Out of Character](Out%20of%20Character.md) — **gig-ooc** Discord transcript
+
+## Timezone / Availability
 

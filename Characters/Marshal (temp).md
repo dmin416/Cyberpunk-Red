@@ -1,5 +1,8 @@
 # Marshal — FBC
 
+**PC sheet (play):** [Epics/Story 1/Players/Marshal.md](../Epics/Story%201/Players/Marshal.md)
+
+---
 ## Shit I need for FBC
 
 ### Tech Bills

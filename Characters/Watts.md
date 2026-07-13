@@ -1,9 +1,9 @@
 # Watts
 
-**Role:** *(carry over)*  
+**Role:** **Solo**  
 **Handle:** Watts
 
-Dragon-themed **Full Body Conversion** — brain in a **Biosystem**, two metal shells. **Primary combat body** (four arms, heavy chrome) is the day-to-day Borg; a **second Draconic FBC shell** comes out of the **Draconic FantaForm™** package during the Zoo arc. **Four arms** on the combat shell — either native (e.g. Militech Spyder 2.0) or top pair + **Artificial Shoulder Mount** lower pair. Martial focus: **Multiarm Melee** + **Aikido** now; **Militech Commando Training** and **Choy Li Fut** (Shaolin — *Shaolin Step*) later. **No Melee Weapons skill. No Kendo.**
+Dragon-themed **Full Body Conversion** — brain in a **Biosystem**, two metal shells. **Primary combat body** (**6× Cyberarm**, heavy chrome) is the day-to-day Borg; a **second Draconic FBC shell** comes out of the **Draconic FantaForm™** package during the Zoo arc. Combat shell: e.g. **Militech Spyder 2.0** (4 native) + **Artificial Shoulder Mount** + 2 arms, or equivalent 6-arm build. Martial focus: **Multiarm Melee 6 · Silat 6 · Aikido 6** — disarm/control on the gig shell; **Melee 6** + **Combat Tail** on the dragon shell.
 
 ## Stats
 
@@ -29,30 +29,29 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 ## Skills
 
 - *(carry over from pre-conversion character)*
-- **Melee Weapons:** none — not investing; no Kendachi / popup blade path
+- **Brawling 6** · **Evasion 6** · **Melee Weapon 6** · **Athletics 6** *(throwing)*
 - **Kendo:** none
 
 ### Martial Arts
 
-| Form | Status | Notes |
-| --- | --- | --- |
-| **Multiarm Melee** | **Known** | `Armed & Dangerous` on Brawling (4 arms > target); `Smack Together` if multi-grappling |
-| **Aikido** | **Known** | `Disarming Combination` (Brawling + MA hit → strip held item); `Iron Grip` (grapple → no ranged attacks, −2 escape) |
-| **Militech Commando Training** | *Planned* | `Commando Disarm` — 2+ hands free, opposed vs Brawling, steal weapon + bonus attack |
-| **Choy Li Fut** *(Shaolin)* | *Planned* | `Shaolin Step` (free Run after perfect dodge); `Sweeping Fist` (bonus Brawling vs third target) |
+| Form | Rank | Notes |
+| --- | ---: | --- |
+| **Multiarm Melee** | **6** | `Armed & Dangerous` on Brawling (6 arms > target; Solo CA reassign option); `Smack Together` |
+| **Silat** | **6** | `Internal Power` (MA → bonus Brawling); `Violent Leverage` (new grapple → bonus melee) |
+| **Aikido** | **6** | `Disarming Combination`; `Iron Grip` (grapple → no ranged, −2 escape) |
 
-*Each form is a separate x2 DEX skill. MA Attacks = ROF2, half armor.*
+*Each form is a separate x2 DEX skill. MA Attacks = ROF2, half armor. Kit writeup: [Martial Arts/Watts.md](Martial%20Arts/Watts.md).*
 
 ## Gear
 
 **Armor:** per shell (e.g. Heavy Subdermal Plating SP 13, Dragoon SP 15, etc.)  
 **Weapons (built-in / per body):**
 - Firebreather — throat exotic shotgun, 1 incendiary shell *(dragon body)*
-- Combat Jaw — Very Heavy Melee *(dragon shell only; RAW uses Melee Weapons — not Watts's skill)*
-- Combat Tail — Heavy Melee *(dragon shell only; same)*
-- Wolvers ×2 — Heavy Melee 3d6 claws *(dragon shell or spare arms; same)*
+- Combat Jaw — Very Heavy Melee **4d6** ROF 1 *(dragon shell; **Melee Weapon 6**)*
+- Combat Tail — **4d6** ROF **2** *(dragon shell; **Melee Weapon 6**)*
+- Wolvers ×2 — Heavy Melee **3d6** ROF 2 claws *(dragon shell or spare arms)*
 
-**Arms:** **4× Cyberarm** on combat shell (Spyder 2.0 natively, or 2 + Shoulder Mount + 2)  
+**Arms:** **6× Cyberarm** on combat shell (Spyder 2.0 **4** + Shoulder Mount **+2**, or equivalent)  
 **Other:** Neural Link / Neuroport, Cyberaudio Suite, Biosystem (permanent), Cyberskull faceplate *(dragon shell)*
 
 ### Planned arm loadout (combat shell)
@@ -64,7 +63,7 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 | **Lower R** | **Pursuit Security Bouncer** *(or second Smart Glove)* | Second less-lethal / smartgun hand |
 | **Lower L** | Spare options — tool, grapple, or empty | MA / Brawling / Commando disarm hand |
 
-*FBC doubles cyberarm option slots (8 per arm). No popup melee — no Melee Weapons skill.*
+*FBC doubles cyberarm option slots (8 per arm). No popup melee on combat shell — tail/jaw on dragon body.*
 
 ---
 
@@ -74,7 +73,7 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 | --- | --- | --- |
 | **When** | First — going Metal | Second — during **Draconic FantaForm™** / Zoo arc |
 | **Role** | Gigs, Multiarm + disarm kit, heavy loadout | Dragon aesthetic, LARP package chrome, alternate face |
-| **Arms** | 4 (Spyder 2.0 or Shoulder Mount build) | 2× Cyberarm (package default; can add mount later) |
+| **Arms** | 6 (Spyder 2.0 + Shoulder Mount + 2, or equivalent) | 2× Cyberarm (package default; can add mount later) |
 | **Frame** | Omega preferred (BODY 16) — Samson, Dragoon, etc. | Beta from package lineage or match combat frame |
 | **Look** | Metal Borg / Enforcer-class | Draconic sculpt + faceplate + tail/jaw/firebreath |
 | **Swap** | DV17 Cybertech or Surgery, 4 hr; reattempt on fail | Same Biosystem, new shell HL only on *new* chrome since last time in that body |
@@ -150,9 +149,9 @@ Subdermal Grip + **2 option slots**. Finger chrome works; blocks other arm optio
 
 ## Notes
 
-- **No Melee Weapons, no Kendo** — combat shell is **smartgun / Bouncer / MA + Brawling**, not blades. Dragon-shell jaw/tail/wolvers are package chrome, not the gig kit.
-- **Multiarm + Aikido** now: land Brawling + MA on same target → disarm anything held; grapple → shut down shooters. **Militech Commando** later = proactive one-action gun grab + counterattack (ideal with 4 hands).
-- **Choy Li Fut** listed as Shaolin — RAW form name; *Shaolin Step* is the signature move.
+- **Combat shell** — **smartgun / Bouncer / Silat disarm pipeline / Multiarm Brawling**. **Dragon shell** — **Combat Tail 4d6 × 2** + jaw/wolvers via **Melee 6**.
+- **Solo** — **Armed & Dangerous** can free **Combat Awareness** reassign before a Brawling roll.
+- **Athletics 6** — throw disarmed weapons away (**25 m/yds**) or chuck grenades; thrown melee ignores half-SP.
 - **PanzerFaust** optional for `Inner Chrome` (EMP/Quickhack immunity) — not current plan.
 - Dragon shell is for identity / package fiction; combat shell is the gig loadout.
 - Sub-0 Humanity: server Stage 5 rework (*Homebrew/Rules.md*) — loyalty-style rolls, not raw GM seizure.

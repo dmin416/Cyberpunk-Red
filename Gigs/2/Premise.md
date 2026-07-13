@@ -69,6 +69,12 @@ Hand off the kid to the **parents** at the tape (and the corpse to NCPD).
 | **Child only** (psycho flees / not confirmed) | **500eb** (parents) | **100** | **2** | NCPD withholds kill fee until chrome is flatlined |
 | **Wipe / abort** | **0eb** | **0** | **0** | Someone else gets the board listing |
 
+## Session log
+
+- [In Character Story](In%20Character%20Story.md) — **gig-ic** Discord transcript
+- [Out of Character](Out%20of%20Character.md) — **gig-ooc** Discord transcript
+
 ## Timezone / Availability
 
 Cleric GM · Void (and any crew they bring).
+

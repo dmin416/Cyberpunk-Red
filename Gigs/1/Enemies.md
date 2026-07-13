@@ -1,16 +1,28 @@
-# Enemies — Gig 1
+# Enemies — Kabuki Kill Floor (Gig 1)
 
 **Hardened rule:** +2 attacking/defending Skill Bases; **−1** armor penalty on armorjacks per [Homebrew/GM Rules.md](../../Homebrew/GM%20Rules.md).
 
-**Wave 1** = floor. **Wave 2** = private room — only if Wave 1 dies too clean (GM call: under ~3 Rounds, no PC Seriously Wounded, or table feels bored).
+**Wave 1** = **3 Hardened Mooks + 2 Hardened Lieutenants** (floor). **Reinforcements** = **2–4 Hardened Mooks** on a **3d6** round timer from first gunshot. **Wave 2** = private room (Ryo) — only if Wave 1 dies too clean.
+
+*Hardened Crew ([GM Rules](../../Homebrew/GM%20Rules.md#what-is-hardened)) — roll [Lieutenant Tactics](../../Homebrew/GM%20Rules.md#hardened-lieutenant-tactics) for each LT at combat start.*
 
 ---
 
 ## Wave 1 — Floor Crew
 
-### Hardened Tyger Claw Mook (×3)
+**Named loadout (table canon):**
 
-*Rename: **Ken**, **Sora**, **Jin** — drinkers at the rail / booth.*
+| Name | Role | Primary | Body SP |
+|------|------|---------|---------|
+| **Ken** | Mook | SMG (Autofire) | **7** |
+| **Sora** | Mook | Heavy Melee / blade | **7** |
+| **Jin** | Mook | Assault Rifle (Shoulder Arms) | **11** |
+| **Kaito** | Lieutenant | Mono-Katana | **11** |
+| **Nori** | Lieutenant | Shotgun (Shoulder Arms) | **13** |
+
+### Hardened Tyger Claw Mook — shared block
+
+* **Ken**, **Sora**, **Jin** — drinkers at the rail / booth. See loadout table above.
 
 **Level:** Hardened Mook · **Rep:** 1
 
@@ -22,27 +34,37 @@
 |----|-------------------|------------|
 | 30 | 15 | 4 |
 
-#### Weapons
+#### Weapons (by name)
 
-| Weapon | DMG | ROF | Notes |
-|--------|-----|-----|-------|
-| SMG | 2d6 | 1 | Autofire |
-| Heavy Melee / blade | 3d6 | 2 | Bar fight range |
+| Name | Weapon | DMG | ROF | Skill |
+|------|--------|-----|-----|-------|
+| **Ken** | SMG | 2d6 | 1 | Autofire **13** |
+| **Sora** | Heavy Melee / blade | 3d6 | 2 | Melee Weapon **13** |
+| **Jin** | Assault Rifle | 5d6 | 1 | Shoulder Arms **13** |
 
-#### Armor
+*Jin's rifle leans against the booth like furniture (IC).*
 
-| Location | Armor | SP | Penalty |
-|----------|-------|-----|---------|
-| Head | L Armorjack | 11 | −1 |
-| Body | L Armorjack | 11 | −1 |
+#### Armor (by name)
+
+| Name | Head SP | Body SP | Notes |
+|------|---------|---------|-------|
+| **Ken** | 7 | 7 | Light street pads under jacket |
+| **Sora** | 7 | 7 | Light street pads under jacket |
+| **Jin** | 11 | 11 | Light Armorjack · **−1** penalty |
+
+*Hardened **−1** penalty applies to armorjack (Jin only among mooks).*
 
 #### Skill Bases
 
-Athletics 10 · Autofire 12 · Brawling 10 · Concentration 6 · Conversation 5 · Education 5 · Evasion 12 · First Aid 4 · Handgun 10 · Human Perception 5 · Language (Japanese) 7 · Language (Streetslang) 5 · Local Expert (Kabuki) 7 · Melee Weapon 12 · Perception 7 · Persuasion 5 · Resist Torture/Drugs 6 · Stealth 10
+Athletics 10 · Autofire 13 · Brawling 10 · Concentration 6 · Conversation 5 · Education 5 · Evasion 12 · First Aid 4 · Handgun 10 · Human Perception 5 · Language (Japanese) 7 · Language (Streetslang) 5 · Local Expert (Kabuki) 7 · Melee Weapon 13 · Perception 7 · Persuasion 5 · Resist Torture/Drugs 6 · Shoulder Arms 13 · Stealth 10
+
+*Shoulder Arms on sheet for **Jin**; Autofire for **Ken**; Melee for **Sora**.*
 
 #### Gear
 
-Basic SMG Ammo ×60 · Agent · Disposable Cell · Radio
+**Ken:** Basic SMG Ammo ×60 · Agent · Disposable Cell · Radio  
+**Sora:** — (blade on person) · Agent · Disposable Cell · Radio  
+**Jin:** Basic Rifle Ammo ×40 · Agent · Disposable Cell · Radio
 
 #### Cyberware
 
@@ -58,11 +80,11 @@ Drunk-adjacent but not useless. First Round may waste Actions drawing / flipping
 
 **Level:** Hardened Lieutenant · **Role:** Solo (Combat Awareness 2) · **Rep:** 3
 
-*Use **one** LT for a tighter fight; add **second LT ("Nori")** with the same block if Marshal+Weaver are rolling hot.*
+*Always in Wave 1 with **Nori**.*
 
 | INT | REF | DEX | TECH | COOL | WILL | MOVE | BODY | EMP |
 |-----|-----|-----|------|------|------|------|------|-----|
-| 4 | 8 | 7 | 3 | 6 | 6 | 5 | 6 | 3 |
+| 4 | 7 | 7 | 3 | 6 | 6 | 5 | 6 | 3 |
 
 | HP | Seriously Wounded | Death Save |
 |----|-------------------|------------|
@@ -72,23 +94,23 @@ Drunk-adjacent but not useless. First Round may waste Actions drawing / flipping
 
 | Weapon | DMG | ROF | Notes |
 |--------|-----|-----|-------|
-| Assault Rifle | 5d6 | 1 | Under table / sling |
-| Wakizashi | 2d6 | 2 | Medium Melee |
+| Kendachi Mono-Katana | 4d6 | 1 | Very Heavy Melee; ignores armor if SP &lt; 7 |
+| Wakizashi | 2d6 | 2 | Medium Melee backup |
 
 #### Armor
 
 | Location | Armor | SP | Penalty |
 |----------|-------|-----|---------|
-| Head | M Armorjack | 12 | −1 |
-| Body | M Armorjack | 12 | −1 |
+| Head | L Armorjack | 11 | −1 |
+| Body | L Armorjack | 11 | −1 |
 
 #### Skill Bases
 
-Athletics 12 · Autofire 14 · Brawling 12 · Concentration 8 · Conversation 6 · Education 6 · Evasion 12 · First Aid 6 · Handgun 12 · Human Perception 6 · Interrogation 8 · Language (Japanese) 8 · Language (Streetslang) 6 · Local Expert (Kabuki) 8 · Martial Arts (Karate) 12 · Melee Weapon 14 · Perception 8 · Persuasion 6 · Resist Torture/Drugs 10 · Shoulder Arms 14 · Stealth 10 · Tactics 8
+Athletics 12 · Autofire 13 · Brawling 12 · Concentration 8 · Conversation 6 · Education 6 · Evasion 12 · First Aid 6 · Handgun 11 · Human Perception 6 · Interrogation 8 · Language (Japanese) 8 · Language (Streetslang) 6 · Local Expert (Kabuki) 8 · Martial Arts (Karate) 12 · Melee Weapon 14 · Perception 8 · Persuasion 6 · Resist Torture/Drugs 10 · Shoulder Arms 13 · Stealth 10 · Tactics 8
 
 #### Gear
 
-Basic Rifle Ammo ×40 · Flashbang ×1 · Agent · Radio · Half-mask
+Flashbang ×1 · Agent · Radio · Half-mask
 
 #### Cyberware
 
@@ -97,8 +119,42 @@ Neural Link (Kerenzikov)
 #### Notes
 
 - **Combat Awareness 2:** +2 Initiative and Attack.
+- **Tactics:** Roll or pick on [Hardened Lieutenant Tactics](../../Homebrew/GM%20Rules.md#hardened-lieutenant-tactics) at combat start. Good picks vs a Hardened crew: **3** (focus Weaver — low REF), **5** (booth cover), **7** (AP grenade at the door), **8** (they know Marshal's head is soft), **10** (Kaito in command).
 - Calls "private room!" on Round 2+ if half the mooks are down and the fight still looks one-sided — triggers Wave 2 early.
-- Second LT (**Nori**): same stats; shotgun instead of AR if you want variety (5d6, ROF 1).
+
+### Hardened Tyger Claw Lieutenant — "Nori" (2nd LT)
+
+Same stats as **Kaito**. Roll separate [Lieutenant Tactics](../../Homebrew/GM%20Rules.md#hardened-lieutenant-tactics) or pair them (**3** focus fire, **5** booth crossfire).
+
+#### Weapons
+
+| Weapon | DMG | ROF | Notes |
+|--------|-----|-----|-------|
+| Shotgun | 5d6 | 1 | Shoulder Arms **13** |
+| Wakizashi | 2d6 | 2 | Medium Melee backup |
+
+#### Armor
+
+| Location | Armor | SP | Penalty |
+|----------|-------|-----|---------|
+| Head | M Armorjack | 13 | −1 |
+| Body | M Armorjack | 13 | −1 |
+
+#### Gear
+
+Basic Shotgun Shell Ammo ×20 · Flashbang ×1 · Agent · Radio · Half-mask
+
+---
+
+## Reinforcements — Street / bikes
+
+**When:** **Round = 3d6** rolled at **first gunshot** (OOC). ~**30 seconds** in-fiction after that shot.
+
+**Who:** **2–4** Hardened Mooks (Wave 1 block). Names on the fly or recycle **Ken/Sora/Jin** copies.
+
+**How:** **CHOOH² Roadbikes** at Zone **6**; helmets on; radios already lit from Round 1. Enter through front door or alley **7**. Join surviving floor crew or pin the door while LTs fall back.
+
+**O line:** *Engines. Not from inside the bar — from the wet curb. More half-masks. Thirty seconds was all it took.*
 
 ---
 
@@ -150,6 +206,7 @@ Cybereye ×2 (Targeting Scope, Anti-Dazzle) · Neural Link (Kerenzikov, Subderma
 - Came out of a sit-down, not a street brawl. Calm, insulted, lethal.
 - **Combat Awareness 6.**
 - May try Facedown (COOL 6, Rep 5) before shooting if Marshal pauses.
+- **Tactics:** [Hardened Lieutenant Tactics](../../Homebrew/GM%20Rules.md#hardened-lieutenant-tactics) — Ryo often runs **8** (researched the chrome) or **10** (Tactics 14 on sheet; bump to 16 if using roll **10**).
 
 ### Optional: Private-room Mooks (×0–2)
 
