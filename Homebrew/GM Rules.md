@@ -46,6 +46,9 @@ Any loot exceeding this value should be treated as **unsellable** at the end of 
 | **Hazardous** | 1,500–3,000eb · 150–300 IP | 5 | 2,500eb · 250 IP |
 | **Lethal** | 3,000–5,000eb · 300–500 IP | 7 *(4 rep to enter)* | 4,000eb · 400 IP |
 | **Hyper Lethal** | 5,000–7,500eb · 500–750 IP | 10 | Staff-approved |
+| **Unbalanced** | Realistic / variable eb · IP listed up front | — | **3,000eb · 300 IP** |
+
+**Unbalanced** is a separate lane — do not balance to the threat-weight tables below. Full rules in [Unbalanced Fights](Unbalanced%20Fights.md).
 
 ### Easy
 
@@ -91,6 +94,14 @@ If your team isn't prepared, expect death. Even veterans would struggle to win. 
 Everything listed on this line is just a suggestion. Even Adam Smasher would think twice. Veterans would struggle significantly. High chance of death; even winning is a gamble. A suicide mission for any beginner.
 
 **Example:** Storming a ganger compound? Nah — you're gonna storm a **megacorp HQ**. When you do, they'll send everything they have. Tanks, large drones, whatever the fuck that thing is in Cynosure — it's all fair game. Expect to die. That can all happen before you complete your first objective. If you win, you'll be a legend.
+
+---
+
+### Unbalanced
+
+Not a fair fight band. Run what the world would actually field; leave several player-facing paths (some may be certain death if lore-justified). Descriptive premise required. Player **eb** is realistic and variable (may be hidden); **IP** must be visible on the listing. GM payout is fixed at **3,000eb · 300 IP**. Statblocks via `<#1523996382292217867>` are mandatory except for ordinary Mooks.
+
+See [Unbalanced Fights](Unbalanced%20Fights.md) for prerequisites, payment examples, and how to run it.
 
 ---
 
@@ -307,7 +318,7 @@ Rating: [Safe/NSFW/Explicit]
 
 Focus: [Roleplay/Balanced/Combat]
 
-Gig Difficulty: [Easy/Mild/Hazardous/Lethal/Hyper Lethal] [Street/Merc]
+Gig Difficulty: [Easy/Mild/Hazardous/Lethal/Hyper Lethal/Unbalanced] [Street/Merc]
 
 Player Count: [Number of players]
 
