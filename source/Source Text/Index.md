@@ -1,10 +1,10 @@
 # Source Text Index
 
-Extracted and planned text files for each publication. PDFs live in [`PDF/`](../PDF/). **All 15 books have extracted section files** (Core Rulebook: 22 chapters; other books: section files per `Index.md`).
+Extracted and planned text files for each publication. PDFs live in [`PDF/`](../PDF/). **All 15 books have extracted section files** (Core Rulebook: 23 chapters; other books: section files per `Index.md`).
 
 ## Books
 
-- [Cyberpunk RED Core Rulebook](<Core Rulebook/Index.md>) — The full game (22 chapters, including DLC: *No Place Like Home*, *The 12 Days of Vehiclemas*, *Invented Tech Upgrades*, *Night City Tarot*).
+- [Cyberpunk RED Core Rulebook](<Core Rulebook/Index.md>) — The full game (23 chapters, including DLC: *No Place Like Home*, *The 12 Days of Vehiclemas*, *Invented Tech Upgrades*, *Night City Tarot*, *The 12 Days of Cutiemas*).
 - [Black Chrome](<Black Chrome/Index.md>) — Gear and equipment supplement.
 - [Danger Gal Dossier](<Danger Gal Dossier/Index.md>) — Night City faction dossiers, 111 NPC stat blocks, New Gear reprints, NPC creation guidelines, and the Beat Chart mission *The Incident*.
 - [Danger Gal Dossier+](<Danger Gal Dossier+/Index.md>) — Free cut content from Danger Gal Dossier: faction plot hooks, a fourth Pinny Arcade jacket, extra Incident mission information, and a bonus Bozo NPC.

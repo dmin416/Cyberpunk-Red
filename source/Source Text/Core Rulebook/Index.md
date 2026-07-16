@@ -4,9 +4,9 @@
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces.
 
-Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters extracted from [`RTG-CPR-DLC-NoPlaceLikeHome.pdf`](<../../PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf>), [`RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf`](<../../PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf>), [`RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf`](<../../PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf>), and [`RTG-CPR-DLC-NightCityTarot-v1.2.pdf`](<../../PDF/RTG-CPR-DLC-NightCityTarot-v1.2.pdf>).
+Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters extracted from [`RTG-CPR-DLC-NoPlaceLikeHome.pdf`](<../../PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf>), [`RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf`](<../../PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf>), [`RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf`](<../../PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf>), [`RTG-CPR-DLC-NightCityTarot-v1.2.pdf`](<../../PDF/RTG-CPR-DLC-NightCityTarot-v1.2.pdf>), and [`RTG-CPR-DLC-12DaysofCutiemas.pdf`](<../../PDF/RTG-CPR-DLC-12DaysofCutiemas.pdf>).
 
-**22 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapters 19–22 are free DLCs filed here as core chapters: *No Place Like Home* (base building), *The 12 Days of Vehiclemas* (vehicles and Nomad upgrades), *Invented Tech Upgrades* (NPC Tech upgrades), and *Night City Tarot* (optional Critical Injury subsystem).
+**23 chapter files.** Running Cyberpunk (p. 387) is included in [Screamsheets](<17 Screamsheets.md>), not a separate file. Chapters 19–23 are free DLCs filed here as core chapters: *No Place Like Home* (base building), *The 12 Days of Vehiclemas* (vehicles and Nomad upgrades), *Invented Tech Upgrades* (NPC Tech upgrades), *Night City Tarot* (optional Critical Injury subsystem), and *The 12 Days of Cutiemas* (Hello Cutie holiday gear).
 
 ## Contents
 
@@ -17,6 +17,7 @@ Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters ext
 - Ch. 20 — [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>) (DLC)
 - Ch. 21 — [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>) (DLC)
 - Ch. 22 — [Night City Tarot](<22 Night City Tarot.md>) (DLC)
+- Ch. 23 — [The 12 Days of Cutiemas](<23 The 12 Days of Cutiemas.md>) (DLC)
 
 ## Chapters
 
@@ -44,6 +45,7 @@ Extracted from `PDF/Core Rulebook.pdf`. Chapters in book order. DLC chapters ext
 | 20 | [The 12 Days of Vehiclemas](<20 The 12 Days of Vehiclemas.md>) | The 12 Days of Vehiclemas (DLC) | DLC 1–16 |
 | 21 | [Invented Tech Upgrades](<21 Invented Tech Upgrades.md>) | Invented Tech Upgrades (DLC) | DLC 1–9 |
 | 22 | [Night City Tarot](<22 Night City Tarot.md>) | Night City Tarot (DLC) | DLC 1–12 |
+| 23 | [The 12 Days of Cutiemas](<23 The 12 Days of Cutiemas.md>) | The 12 Days of Cutiemas (DLC) | DLC 1–8 |
 
 ## Subsections by chapter
 
@@ -480,3 +482,24 @@ Optional combat subsystem using Major Arcana cards from Cyberpunk 2077 to replac
 - [Major Arcana](<22 Night City Tarot.md#major-arcana>) (pp. 3–5)
   - [The Fool](<22 Night City Tarot.md#the-fool>) through [The World](<22 Night City Tarot.md#the-world>)
 - [Printable Deck](<22 Night City Tarot.md#printable-deck>) (pp. 6–12 Letter; pp. 14–21 A4)
+
+### [The 12 Days of Cutiemas](<23 The 12 Days of Cutiemas.md>)
+
+Holiday gear DLC (April 2025): Sanroo Hello Cutie weapons, cyberware, grenades, and the Húsafell Hydraulic Underjack.
+
+- [Opening Fiction](<23 The 12 Days of Cutiemas.md#opening-fiction>) (p. 2)
+- [A Note about the Listings](<23 The 12 Days of Cutiemas.md#a-note-about-the-listings>) (p. 3)
+- [Gear](<23 The 12 Days of Cutiemas.md#gear>) (pp. 3–7)
+  - [Captain Cuddlefish Ultra Snag-Em](<23 The 12 Days of Cutiemas.md#captain-cuddlefish-ultra-snag-em>) (p. 3)
+  - [Hello Cutie Chromatic Rave Grenade](<23 The 12 Days of Cutiemas.md#hello-cutie-chromatic-rave-grenade>) (p. 3)
+  - [Hello Cutie Fisher Kitty](<23 The 12 Days of Cutiemas.md#hello-cutie-fisher-kitty>) (pp. 3–4)
+  - [Hello Cutie Gun-Gun Friend-Friend](<23 The 12 Days of Cutiemas.md#hello-cutie-gun-gun-friend-friend>) (p. 4)
+  - [Hello Cutie Hypurr-Hammer](<23 The 12 Days of Cutiemas.md#hello-cutie-hypurr-hammer>) (p. 4)
+  - [Hello Cutie Janus Hex](<23 The 12 Days of Cutiemas.md#hello-cutie-janus-hex>) (pp. 4–5)
+  - [Hello Cutie ModBall Gun](<23 The 12 Days of Cutiemas.md#hello-cutie-modball-gun>) (pp. 5–6)
+  - [Hello Cutie Mono-Paw](<23 The 12 Days of Cutiemas.md#hello-cutie-mono-paw>) (p. 6)
+  - [Hello Cutie My Friend The Ocelot](<23 The 12 Days of Cutiemas.md#hello-cutie-my-friend-the-ocelot>) (p. 6)
+  - [Hello Cutie Thundercat Bat](<23 The 12 Days of Cutiemas.md#hello-cutie-thundercat-bat>) (p. 6)
+  - [Hello Cutie Sparkle-ize](<23 The 12 Days of Cutiemas.md#hello-cutie-sparkle-ize>) (p. 6)
+  - [Húsafell Hydraulic Underjack](<23 The 12 Days of Cutiemas.md#húsafell-hydraulic-underjack>) (p. 7)
+- [Summary Tables](<23 The 12 Days of Cutiemas.md#summary-tables>) (pp. 7–8)

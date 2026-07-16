@@ -6,12 +6,13 @@ Reorganized catalog of every purchasable item from the Night Market Index. Same 
 
 ## Source Abbreviations
 
-Abbreviations used in **Source** columns. *The 12 Days of Vehiclemas* (`DL:12V`) is extracted as [Core Rulebook chapter 20](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>).
+Abbreviations used in **Source** columns. Holiday DLCs extracted as Core Rulebook chapters: *Vehiclemas* (`DL:12V` → [ch. 20](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>)), *Cutiemas* (`DL:12Cute` → [ch. 23](<../Core Rulebook/23 The 12 Days of Cutiemas.md>)).
 
 | Code | Publication | Extracted text |
 |------|-------------|----------------|
 | CP:R | *Cyberpunk RED Core Rulebook* | [Core Rulebook/Index.md](<../Core Rulebook/Index.md>) |
 | DL:12V | *The 12 Days of Vehiclemas* (Dec 2025) | [20 The 12 Days of Vehiclemas.md](<../Core Rulebook/20 The 12 Days of Vehiclemas.md>) |
+| DL:12Cute | *The 12 Days of Cutiemas* (Apr 2025) | [23 The 12 Days of Cutiemas.md](<../Core Rulebook/23 The 12 Days of Cutiemas.md>) |
 | BC | *Black Chrome* | [Black Chrome/Index.md](<../Black Chrome/Index.md>) |
 | DGD | *Danger Gal Dossier* | [Danger Gal Dossier/Index.md](<../Danger Gal Dossier/Index.md>) |
 

@@ -28,7 +28,7 @@ Catalog of source materials for this repository. Each entry represents content p
 
 The full game. Includes the Time of the Red setting, Interlock System rules (stats, skills, combat, netrunning, cyberware), character creation for all 10 roles, Night City overview, GM tools, and three short fiction pieces (Never Fade Away / The Fall of the Towers / Black Dog).
 
-**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 22 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk), [No Place Like Home](<Source Text/Core Rulebook/19 No Place Like Home.md>) (base-building DLC), [The 12 Days of Vehiclemas](<Source Text/Core Rulebook/20 The 12 Days of Vehiclemas.md>) (vehicle DLC), [Invented Tech Upgrades](<Source Text/Core Rulebook/21 Invented Tech Upgrades.md>) (Tech upgrade DLC), [Night City Tarot](<Source Text/Core Rulebook/22 Night City Tarot.md>) (tarot Critical Injury DLC).
+**Extracted text:** [Chapter index](<Source Text/Core Rulebook/Index.md>) — 23 chapter files with linked subsections. Key rules chapters: [Getting it Done](<Source Text/Core Rulebook/08 Getting it Done.md>), [Friday Night Firefight](<Source Text/Core Rulebook/09 Friday Night Firefight.md>), [Netrunning](<Source Text/Core Rulebook/10 Netrunning.md>), [Trauma Team](<Source Text/Core Rulebook/11 Trauma Team.md>), [Screamsheets](<Source Text/Core Rulebook/17 Screamsheets.md#running-cyberpunk>) (includes Running Cyberpunk), [No Place Like Home](<Source Text/Core Rulebook/19 No Place Like Home.md>) (base-building DLC), [The 12 Days of Vehiclemas](<Source Text/Core Rulebook/20 The 12 Days of Vehiclemas.md>) (vehicle DLC), [Invented Tech Upgrades](<Source Text/Core Rulebook/21 Invented Tech Upgrades.md>) (Tech upgrade DLC), [Night City Tarot](<Source Text/Core Rulebook/22 Night City Tarot.md>) (tarot Critical Injury DLC), [The 12 Days of Cutiemas](<Source Text/Core Rulebook/23 The 12 Days of Cutiemas.md>) (Hello Cutie holiday gear DLC).
 
 ---
 
@@ -125,6 +125,7 @@ A way to give a variety of critical injuries in firefights.
 | Night Market Index | [Night Market Index](PDF/Night Market Index.pdf) | 2023 | free |
 | No Place Like Home | [No Place Like Home](PDF/RTG-CPR-DLC-NoPlaceLikeHome.pdf) | 2024 | free |
 | 12 Days of Vehiclemas | [The 12 Days of Vehiclemas](PDF/RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf) | 2025 | free |
+| 12 Days of Cutiemas | [The 12 Days of Cutiemas](PDF/RTG-CPR-DLC-12DaysofCutiemas.pdf) | 2025 | free |
 | Invented Tech Upgrades | [Invented Tech Upgrades](PDF/RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf) | 2026 | free |
 | Night City Tarot | [Night City Tarot](PDF/RTG-CPR-DLC-NightCityTarot-v1.2.pdf) | 2021 | free |
 
@@ -157,6 +158,12 @@ Base-building DLC. Rules for earning Headquarters IP and buying HQ Improvements 
 **The 12 Days of Vehiclemas** (December 2025, free)
 
 Holiday vehicle DLC. Twelve vehicles (land, air, and sea) updated from 2020 to 2045, plus new Nomad vehicle upgrades (Aerozep Selfsealing Gasbag, Hangar, Titanic Hull, etc.) and Luxury/Complex room rules. Extracted as [Core Rulebook chapter 20](<Source Text/Core Rulebook/20 The 12 Days of Vehiclemas.md>).
+
+### The 12 Days of Cutiemas
+
+**The 12 Days of Cutiemas** (April 2025, free)
+
+Holiday Hello Cutie gear DLC. Twelve Sanroo items (weapons, cyberware, grenades) plus the Húsafell Hydraulic Underjack, opening fiction with the Piranhas and S.A.N.T.A., and summary tables. Extracted as [Core Rulebook chapter 23](<Source Text/Core Rulebook/23 The 12 Days of Cutiemas.md>).
 
 ### Invented Tech Upgrades
 
@@ -313,6 +320,7 @@ source/
 │   ├── Interface RED Vol 5.pdf
 │   ├── RTG-CPR-DLC-NoPlaceLikeHome.pdf
 │   ├── RTG-CPR-DLC-12DaysofVehiclemas-v1.0.pdf
+│   ├── RTG-CPR-DLC-12DaysofCutiemas.pdf
 │   ├── RTG-CPR-DLC-InventedTechUpgradesv1.1 (1).pdf
 │   └── RTG-CPR-DLC-NightCityTarot-v1.2.pdf
 ├── Rules/
