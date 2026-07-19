@@ -3,28 +3,27 @@
 **Role:** **Solo**  
 **Handle:** Watts
 
-Dragon-themed **Full Body Conversion** — brain in a **Biosystem**, two metal shells. **Primary combat body** (**6× Cyberarm**, heavy chrome) is the day-to-day Borg; a **second Draconic FBC shell** comes out of the **Draconic FantaForm™** package during the Zoo arc. Combat shell: e.g. **Militech Spyder 2.0** (4 native) + **Artificial Shoulder Mount** + 2 arms, or equivalent 6-arm build. Martial focus: **Multiarm Melee 6 · Silat 6 · Aikido 6** — disarm/control on the gig shell; **Melee 6** + **Combat Tail** on the dragon shell.
+**Already Full Body Conversion** — Biosystem in an **Omega** combat shell. Martial focus: **Multiarm Melee 6 · Silat 6 · Aikido 6** on the gig shell; **Melee 6** + Combat Tail planned for a second **Draconic** shell (Zoo / FantaForm™ arc).
 
 ## Stats
 
-FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / HP / Death Save come from whichever shell the Biosystem is in. REF / DEX / MOVE depend on installed cyberware (e.g. hydraulics, armor penalty).
+FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / HP / Death Save come from the inhabited shell. REF / DEX / MOVE depend on chrome (hydraulics, armor penalty).
 
 - **INT:** *(your stat)*
-- **REF:** *(your stat)* — hydraulics / armor penalties per body
+- **REF:** *(your stat)* — Perfected Hydraulics / armor penalties
 - **DEX:** *(your stat)*
 - **TECH:** *(your stat)*
 - **COOL:** *(your stat)*
 - **WILL:** *(your stat)*
 - **MOVE:** *(your stat)*
-- **BODY:** **16** on Omega-frame shells (Samson, Dragoon, etc.) · **14** on Beta/Sigma shells (Spyder 2.0, Enforcer) — *set per inhabited body*
+- **BODY:** **16** (Internal Linear Frame **Ω**)
 - **EMP:** *(your stat)* — drops as Humanity falls; drives max Humanity (10 × EMP)
 - **LUCK:** *(your stat)*
 
 **HP (Omega / BODY 16):** **65** at WILL 6, **70** at WILL 8 (*Going Metal* Omega chart)  
-**HP (Beta/Sigma / BODY 14):** **60** at WILL 6, **65** at WILL 8  
 **Seriously Wounded:** ½ shell HP (FBC: **no Wound-state STAT/Check penalties** while in body)  
-**Death Save:** matches BODY of inhabited shell (14 or 16)  
-**Humanity:** Biosystem + HL cyberware in **current** body only depress max; frame parts (arms, legs, eyes, skull, linear frame, neural link, cyberaudio) = **0 HL** in an FBC. Budget therapy after going Metal.
+**Death Save:** **16**  
+**Humanity:** Biosystem + HL chrome in **current** body only depress max; frame parts (arms, legs/Skydrivers, eyes, skull, ILF, Neural Link, cyberaudio) = **0 HL** in an FBC.
 
 ## Skills
 
@@ -42,26 +41,40 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 
 *Each form is a separate x2 DEX skill. MA Attacks = ROF2, half armor. Kit writeup: [Martial Arts/Watts.md](Martial%20Arts/Watts.md).*
 
+## Current chrome (combat shell)
+
+| Piece | Notes |
+| --- | --- |
+| **Biosystem** | Permanent |
+| **Internal Linear Frame Ω** | BODY 16 · **0 HL** in FBC |
+| **Internal Hydraulics Upgrade, Perfected** | REF/DEX/MOVE support |
+| **Foundational** | Cyberaudio Suite · Cybereye ×2 · Cyberskull · Neural Link · **0 HL** |
+| **Cyberarm ×2** *(primary pair)* | **0 HL** · option slots doubled in FBC |
+| **Grip Hand** *(on arms)* | Homebrew · grab / climb |
+| **Rocklin Skydrivers** | Replaces Cyberleg ×2 · **0 HL** |
+
+*Adding or rebuilding FBC chrome: Tech gathers/fabs components and assembles into the shell (**DV29 Cybertech**, 1 hr — *Going Metal* Techs and FBCs). Biosystem seating / shell swap: **DV17 Cybertech** (or Surgery), 4 hr. Shell HP repair: **DV15 Cybertech**, 4 hr. No Medtech Surgery required for FBC part installs.*
+
 ## Gear
 
 **Armor:** per shell (e.g. Heavy Subdermal Plating SP 13, Dragoon SP 15, etc.)  
 **Weapons (built-in / per body):**
-- Firebreather — throat exotic shotgun, 1 incendiary shell *(dragon body)*
-- Combat Jaw — Very Heavy Melee **4d6** ROF 1 *(dragon shell; **Melee Weapon 6**)*
-- Combat Tail — **4d6** ROF **2** *(dragon shell; **Melee Weapon 6**)*
-- Wolvers ×2 — Heavy Melee **3d6** ROF 2 claws *(dragon shell or spare arms)*
+- Firebreather — throat exotic shotgun, 1 incendiary shell *(dragon body — future)*
+- Combat Jaw — Very Heavy Melee **4d6** ROF 1 *(dragon shell)*
+- Combat Tail — **4d6** ROF **2** *(dragon shell)*
+- Wolvers ×2 — Heavy Melee **3d6** ROF 2 *(optional)*
 
-**Arms:** **6× Cyberarm** on combat shell (Spyder 2.0 **4** + Shoulder Mount **+2**, or equivalent)  
-**Other:** Neural Link / Neuroport, Cyberaudio Suite, Biosystem (permanent), Cyberskull faceplate *(dragon shell)*
+**Arms now:** **2× Cyberarm** + Grip Hands. **Target:** **6 arms** via Artificial Shoulder Mount + TUp (+2 limbs) like Big Top.  
+**Other:** Neural Link, Cyberaudio, Biosystem, Skydrivers, Perfected Hydraulics, ILF Ω
 
-### Planned arm loadout (combat shell)
+### Planned arm loadout (once at 6 arms)
 
 | Arm | Loadout | Why |
 | --- | --- | --- |
 | **Upper R (primary)** | **Cyber Dude Smart Glove** + smartgun / heavy pistol options | Ranged focus; Subdermal Grip |
 | **Upper L** | **Pursuit Security Bouncer** | Stun Baton + Microwaver; less-lethal on tap |
 | **Lower R** | **Pursuit Security Bouncer** *(or second Smart Glove)* | Second less-lethal / smartgun hand |
-| **Lower L** | Spare options — tool, grapple, or empty | MA / Brawling / Commando disarm hand |
+| **Lower L** | Spare — tool, grapple, or empty | MA / Brawling / disarm hand |
 
 *FBC doubles cyberarm option slots (8 per arm). No popup melee on combat shell — tail/jaw on dragon body.*
 
@@ -69,14 +82,14 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 
 ## Two Bodies
 
-| | **Combat shell** (primary) | **Draconic shell** (package) |
+| | **Combat shell** (current) | **Draconic shell** (future) |
 | --- | --- | --- |
-| **When** | First — going Metal | Second — during **Draconic FantaForm™** / Zoo arc |
+| **When** | Now | **Draconic FantaForm™** / Zoo arc |
 | **Role** | Gigs, Multiarm + disarm kit, heavy loadout | Dragon aesthetic, LARP package chrome, alternate face |
-| **Arms** | 6 (Spyder 2.0 + Shoulder Mount + 2, or equivalent) | 2× Cyberarm (package default; can add mount later) |
-| **Frame** | Omega preferred (BODY 16) — Samson, Dragoon, etc. | Beta from package lineage or match combat frame |
-| **Look** | Metal Borg / Enforcer-class | Draconic sculpt + faceplate + tail/jaw/firebreath |
-| **Swap** | DV17 Cybertech or Surgery, 4 hr; reattempt on fail | Same Biosystem, new shell HL only on *new* chrome since last time in that body |
+| **Arms** | 2 now → **6** after Shoulder + TUp (+2 limbs) + Cyberarm ×4 | 2× Cyberarm default; can add mount later |
+| **Frame** | **Ω** (BODY 16) + Perfected Hydraulics | Match combat Ω or package Beta |
+| **Look** | Metal Borg | Draconic sculpt + faceplate + tail/jaw/firebreath |
+| **Swap** | **DV17 Cybertech**, 4 hr; reattempt on fail | Same Biosystem; HL only on *new* chrome since last time in that body |
 
 Only cyberware in the **currently inhabited** body counts toward max Humanity depression.
 
@@ -84,49 +97,11 @@ Only cyberware in the **currently inhabited** body counts toward max Humanity de
 
 ## FBC Baselines (Watts)
 
-- Damage hits the **shell**, not the brain. Natural heal = **BODY HP/day** (Good Prepack 600eb/mo+). Repair: DV15 Cybertech, 4 hr → full HP.
+- Damage hits the **shell**, not the brain. Natural heal = **BODY HP/day** (Good Prepack 600eb/mo+). Repair: **DV15 Cybertech**, 4 hr → full HP.
 - **Immune** while in body: Wound-state penalties, most listed crits (Broken Jaw, Concussion, etc.), disease/poison/drugs (except Airhypo into Biosystem port), radiation; no breathe/food — **Glucose Solution** monthly (free in Good Prepack).
-- **Grafted Muscle** requirement waived for further installs. **Option slots doubled** on foundational / internal / external body chrome.
+- **Grafted Muscle** requirement waived. **Option slots doubled** on foundational / internal / external body chrome.
 - FBC installs can take **average HL** instead of rolling.
-
----
-
-## Build Path
-
-### Step 1 — Go Metal (permanent)
-
-| Item | Cost | HL (avg) |
-| --- | --- | --- |
-| **Biosystem** | 10,000eb (S Luxury) | 14 (4d6) |
-| **Primary FBC body** *(model TBD — Spyder 2.0 has 4 arms + Shoulder Mount in package)* | 10,200–35,000eb | 14–73 (package HL) |
-| **Pre-surgery** | Remove old chrome, therapy | — |
-
-*Therapy before Biosystem is standard ripperdoc practice. Old meat body is gone.*
-
-### Step 2 — Combat shell add-ons (not in stock FBC package)
-
-| Item | Qty | Each | Subtotal | HL in FBC |
-| --- | --- | --- | --- | --- |
-| Artificial Shoulder Mount *(if body isn't Spyder 2.0)* | 1 | 1,000eb | 1,000eb | 14 (4d6) — borgware; **−4** max Humanity |
-| Cyberarm ×2 *(lower pair, if needed)* | 2 | 500eb | 1,000eb | **0** |
-| Wolvers *(if not on dragon shell only)* | 2 | 500eb | 1,000eb | 2d6 (7) ea |
-| Planned: Bouncer ×2 / Smart Glove | — | see below | — | — |
-
-### Step 3 — Draconic shell (second body, during package)
-
-Acquire during **Draconic FantaForm™** storyline — custom FBC chassis + package chrome:
-
-| Package / chrome | Source | HL notes |
-| --- | --- | --- |
-| **Draconic FantaForm™** service | 11,000eb (S Luxury) | 34 HL package rate if bought as Zoo service on FBC shell |
-| Exotic draconic sculpt (metal shell aesthetic) | in package | Exotic sculpt HL per install |
-| Combat Jaw, Combat Tail, Firebreather | in package | per piece |
-| Cyberarm ×2, Cyberleg ×2, Cybereye ×2 | in package | **0 HL** in FBC body |
-| Implanted Linear Frame Beta, Subdermal Armor, Grafted ×2, Neural Link | in package | frame **0 HL**; grafts HL if not waived |
-| Cyberskull (dragon faceplate) | add-on | **0 HL** in FBC |
-| Wolvers ×2 | in package / add-on | 2d6 (7) ea |
-
-*Second body = new FBC assembly (DV29 Cybertech fab) or package install into pre-built dragon chassis. Transferring in: HL on chrome you haven't worn in that shell before; returning to a past shell triggers Depression vs max Humanity.*
+- **Tech** builds/modifies the shell from components (**DV29 Cybertech**); **Tech** seats the Biosystem (**DV17 Cybertech**).
 
 ---
 
@@ -138,7 +113,7 @@ Fingerless glove: **Stun Baton** (2d6, ROF 2) + **Microwaver** (ROF 1), shared 8
 
 ### Cyber Dude Smart Glove — 750eb (Expensive)
 
-Subdermal Grip + **2 option slots**. Finger chrome works; blocks other arm options while worn. *No HL on glove; options cost HL.*
+Subdermal Grip + **2 additional Option Slots**. Finger chrome works; blocks other arm options while worn. *No HL on glove; options cost HL.*
 
 | Item | Cost | HL (avg) |
 | --- | --- | --- |
@@ -147,20 +122,45 @@ Subdermal Grip + **2 option slots**. Finger chrome works; blocks other arm optio
 
 ---
 
+## Future wishlist
+
+| Item | Cost |
+| --- | ---: |
+| Artificial Shoulder Mount | 1,000eb |
+| TUp (+2 limbs) on Shoulder Mount *(Big Top — mount holds **4** → **6** arms w/ primary pair)* | 1,000eb mats |
+| Cyberarm ×4 *(mount sockets)* | 2,000eb |
+| Gloves (Smart Glove ×2) | 1,500eb |
+| Pop-ups (Popup Ranged ×2) | 1,000eb |
+| Tsunami Arms "Deathwind" Railgun | 12,000eb |
+| Militech "Cowboy" U-56 | 5,000eb |
+| Militech Growler | 10,000eb |
+| **Total** | **33,500eb** |
+
+*Shoulder + arms + TUp: Tech **DV29** assemble into shell (1 hr); TUp = Invention + Upgrade Expertise on mount (**~4.67 DTD** apply @ ÷3 workshop; invent if no blueprint). Grip Hands already installed — not on this list.*  
+*Heavy weapons fab cheaper than 20% off: Growler/Deathwind mats = ½ Super Luxury; U-56 mats = 1,000eb (V. Expensive).*
+
+### Draconic shell (second body, later)
+
+| Package / chrome | Source | HL notes |
+| --- | --- | --- |
+| **Draconic FantaForm™** service | 11,000eb (S Luxury) | 34 HL package rate if Zoo service on FBC shell |
+| Exotic draconic sculpt, Combat Jaw / Tail / Firebreather | in package | per piece |
+| Frame / foundational for second shell | fab **DV29** or buy chassis | **0 HL** frame parts in FBC |
+
+---
+
 ## Notes
 
-- **Combat shell** — **smartgun / Bouncer / Silat disarm pipeline / Multiarm Brawling**. **Dragon shell** — **Combat Tail 4d6 × 2** + jaw/wolvers via **Melee 6**.
+- **Combat shell** — **smartgun / Bouncer / Silat disarm pipeline / Multiarm Brawling** (needs 6 arms). **Dragon shell** — **Combat Tail 4d6 × 2** + jaw/wolvers via **Melee 6**.
 - **Solo** — **Armed & Dangerous** can free **Combat Awareness** reassign before a Brawling roll.
 - **Athletics 6** — throw disarmed weapons away (**25 m/yds**) or chuck grenades; thrown melee ignores half-SP.
 - **PanzerFaust** optional for `Inner Chrome` (EMP/Quickhack immunity) — not current plan.
-- Dragon shell is for identity / package fiction; combat shell is the gig loadout.
 - Sub-0 Humanity: server Stage 5 rework (*Homebrew/Rules.md*) — loyalty-style rolls, not raw GM seizure.
 
 ---
 
 ## Open Questions
 
-- [ ] **Primary FBC model** — Spyder 2.0 (4 arms in box, HL 73) vs Samson/Dragoon (Omega 16) + Shoulder Mount
-- [ ] **Draconic second body** — fab custom chassis vs Biotechnica package install into pre-ordered shell
-- [ ] **Spyder 2.0** vs Omega body — package includes Shoulder Mount + 4 arms but Beta frame (BODY 14) and high package HL (73)
-- [ ] **Smart Glove options** — which smartgun / pistol cyberarm installs on upper R
+- [ ] **Shoulder + TUp (+2 limbs)** before or after heavy weapons (Growler / U-56 / Deathwind)
+- [ ] **Draconic second body** — fab custom Ω chassis vs package install
+- [ ] **Smart Glove options** — which smartgun / pistol in popup on upper R

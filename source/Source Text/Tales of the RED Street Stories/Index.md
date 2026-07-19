@@ -86,6 +86,10 @@ Part two — Pacifica, Seral Grove, Red Knight finale. **6–8 hours.**
 - [Follow-up to Bathed in Red](<09 Bathed in Red.md>)
 - [Climax (Red Knight)](<10 One Red Night.md#climax-red-knight>) (p. 158)
 
+### [Appendix C: Biographies](<11 Appendix C Biographies.md>)
+
+Alphabetical bios for every named Character in Street Stories (p. 182–198).
+
 ## Files
 
 | # | File | Section |
@@ -100,3 +104,4 @@ Part two — Pacifica, Seral Grove, Red Knight finale. **6–8 hours.**
 | 8 | [Staying Vigilant](<08 Staying Vigilant.md>) | Staying Vigilant |
 | 9 | [Bathed in Red](<09 Bathed in Red.md>) | Bathed in Red |
 | 10 | [One Red Night](<10 One Red Night.md>) | One Red Night |
+| 11 | [Appendix C: Biographies](<11 Appendix C Biographies.md>) | Appendix C: Biographies |

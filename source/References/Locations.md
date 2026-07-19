@@ -2,7 +2,8 @@
 
 Night City areas, megabuildings, transport, and key places in the **Time of the Red** (2045). Compiled from the Core Rulebook, Interface RED, Black Chrome, Danger Gal Dossier, Mixing Drinks Changing Lives, Single Player Mode, Tales of the RED, and [Cyberpunk Wiki RED Locations](https://cyberpunk.fandom.com/wiki/Category:Cyberpunk_RED_Locations).
 
-**Minor venues** (bars, housing, markets, shops): [Venues.md](Venues.md)
+**Minor venues** (bars, housing, markets, shops): [Venues.md](Venues.md)  
+**Named characters:** [NPCs.md](NPCs.md)
 
 ## Contents
 

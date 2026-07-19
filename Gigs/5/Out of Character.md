@@ -2,7 +2,7 @@
 
 Discord record for **gig-ooc** — rules, dice, coordination, breaks.
 
-**Run package:** [Premise.md](Premise.md)
+**Run package:** [Premise.md](Premise.md) · [Enemies.md](Enemies.md)
 
 ---
 
@@ -15,7 +15,7 @@ APP
 Message text.
 ```
 
-- Rolls, DVs, wound states, loot caps, GM rulings.
+- Rolls, DVs, wound states, clock rulings, loot.
 - Planning and breaks — not IC.
 
 ---

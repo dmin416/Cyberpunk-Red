@@ -2,7 +2,7 @@
 
 Discord record for **gig-ic** — IC posts and GM narrator scene beats only.
 
-**Run package:** [Premise.md](Premise.md)
+**Run package:** [Premise.md](Premise.md) · [Flavor.md](Flavor.md) · [Layout.md](Layout.md)
 
 ---
 
@@ -15,7 +15,7 @@ APP
 Message text.
 ```
 
-- **GM narrator** (e.g. **O** on Gig 1) = narrator (second-person scene posts).
+- **GM narrator** = narrator (second-person scene posts).
 - Player characters = in-character actions and dialogue only.
 
 ---
