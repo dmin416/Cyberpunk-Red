@@ -1,9 +1,7 @@
-# Weaver
+# Weaver - Free-Range Kibble (Gig 6)
 
-**Role:** Tech **Rank 8** · **Handle:** Weaver  
+**Role:** Tech **8** · **Handle:** Weaver 
 **Portrait:** [imgur](https://imgur.com/a/weaver-placeholder-fKGibaU)
-
-Concise combat sheet. Gig package: [Gigs/6](../../../Gigs/6/Premise.md). Also: [Characters/Weaver.md](../../../Characters/Weaver.md).
 
 ## Stats
 
@@ -15,8 +13,8 @@ Concise combat sheet. Gig package: [Gigs/6](../../../Gigs/6/Premise.md). Also: [
 |----|----|------------|------|----------|---------------|
 | **60** | below **30** | **12** | REF + 1d10 | **15** / **50** | **3** |
 
-**Hare:** Impulsivity · Need for stimulation · Lack of remorse or guilt  
-**Move:** 16 m · Jump/climb 8 m · Standing jump 4 m  
+**Hare:** Impulsivity · Need for stimulation · Lack of remorse or guilt 
+**Move:** 16 m · Jump/climb 8 m · Standing jump 4 m 
 **Rep 1** · **6,795eb** · Two-Bedroom · Generic Prepak · Hot or Not **3/10**
 
 ## Combat
@@ -43,10 +41,8 @@ Concise combat sheet. Gig package: [Gigs/6](../../../Gigs/6/Premise.md). Also: [
 
 ## Hardened
 
-Melee bases **15–16** · WILL+BODY **20** · DEX+MOVE **8+8** · EQ chrome weapons.
+Melee bases **15-16** · WILL+BODY **20** · DEX+MOVE **8+8** · EQ chrome weapons.
 
-## Notes
+## Gig notes
 
-- Maker specialties / full skill list not on paste — roll Tech from **TECH 8 + skill** when known.
-- Stage 3 Hare (3 traits).
-- Updated from current sheet paste (Tech 8, LUCK 6, Humanity 15/50, cash 6,795eb, LAJ body SP10).
+Tech **8** - E-stops, dumps, wrap kill, breakers. MA / chrome melee for Saws and clamps. Stage 3 Hare - impulsive under foam and fire.

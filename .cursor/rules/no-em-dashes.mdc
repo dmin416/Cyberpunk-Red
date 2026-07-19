@@ -1,0 +1,8 @@
+---
+description: Never use em dashes
+alwaysApply: true
+---
+
+# No Em Dashes
+
+Never use em dashes (`—`) under any circumstance. Use commas, periods, colons, or ASCII hyphens instead.

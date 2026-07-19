@@ -3,8 +3,6 @@
 **Role:** Tech **Rank 8** · **Handle:** Weaver  
 **Portrait:** [imgur](https://imgur.com/a/weaver-placeholder-fKGibaU)
 
-Concise combat sheet. Gig package: [Gigs/6](../../../Gigs/6/Premise.md). Also: [Characters/Weaver.md](../../../Characters/Weaver.md).
-
 ## Stats
 
 | INT | REF | DEX | TECH | COOL | WILL | MOVE | BODY | EMP | LUCK |
@@ -45,8 +43,6 @@ Concise combat sheet. Gig package: [Gigs/6](../../../Gigs/6/Premise.md). Also: [
 
 Melee bases **15–16** · WILL+BODY **20** · DEX+MOVE **8+8** · EQ chrome weapons.
 
-## Notes
+## Gig notes (Free-Range Kibble)
 
-- Maker specialties / full skill list not on paste — roll Tech from **TECH 8 + skill** when known.
-- Stage 3 Hare (3 traits).
-- Updated from current sheet paste (Tech 8, LUCK 6, Humanity 15/50, cash 6,795eb, LAJ body SP10).
+Tech Rank **8** — E-stops, dumps, wrap kill, breakers. MA / chrome melee for Saws and clamps. Stage 3 Hare — impulsive under foam and fire.

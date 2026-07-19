@@ -1,6 +1,6 @@
-﻿# Gig 6 — In Character Story
+# Gig 6 - Free-Range Kibble - In Character Story
 
-Discord record for **gig-ic** — IC posts and GM narrator scene beats only.
+Discord record for **gig-ic** - IC posts and GM narrator scene beats only.
 
 **Run package:** [Premise.md](Premise.md)
 
@@ -11,11 +11,11 @@ Discord record for **gig-ic** — IC posts and GM narrator scene beats only.
 ```
 Display Name
 APP
- — M/D/YYYY H:MM AM/PM
+ - M/D/YYYY H:MM AM/PM
 Message text.
 ```
 
-- **GM narrator** (e.g. **O** on Gig 1) = narrator (second-person scene posts).
+- **GM narrator** = narrator (second-person scene posts).
 - Player characters = in-character actions and dialogue only.
 
 ---

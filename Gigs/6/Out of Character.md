@@ -1,6 +1,6 @@
-﻿# Gig 6 — Out of Character
+# Gig 6 - Free-Range Kibble - Out of Character
 
-Discord record for **gig-ooc** — rules, dice, coordination, breaks.
+Discord record for **gig-ooc** - rules, dice, coordination, breaks.
 
 **Run package:** [Premise.md](Premise.md)
 
@@ -11,12 +11,12 @@ Discord record for **gig-ooc** — rules, dice, coordination, breaks.
 ```
 Display Name
 APP
- — M/D/YYYY H:MM AM/PM
+ - M/D/YYYY H:MM AM/PM
 Message text.
 ```
 
 - Rolls, DVs, wound states, loot caps, GM rulings.
-- Planning and breaks — not IC.
+- Planning and breaks - not IC.
 
 ---
 

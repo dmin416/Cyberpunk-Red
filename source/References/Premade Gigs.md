@@ -223,7 +223,7 @@ Every named premade mission / screamsheet / job in this repo’s source books.
 | **Premise** | Find missing Rockerboy Legacy and PI Baines trapped in a Badlands wreck before morning. |
 | **District** | The Palms / Zolletta → Badlands ~1 mile north |
 | **Contractor** | Carri Zote (Terminus) — meal vouchers |
-| **Notes** | Timer. Legacy can join Grace’s Distortions later. |
+| **Notes** | Timer. Legacy can join Grace’s Distortions later. **Standalone rework:** [Gig 5 — Until Morning](../../Gigs/5/Premise.md) (Stack Nine / Rancho edge; Rio · Juno · Hale). |
 
 ### 3.4 M4: The Devil's Cut
 | | |
