@@ -3,7 +3,7 @@
 **Role:** **Solo**  
 **Handle:** Watts
 
-**Already Full Body Conversion** — Biosystem in an **Omega** combat shell. Martial focus: **Multiarm Melee 6 · Silat 6 · Aikido 6** on the gig shell; **Melee 6** + Combat Tail planned for a second **Draconic** shell (Zoo / FantaForm™ arc).
+**Already Full Body Conversion** - Biosystem in an **Omega** combat shell. Martial focus (priority): **Wrestling → Multiarm → Silat → Aikido (as needed)** on the gig shell; **Melee 6** + Combat Tail planned for a second **Draconic** shell (Zoo / FantaForm™ arc).
 
 ## Stats
 
@@ -33,11 +33,12 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 
 ### Martial Arts
 
-| Form | Rank | Notes |
-| --- | ---: | --- |
-| **Multiarm Melee** | **6** | `Armed & Dangerous` on Brawling (6 arms > target; Solo CA reassign option); `Smack Together` |
-| **Silat** | **6** | `Internal Power` (MA → bonus Brawling); `Violent Leverage` (new grapple → bonus melee) |
-| **Aikido** | **6** | `Disarming Combination`; `Iron Grip` (grapple → no ranged, −2 escape) |
+| Priority | Form | Rank | Notes |
+| ---: | --- | ---: | --- |
+| **1** | **Wrestling** | **6** | Free `Chokehold`; `Reversal` when defender in 1v1 grapple |
+| **2** | **Multiarm Melee** | **6** | `Armed & Dangerous` on Brawling/Grab (6 arms > target; Solo CA reassign); `Smack Together` |
+| **3** | **Silat** | **6** | `Violent Leverage` (new Grab → bonus melee); `Internal Power` when MA → Brawling needed |
+| **4** | **Aikido** | **6** | Situational: `Iron Grip` / `Disarming Combination` vs shooters |
 
 *Each form is a separate x2 DEX skill. MA Attacks = ROF2, half armor. Kit writeup: [Martial Arts/Watts.md](Martial%20Arts/Watts.md).*
 
@@ -74,7 +75,7 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 | **Upper R (primary)** | **Cyber Dude Smart Glove** + smartgun / heavy pistol options | Ranged focus; Subdermal Grip |
 | **Upper L** | **Pursuit Security Bouncer** | Stun Baton + Microwaver; less-lethal on tap |
 | **Lower R** | **Pursuit Security Bouncer** *(or second Smart Glove)* | Second less-lethal / smartgun hand |
-| **Lower L** | Spare — tool, grapple, or empty | MA / Brawling / disarm hand |
+| **Lower L** | Spare - tool, grapple, or empty | Grab / Choke / MA hand |
 
 *FBC doubles cyberarm option slots (8 per arm). No popup melee on combat shell — tail/jaw on dragon body.*
 
@@ -85,7 +86,7 @@ FBC — **INT, COOL, TECH, WILL, LUCK, EMP, and Skills stay as rolled.** BODY / 
 | | **Combat shell** (current) | **Draconic shell** (future) |
 | --- | --- | --- |
 | **When** | Now | **Draconic FantaForm™** / Zoo arc |
-| **Role** | Gigs, Multiarm + disarm kit, heavy loadout | Dragon aesthetic, LARP package chrome, alternate face |
+| **Role** | Gigs, Wrestling clinch + Multiarm smash, heavy loadout | Dragon aesthetic, LARP package chrome, alternate face |
 | **Arms** | 2 now → **6** after Shoulder + TUp (+2 limbs) + Cyberarm ×4 | 2× Cyberarm default; can add mount later |
 | **Frame** | **Ω** (BODY 16) + Perfected Hydraulics | Match combat Ω or package Beta |
 | **Look** | Metal Borg | Draconic sculpt + faceplate + tail/jaw/firebreath |
@@ -151,10 +152,10 @@ Subdermal Grip + **2 additional Option Slots**. Finger chrome works; blocks othe
 
 ## Notes
 
-- **Combat shell** — **smartgun / Bouncer / Silat disarm pipeline / Multiarm Brawling** (needs 6 arms). **Dragon shell** — **Combat Tail 4d6 × 2** + jaw/wolvers via **Melee 6**.
-- **Solo** — **Armed & Dangerous** can free **Combat Awareness** reassign before a Brawling roll.
-- **Athletics 6** — throw disarmed weapons away (**25 m/yds**) or chuck grenades; thrown melee ignores half-SP.
-- **PanzerFaust** optional for `Inner Chrome` (EMP/Quickhack immunity) — not current plan.
+- **Combat shell** - **Grab → Chokehold / Smack Together** (needs 6 arms); Silat Violent Leverage; Aikido only vs guns. **Dragon shell** - **Combat Tail 4d6 × 2** + jaw/wolvers via **Melee 6**.
+- **Solo** - **Armed & Dangerous** can free **Combat Awareness** reassign before a Brawling/Grab roll.
+- **Athletics 6** - throw disarmed weapons away (**25 m/yds**) or chuck grenades; thrown melee ignores half-SP.
+- **PanzerFaust** optional for `Inner Chrome` (EMP/Quickhack immunity) - not current plan.
 - Sub-0 Humanity: server Stage 5 rework (*Homebrew/Rules.md*) — loyalty-style rolls, not raw GM seizure.
 
 ---
