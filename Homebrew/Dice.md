@@ -9,6 +9,7 @@ How we roll in chat. No Python — PowerShell only. Look up the actor, resolve t
 | Player sheets (filled) | `Epics/Story */Players/*.md` |
 | Character stubs | `Characters/*.md` (often empty — prefer Epics) |
 | Gig enemies | `Gigs/<n>/Enemies.md` |
+| Stock enemy catalog | `Enemies/Catalog.md` |
 | House LUCK / combat house rules | `Homebrew/Rules.md` |
 | Hardened NPC bonus | `Homebrew/GM Rules.md` |
 

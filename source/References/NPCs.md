@@ -2,6 +2,8 @@
 
 Named characters from Cyberpunk RED source books in this library — contractors, allies, antagonists, faction faces, and named mook types. Companion to [Locations.md](Locations.md) and [Venues.md](Venues.md).
 
+**Tokens:** Which of these have bordered art is tracked in [NPC Tokens.md](NPC%20Tokens.md) (also see `Assets/NAMED NPC INDEX.md` for asset-side names).
+
 **Scope:** Named people and named opposition types. Skip pure places, unnamed crowds, and gear-only entries.
 
 **Format:** One A–Z entry per NPC. Notes from every folded source book are merged under that person. Stat blocks stay in the source files.

@@ -12,7 +12,7 @@ When the user asks to roll anything (skill, `1d10+#`, damage, init, death save, 
 1. **Identify the actor** from the message (character name, enemy name, or “that psycho” / open gig context).
 2. **Look up numbers** before rolling:
    - PCs: `Epics/Story */Players/<Name>.md` (prefer over empty `Characters/` stubs)
-   - Enemies: `Gigs/<n>/Enemies.md`
+   - Enemies: gig fight → `Gigs/<n>/Enemies.md`; stock blocks → `Enemies/Catalog.md`
    - PCs store **skill levels** → base = **STAT + Skill**
    - Enemies often store **Skill Bases** (already summed) → use as-is; do not add STAT again
    - Hardened: +2 attack/defend bases per `Homebrew/GM Rules.md` (check if sheet already includes it)
