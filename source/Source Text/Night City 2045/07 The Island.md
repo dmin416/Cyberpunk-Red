@@ -53,12 +53,10 @@ The security provider for Little Europe is the NCPD, and unlike in some other pa
 
 Downtown broke off from Little Europe in 2042, when the Chamber of Commerce ponied up enough dough to pay for a seat on the Night City Council. There’s been a cold war ever since. The border between the two districts gets redrawn at least once a year as each side works to sway Council votes through negotiation, bribes, and occasional bursts of violence.
 A few months ago, some large, gift-wrapped boxes left in a day market exploded, spreading clouds of chemically enhanced synthcoke across the area - transforming about a hundred ordinary citizens into addicts on the spot.
-NCPD’s publicity hacks pegged it as a Mass Addiction
+NCPD’s publicity hacks pegged it as a Mass Addiction Event (MAE), and it marked the start of the Bozo Civil War, which is the kind of sentence I get to write in 2045.
+Just goes to show, Little Europe may feel safer than a combat zone, but it's still part of Night City.
 
 *District map: see PDF p.56.*
-
-Event (MAE), and it marked the start of the Bozo Civil War, which is the kind of sentence I get to write in 2045.
-Just goes to show, Little Europe may feel safer than a combat zone, but it's still part of Night City.
 
 ### Locations
 
@@ -69,7 +67,7 @@ Rumor is it was done by Rockaby Rozalyn (Rockerboy 5), one of the hottest DJs in
 
 #### #2 Biotechnica Reference Forest RF-14
 **Security Code 10:** Biotechnica Security, Hardened Heavy
-Jammed between the chrome of the rebuilding urban center and the polluted waters of Del Coronado Bay is a thin sliver of green, owned and operated by Biotechnica.
+Jammed between the chrome of the rebuilding urban center and the polluted waters of Del Coronado Bay is a thin sliver of green, owned and operated
 Reference Forest RF-14 is an experiment focused on genetically modifying Cypress and Eucalyptus trees to thrive in a heavily polluted urban environment.
 RF-14 was open to the public as a park until last year, when a brawl between the Eurotrashers and the Undertow resulted in fire damage to several trees. Way to go, doombas. Today, Biotechnica security, backed up by a pack of cyberwolves, patrols the small forest to prevent further damage.
 
@@ -228,7 +226,9 @@ Since Revere set up shop in the district, a few of the old-school residents have
 **Security Code 4:** NCPD, Hardened Light
 When you settle down and start a family somewhere, that often means children. Those kids have to be educated somewhere, even in Night City. A large percentage of Night City kids get their education from holos and braindances sold by WNS, Segotari, and Net54, but families with money can send their kids to an old-fashioned physical school like Shady Oaks Elementary.
 And "shady" is the right word! The school’s Garden Patch boasts a "bespoke, in-person education custom-tailored to each child’s needs." What really happens is that the kids are dropped off, walked through the doors by smiling adults, and then plugged into custom-designed braindance units for hours.
-The kids think they’ve had an entire day of engaging, energetic education with focused, intelligent teachers, while the school’s owners rake in profits from people with more money than interest in the welfare of their children. #21 Short Circuit
+The kids think they’ve had an entire day of engaging, energetic education with focused, intelligent teachers, while the school’s owners rake in profits from people with more money than interest in the welfare of their children.
+
+#### #21 Short Circuit
 
 **Security Code 9:** Patrons, Medium
 Yes, Short Circuit can be reduced down to a bullet point that reads, "Tech and Netrunner bar," and yes, 20eb will get you the house drink, the Code Freeze - vodka and the Triti-Fizz flavor du jour on ice. In truth, though, Short Circuit is more of a technology refurbishment collab. It was originally a bar in 2020 in one of those revolving restaurant things, but that got ashed when the nuke went off. Later, Brain (Tech 6/Netrunner 2 ) and his husband, 3-Piece (Fixer 5/Media 2 ), re-opened it at its new spot in Little Europe to cater to the freelance Techs tinkering with wrecked machines from the Hot Zone.
@@ -328,7 +328,8 @@ In the shadows, Maelstrom’s leader, Warlock, is allegedly looking to move out 
 ### Locations
 
 #### #1 The Afterlife
-Security Code 1 1: Patrons, Hardened Heavy The legendary edgerunner bar’s current home is furnished like the mortuary where the establishment was originally housed, complete with salvaged autopsy tables and racks of corpse coolers. A marketplace for hired muscle and a haven for edgerunners and mercs, the bar serves custom drinks that honor fallen patrons. The Silverhand’s a favorite: vodka and brandy with a dash of CHOOH2 for extra kick, served as a shot for 20eb.
+**Security Code 11:** Patrons, Hardened Heavy
+The legendary edgerunner bar’s current home is furnished like the mortuary where the establishment was originally housed, complete with salvaged autopsy tables and racks of corpse coolers. A marketplace for hired muscle and a haven for edgerunners and mercs, the bar serves custom drinks that honor fallen patrons. The Silverhand’s a favorite: vodka and brandy with a dash of CHOOH2 for extra kick, served as a shot for 20eb.
 The deeper you go into the place, the deadlier its patrons are. Younger talent keeps to the Antechamber at the front of the bar and dreams of being welcome in the Crypt, the bar’s main space. Notorious Solo, Fixer, and Afterlife owner Rogue Amendiares (Solo 7/Fixer 7) hangs out in Hades, the deepest layer of the club, with the baddest of the badasses.
 Screens broadcast listings for available combat jobs.
 The musical playlist spans many eras (as long as it’s loud). Nobody dances, and brawls are strictly for fun.
@@ -449,7 +450,9 @@ Great River’s warehouse is overflowing with commercial goods and Transporter d
 #### #18 Hydrosubsidium R&D
 **Security Code 10:** Hydrosubsidium Security, Heavy
 I don’t know exactly what's going on in the Hydrosubsidium R&D department, only that it occupies nondescript twin warehouses with direct access to the marina. Aside from some discreet signage and less discreet gate guards, you’d never know the place was there. But there it sits, with a new chain-link fence blocking waterfront access in front of the buildings. Sleek black boats and helicopters have been seen landing at the property, where they’re loaded with crates before taking off again moments later.
-One homeless gent we interviewed, a Navy vet who sometimes "borrows" a rowboat to go fishing in the Bay, told a tale of the process. Apparently, the loaders dropped a crate and it cracked open, spilling gold and jewels across the ground. He insisted it was treasure recovered from the bottom of the sea. No idea if that’s true, but it's a good story!#19 JC Homes
+One homeless gent we interviewed, a Navy vet who sometimes "borrows" a rowboat to go fishing in the Bay, told a tale of the process. Apparently, the loaders dropped a crate and it cracked open, spilling gold and jewels across the ground. He insisted it was treasure recovered from the bottom of the sea. No idea if that’s true, but it's a good story!
+
+#### #19 JC Homes
 
 **Security Code 4:** Maelstrom, Medium
 These "luxury" apartments burned down twice during construction and sat empty for four years as the owners tried to convince potential tenants that the "firebug curse" wasn’t real. Now, squatters and Maelstrom gangers fill the building. Corporate security goons try to evict the "residents" whenever the property is listed for auction, but the resulting battles only damage the building further. So far, no one has bid on it.
@@ -478,7 +481,9 @@ Single-family units the size of a motorhome tie up between three-story structure
 
 #### #24 McCartney Cubes
 **Security Code 3:** NCPD, Hardened Light
-The only selling point for this low-rent cube hotel is the stadium next door. The sports-themed posters covering the walls feel like something from a teenager’s gaudy Garden Patch. The noise from events and games is overwhelming even indoors, and - since the building is full of fans - the screaming and rioting on game days drowns out even the stadium. The only upside is, you never need a screamsheet to know whether the NC Nuke is winning or losing. The noise will tell the tale.#25 McCartney Field Stadium
+The only selling point for this low-rent cube hotel is the stadium next door. The sports-themed posters covering the walls feel like something from a teenager’s gaudy Garden Patch. The noise from events and games is overwhelming even indoors, and - since the building is full of fans - the screaming and rioting on game days drowns out even the stadium. The only upside is, you never need a screamsheet to know whether the NC Nuke is winning or losing. The noise will tell the tale.
+
+#### #25 McCartney Field Stadium
 
 **Security Code 9:** NCPD, Hardened Heavy
 In the aftermath of the 4th Corporate War, Night City’s 75,000-seat stadium transformed from a sports and entertainment complex into an emergency shelter and medical center. The cheering crowds vanished. Refugees, triage cubicles, and refrigerated morgue trailers replaced them. It took almost a decade for the owners to repair the damage in the aftermath - even then, only thanks to grants from Night Corp.
@@ -499,7 +504,9 @@ Personally, we prefer the grace and technique of pureweight matches. The three-w
 #### #26 Megabuilding H8 Construction Site
 **Security Code 8:** Aldecaldos, Hardened Light
 City Manager Kabria Chung’s not pleased with the City Council’s decision to engage AllNations Construction to build a megabuilding in the Upper Marina, especially since Night Corp and Ziggurat, the powers advocating for this project, brushed aside her bohemian vision and opted for a more utilitarian design.
-At the groundbreaking ceremony earlier this year, Chung’s speech called it "affordable housing for the hard-working people of our district," but her fixed smile said, "I hope it burns down."#27 Metal Heaven
+At the groundbreaking ceremony earlier this year, Chung’s speech called it "affordable housing for the hard-working people of our district," but her fixed smile said, "I hope it burns down."
+
+#### #27 Metal Heaven
 
 **Security Code 5:** NCPD, Hardened Light
 Following the 4th Corporate War, the city’s best music store traded its "prime" location for a renovated warehouse on the edge of the Hot Zone for affordability purposes.
@@ -656,7 +663,9 @@ After dark, Bella Vista occasionally morphs into a Night Market. The local Fixer
 **Security Code 9:** Whitewater, Hardened Medium
 This place dodged the wrecking ball of gentrification that hit the rest of Downtown because it tickles City Manager Ortega’s fancy. It’s all classic pseudo-European charm: homemade pastries and espresso strong enough to jumpstart the dead. You get a real mix in here - local artists, old-timers still clinging to the past, and tourists sniffing around for a taste of "authentic" Night City.
 Café Bouchon is one of the few joints in the area that serves actual, honest-to-god real food. Don’t be fooled, though; there’s more going on here than just croissants and cappuccinos. Monsieur Jacques (Fixer 4), the owner, runs a tight ship and keeps a sharp eye on his clientele.
-Word is, he’s got his own little info-broker side hustle. If you’ve got secrets to trade, Bouchon is the place to go.#4 Clocktower Residences
+Word is, he’s got his own little info-broker side hustle. If you’ve got secrets to trade, Bouchon is the place to go.
+
+#### #4 Clocktower Residences
 
 **Security Code 9:** Whitewater, Hardened Light
 If you're in the market for high-end living with a little extra, the Clocktower Residences is where you wanna be … or where you don’t wanna be, depending on your views regarding privacy. These units wrap around an old clock tower that survived the 4CW. Real throwback vibes on the outside. But inside? It’s all sleek, modern tech under vintage decor. Just think twice before you sign your lease.
@@ -746,7 +755,9 @@ Valian Violet recently changed "security providers," opting to pay protection mo
 #### #15 Jade Blossom Spa
 **Security Code 10:** Eastern Tiger Triad, Hardened Light
 This luxury spa fronts as a lush wellness retreat: herbal baths, high-end massages, zen meditation rooms, and the like, all done up pretty to attract corporate elites and wide-eyed tourists. But beneath the surface, the Jade Blossom functions as the Eastern Tigers’ stronghold.
-Slip past the public area and into the back, and you’ll find more than massage oil: boxes full of knock-offs and counterfeit merchandise pumped out by sweatshops in Rancho Coronado, waiting to be shipped out to stores and Fixers across Night City.#16 Moleharty’s Books & Antiques
+Slip past the public area and into the back, and you’ll find more than massage oil: boxes full of knock-offs and counterfeit merchandise pumped out by sweatshops in Rancho Coronado, waiting to be shipped out to stores and Fixers across Night City.
+
+#### #16 Moleharty’s Books & Antiques
 
 **Security Code 9:** Whitewater, Hardened Light
 In a city that’s gone fully digital, entering Moleharty’s is like traveling back through time. You walk in, and the smell of old paper hits your sinuses hard. The shop’s crammed with dusty tomes and rare books from across the world.
@@ -758,7 +769,8 @@ Moleharty’s ain’t just for bookworms and old-school collectors, though. The 
 It probably comes as no surprise that anyone who goes exotic is willing to experiment beyond the borders of vanilla and has money to spare. Munch Munch Munch is a private membership club decorated in the style of a Victorian London social club. Membership is 500eb (Expensive) per year, and open only to exotics. Members can spend time at the club for free, purchase meals and drinks from the lounge, and rent a cube room - for sex, sleeping, or other reasons - for 20eb per night. Sex shows are held on Saturday nights. Furmeets are held on the second Tuesday of each month. Participation is not required for membership.
 
 #### #18 New Libertine Tower
-Security Code 1 1: Whitewater, Hardened Medium Picture the most generic city tower imaginable. Now give it a nasty teal paint job. That’s the New Libertine.
+**Security Code 11:** Whitewater, Hardened Medium
+Picture the most generic city tower imaginable. Now give it a nasty teal paint job. That’s the New Libertine.
 Bankrolled by the Chamber of Commerce, the New Libertine is where the Chamber stows its pet businesses and politicians.
 Whitewater Security operates out of the bottom three floors.
 
@@ -778,7 +790,6 @@ when their kids are arrested.
 **Security Code 9:** NCPD, Hardened Medium
 Fires are pretty common in the area, especially after the Undertow sucks down a little too much Smash. Firestation
 
-#### #2 is the center of the war on blazing infernos, and it
 looks it: the massive, heavily fortified building can hold off anything short of a tactical nuke. Even then, I’d give even odds the building would still be standing after the smoke clears.
 Every firefighter working out of the station is armed, armored, and cybered. They take their jobs seriously and train constantly to be able to reach fires outside the combat zones quickly. Hell, the joke around Downtown is that the best way to get a swift, cheap response to a crime is to set something nearby on fire! The station even has its own deputized detectives, though it's a rare day when an arsonist makes it to court. They usually end up sleeping at the bottom of the bay, instead.
 
@@ -892,7 +903,7 @@ Best of all, the Reckoners, our local end-of-the-world cultists, think it’s ho
 Back in the day, Trauma Team and Crisis Medical were Old Medical Center neighbors. Unfortunately, being outside the initial blast radius didn’t save them. There are conflicting stories about what destroyed this place: AV crash, orbital strike, soil liquefaction. Whatever happened dropped both facilities in one tangled mass. Then fires raged through the entire neighborhood. The potential medical technology, radioactive material, and drug caches left behind make this one of the most popular and most violent scavving sites in the Hot Zone.
 
 #### #4 Dark Zone One
-Security Code 1 1: ??, Hardened Heavy No urban explorer’s been able to get a drone through to map this site, and mysterious snipers kill anyone who enters on foot. Even flyover drone imagery comes back jumbled, blocked, or distorted. Such tight security suggests a corporate project someone doesn’t want seen. Raven Microcyb, EBM, and Infocomp all had offices here, so who knows what the truth is. My guess is that one of the big players is digging beneath what’s left of Infocomp.
+**Security Code 11:** ??, Hardened Heavy No urban explorer’s been able to get a drone through to map this site, and mysterious snipers kill anyone who enters on foot. Even flyover drone imagery comes back jumbled, blocked, or distorted. Such tight security suggests a corporate project someone doesn’t want seen. Raven Microcyb, EBM, and Infocomp all had offices here, so who knows what the truth is. My guess is that one of the big players is digging beneath what’s left of Infocomp.
 Anyone who finds an intact cache of secrets from the now-defunct information megabroker could upset the balance of power in the entire corporate world.
 
 #### #5 The Dump
@@ -913,7 +924,9 @@ But I can’t figure out how he funds the clinic or pays for meds. A rep for Cit
 
 #### #8 The N54
 **Security Code 2:** NCPD, Hardened Heavy
-The former Network 54 building is the tallest structure still standing in the Hot Zone. Urbanauts, adrenaline junkies, and doombas - me included - like to see how high they can climb, marking the apex of their journey with a unique tag. No matter what, everyone leaves one spot untouched by graffiti: a little tent sheltering a rad-roasted corpse that’s still holding a rusted-out FN-RAL. We call the poor choomba Lailah, after an old story about a guardian angel. The message "Blackhand Was Right" is smeared in faded paint beside the body. You’re supposed to salute Lailah before tagging or taking videos, and legend holds that anyone who messes with their stuff gets cursed.#9 Safe Child
+The former Network 54 building is the tallest structure still standing in the Hot Zone. Urbanauts, adrenaline junkies, and doombas - me included - like to see how high they can climb, marking the apex of their journey with a unique tag. No matter what, everyone leaves one spot untouched by graffiti: a little tent sheltering a rad-roasted corpse that’s still holding a rusted-out FN-RAL. We call the poor choomba Lailah, after an old story about a guardian angel. The message "Blackhand Was Right" is smeared in faded paint beside the body. You’re supposed to salute Lailah before tagging or taking videos, and legend holds that anyone who messes with their stuff gets cursed.
+
+#### #9 Safe Child
 
 **Security Code 2:** NCPD, Hardened Heavy
 Even the wreckage of what was once Night City’s most exclusive daycare service creates buzz. Rumors say that dead kids and caretakers haunt the site, or they’re all in cryo under there, or they’re alive but feral and will hunt anything that comes near. Don’t know, don’t care, and it's not worth finding out for sure. Even I have limits when it comes to creepy urban exploration.
@@ -1177,7 +1190,9 @@ Members of the Piranhas can be found here, most nights, dancing and dealing.
 #### #2 Biograph Theater
 **Security Code 4:** NCU Security, Light
 This small theater, built in the 1970s, has only two screens, but its antique charm attracts patrons who enjoy watching artistic movies on the big screen. The theater still uses film projectors to show its movies and relies heavily on volunteer engineering students from NCU to keep them running.
-One screen features art films and other sophisticated movies targeted toward college-educated audiences. The second screen shows classic pornography, a much more lucrative venture. The pornography revenue helps to fund the artistic side, keeping the entire venue afloat. #3 Biotechnica Campus
+One screen features art films and other sophisticated movies targeted toward college-educated audiences. The second screen shows classic pornography, a much more lucrative venture. The pornography revenue helps to fund the artistic side, keeping the entire venue afloat.
+
+#### #3 Biotechnica Campus
 
 **Security Code 10:** Biotechnica Security, Hardened Heavy ◊ Utility Code: 3
 Biotechnica’s regional headquarters dominates the eastern edge of the district and consists of office buildings, geodesic domes, and rooftop terraces. Biotechnica’s Night City campus is home to the company’s Home and Garden division, responsible for the invention of products such as RealgrassTM and Solar IvyTM.
@@ -1203,7 +1218,9 @@ The upstairs Afterwords Café is where patrons can sit together, study, eat, and
 
 #### #7 Fashion Cuts
 **Security Code 4:** NCU Security, Hardened Light
-Tucked away behind Carriage Street Books, Fashion Cuts has been styling hair and installing fashionware in NCU students since before the 4th Corporate War. Owner Sam Yurrid (Medtech 4) is considered one of the best styling artist in Night City. The Piranhas have tried to recruit Sam on several different occasions, but Ms. Yurrid prefers shop ownership over gang membership.#8 Food Truck Plaza
+Tucked away behind Carriage Street Books, Fashion Cuts has been styling hair and installing fashionware in NCU students since before the 4th Corporate War. Owner Sam Yurrid (Medtech 4) is considered one of the best styling artist in Night City. The Piranhas have tried to recruit Sam on several different occasions, but Ms. Yurrid prefers shop ownership over gang membership.
+
+#### #8 Food Truck Plaza
 
 **Security Code 8:** NCU Security, Hardened Light
 You can smell Food Truck Plaza long before reaching it.
@@ -1213,7 +1230,7 @@ Common food trucks include:
 ◊ Captain Cajun’s Nifty Nuggets: Not sure what these
 are made of, but the cajun-style spices disguise the flavor well.
 ◊ Green Pretzels: Hot pretzels baked with a lichen
-dough farmed by Shroomers.
+dough farmed
 ◊ Happy Noodles: A Vietnamese food truck run by
 Mister Hung (Exec 2).
 ◊ Kibble Cookie Kraze: A complete meal in the form
@@ -1300,7 +1317,7 @@ The building itself is old, with creaky floorboards throughout. Bebe Gcabashe (F
 
 #### #15 Stems & Seeds
 **Security Code 7:** NCU Security, Hardened Light
-Outside of the university walls stands an old four-story brick building girded for war, with metal shutters on the windows and turrets at each corner. Welcome to Stems & Seeds, the most well-defended location in the University District not owned by NCU or Biotechnica.
+Outside of the university walls stands an old four-story brick building girded for war, with metal shutters on the windows and turrets at each corner. Welcome to Stems & Seeds, the most well-defended location in the University District not owned
 Produce is grown inside the building, under grow lights, and sold either directly via a day market located outside or through a special order system. All customers making a special order are given a code to ensure their crates of veg go to the right person. An alliance with the Dirty Hippies means customers can also pick up ganga shipments here, too.Lily Larson (Medtech 4 /Tech 2 ), a former researcher with Petrochem, runs Stems & Seeds with her two partners.
 Most of their employees are part-timers who work their shifts between classes at the University.
 
@@ -1400,7 +1417,7 @@ No one knows who. Could be the Reckoners looking to bring about the Harvest earl
 ### Locations
 
 #### #1 1st Night City Bank
-Security Code 1 1: Militech, Hardened Heavy 1st Night City Bank is the main artery of business in Night City! What’s that, DJ Nova? EuroBank literally supplies the city with money? I know, but it doesn’t detract from 1st Night City, baby! Night City for life!
+**Security Code 11:** Militech, Hardened Heavy 1st Night City Bank is the main artery of business in Night City! What’s that, DJ Nova? EuroBank literally supplies the city with money? I know, but it doesn’t detract from 1st Night City, baby! Night City for life!
 Okay, city pride aside, EuroBank may manufacture the eb, but 1st Night City is where most people who make enough money park it. More importantly, this bank is the primary vehicle Night Corp uses to distribute funds to the legion of companies and individuals who keep Night City going. At least half of the cash spent in Night City eventually flows through this bank.1st Night City was moved after the nuke and rebuilt as a faithful clone of the original. The design encourages community, with spacious interior walls painted a warm white color. The first floor is publicly accessible, with dozens of (bulletproof) windows providing a spectacular view of the small park across the street. The marble floors are reminiscent of a bygone age, as are the friendly bank tellers - real people even, and not machines! Customers who come in person wait behind the red velvet lines as classical music plays. Loans and other business are conducted in quiet offices off the main floor.
 The second floor houses the bank's vault, where the real money is stored. Access between these floors is restricted: ID card and retina scan required. Cameras are placed in key locations throughout the bank, and the feed is monitored 24/7 by both on-site security and NCPD.
 
@@ -1445,11 +1462,11 @@ The defenses are fierce. Turrets. Scanners. Drones.
 NCPD’s brightest, armed with the best weapons money can buy. An army of maintenance workers toils 24/7 to clean and polish and paint all that wood. Even more workers skitter around inside, turning the gears that run the machine that is Night City. Lobbyists, special-interest-group reps, and government employees buzz in and out all day and night. So many people, in fact, if you’re smart about it, it’s stupidly easy to slip in unnoticed.
 
 #### #8 Club Atlantis
-Security Code 1 1: Danger Gal, Hardened Medium I love this place! Could be ‘cause I spin here every Sunday night, from two to four in the morning. Come check me out!
+**Security Code 11:** Danger Gal, Hardened Medium I love this place! Could be ‘cause I spin here every Sunday night, from two to four in the morning. Come check me out!
 Anyway, Club Atlantis is owned by the biggest Fixer in town, Mister Kernaghan (Fixer 9). It's multilevel and flashy as hell, with sliding staircases, moving mirrored walls, cerulean lighting, and avant-garde art hanging at odd angles.
 Add in the robot dancers placed strategically around the joint, and it all adds up to a disorienting design flow that makes a person feel like they’re flying without dropping a single hit of blue glass. The bar’s decent, if overpriced, and serves booze from all over the world. The signature drink is the HALO Drop. 100eb gets you a dry Manhattan made from Highrider whiskey. Go LEO or go home, right?
 Who’s the club for? First and foremost, suits blow off steam as they struggle up that old corporate ladder … which means you also get a lot of Fixers here to make connections... or gather blackmail material. Then there are the glitterkids who show up to the party. They love the atmosphere, the multilevel dance floor, and the occasional surprise live concert playing on the hovering stage at the center of the club.
-Gold (Rockerboy 7), of Tom & Gold, showed up last week and blew the doors off the joint! Gangers don’t get past the door, thanks to security provided by Danger Gal.
+Gold (Rockerboy 7), of Tom & Gold, showed up last week and blew the doors off the joint! Gangers don’t get past the door, thanks to security provided
 That includes the Piranhas: their dealers sell in the parking lot outside. Inside, you buy your drugs straight from the bar.
 Mister K runs his Midnight Market on the top two floors for elite guests, selling the most luxurious of luxury items.
 Only the biggest players in Night City get an invite. If you can’t drop 10k eb without breaking a sweat, you probably aren’t getting in.
@@ -1503,7 +1520,8 @@ It’s in the damn subbasement of Night City’s AV Traffic Control Tower, makin
 Why? Who the fuck knows! Maybe so the staff can see you coming, and then all go on break at the same damn time.
 
 #### #12 EuroBank
-Security Code 1 1: Lazarus, Hardened Heavy This isn’t just a regional EuroBank branch in Night City, it’s the fucking mint! That’s right; this is where all those eurobucks you're pounding the pavement for come from.
+**Security Code 11:** Lazarus, Hardened Heavy
+This isn’t just a regional EuroBank branch in Night City, it’s the fucking mint! That’s right; this is where all those eurobucks you're pounding the pavement for come from.
 Whether digital or physical, this is the place that makes dreams come true. Seems it's cheaper to make the money on site than ship it in from Paris or wherever. Growing up, I always imagined the EuroBank as a shining building with a big vault of gold coins; the bank manager would dive into it daily and swim through the cash.
 In reality, behind a well-guarded electric fence is a two-story block-long building with auburn-colored pseudo bricks in a Tudor architectural style that is, all at once, off-putting and inviting. I have no idea of how many sublevels the building has since that’s the most secret of the top secret, but my guess is at least three, likely four.
 Under the bricks are several layers of steel reinforcing the structure. The windows are illusions: screens designed to simulate the real thing.
@@ -1523,13 +1541,15 @@ The power flickers never cease. The units are cramped, mildew-coated studios, an
 You could do worse, though. The building’s proximity to City Hall makes the risk of dying from a lead injection low, so this might just be the safest firetrap in all of Night City.
 
 #### #15 Hall of Justice
-Security Code 1 1: NCPD, Hardened Heavy Night City’s "Hall of Justice" opened at the same time as the new City Hall in an eight-hour ceremony that dominated the news cycle for almost an entire day! Doctor Kirk Klau (Medtech 4 /Tech 5 ), a noted psychiatrist and architect hired by Archer & Li, oversaw the entire project.
+**Security Code 11:** NCPD, Hardened Heavy Night City’s "Hall of Justice" opened at the same time as the new City Hall in an eight-hour ceremony that dominated the news cycle for almost an entire day! Doctor Kirk Klau (Medtech 4 /Tech 5 ), a noted psychiatrist and architect hired by Archer & Li, oversaw the entire project.
 The courthouse and jail are built in a medieval riff style with oversized towers, massive black steel doors, and a fucking portcullis. The Hall’s brutalist style does the job it was meant to do: inspire fear. All it needs is a slogan carved above the main door: Abandon Hope All Ye Who Enter Here.
 Inside the draconian keep, smooth, gray stone walls echo the faintest sounds, making private conversations impossible.
 Drones, scanners, and automated defenses guard every room and corridor, and NCPD performs random stop-andfrisk searches on all non-uniformed employees.
 The lower levels handle most civilian requests. Offices for the high-level clerks and the District Attorney are on the middle floors. The upper floors deal with criminal cases and trials. The more severe the crime, the physically higher the floor. Rumor has it that the city’s judicial AI, The Judge (Netrunner 10), is kept in a NET Architecture on the top floor. Don’t know if it is true, but I do know there’s at least one Netwatch AV parked on the roof at all times.
 Prisoners are kept below ground, packed into tiny cells that make cube hotel rooms look spacious. Word is, those cells are laced with chemsprayers. Any sign of trouble, and the guards release the fog of the day. Could make you puke until you’re too weak to move. Could knock you out. Could kill you. Depends on what they have loaded in the tanks. It has been eight years since the Hall of Justice opened, and no one’s managed to escape yet. Least, not without the help of an expensive lawyer.
-Executions and public electro-whipping happen outside, in a concrete amphitheater. You can buy an all-day ticket for 20eb (Everyday) and damned if those seats aren’t always full. Luxury seats to watch the execution of famous criminals run 100eb (Premium). Vendors are on hand to sell bags of popcorn-flavored Kibble, cups of Triti-Fizz, and SCOPdogs. #16 Kasim’s
+Executions and public electro-whipping happen outside, in a concrete amphitheater. You can buy an all-day ticket for 20eb (Everyday) and damned if those seats aren’t always full. Luxury seats to watch the execution of famous criminals run 100eb (Premium). Vendors are on hand to sell bags of popcorn-flavored Kibble, cups of Triti-Fizz, and SCOPdogs.
+
+#### #16 Kasim’s
 
 **Security Code 7:** NCPD, Hardened Medium
 This coffee shop, owned by Kasymbek (Fixer 4), is stellar! The first thing you need to know is that it doesn’t serve booze, as that’s against his beliefs as a devout Muslim.
@@ -1540,7 +1560,7 @@ Elif occasionally leaves the kitchen to greet favorite customers and take a puff
 Kasymbek gets both his coffee and his tobacco from contacts among the Thelas. Rumor has it he used to sail with them, back in the day. The coffee is 10eb per cup, to be refilled as long as you keep buying tobacco for your nargile, 20eb per foil packet.
 
 #### #17 Lazarus Regional HQ
-Security Code 1 1: Lazarus, Hardened Heavy Colonel Viola Basset (Exec 7/Solo 6 ) oversees operations for the Pacifica Confederation branch of this hemisphere’s most elite PMC out of a nondescript and retrofitted community center. While the building appears unimpressive, the walls are reinforced, and the interior is well guarded by both personnel and technology.
+**Security Code 11:** Lazarus, Hardened Heavy Colonel Viola Basset (Exec 7/Solo 6 ) oversees operations for the Pacifica Confederation branch of this hemisphere’s most elite PMC out of a nondescript and retrofitted community center. While the building appears unimpressive, the walls are reinforced, and the interior is well guarded by both personnel and technology.
 This building serves primarily as an administrative center. Training takes place either in South Night City or at satellite locations across the Pacifica Confederation.
 
 #### #18 Le Jardin
@@ -1577,7 +1597,9 @@ There’s an auction here in the ground-floor auditorium on the third Friday of 
 **Security Code 7:** NCPD, Hardened Medium
 Night City News Today has been the most widely read screamsheet in Night City for decades. It’s a literal institution. Rumor is the owner, Fred Tallson (Exec 6/Media 4), came into money after selectively burying a few stories while working for the Bay Journal. He used his windfall to purchase both the Bay Journal and Night City News Today, then merged them into a single outlet.
 Tallson mixed things up by firing most of the staff, onboarding a selection of freelancers, and focusing on scoops and sensation over hard-hitting investigative journalism. He pays well for first-on-the-scene reporting, and is no one’s friend.
-Not the corps, not the cops, and not the gangs. The screamsheet is making money hand over fist, but it's also pissing off a lot of folks with power and guns. Tallson had better make sure his Trauma Team coverage is paid up. #23 Night City Plaza
+Not the corps, not the cops, and not the gangs. The screamsheet is making money hand over fist, but it's also pissing off a lot of folks with power and guns. Tallson had better make sure his Trauma Team coverage is paid up.
+
+#### #23 Night City Plaza
 
 **Security Code 8:** NCPD, Hardened Medium
 This is where you’ll find me most days, mixing tunes and asking nicely for donations. Night City Plaza is a lush, year-round park and green space, and the spiritual center of The Glen.
@@ -1611,7 +1633,11 @@ It isn’t uncommon for passed-out partygoers to wake up with their valuables mi
 #### #26 Souls Respite
 **Security Code 5:** The Reckoners, Medium
 It’s nearly fucking impossible to bitch about folks giving out food, blankets, and basic medical care, all in exchange for a measly two hours of your time, but I’m going to do it anyway. This refuge is run by the Reckoners, and the help they offer comes with cult-spun strings attached.
-Anyone who enters this brick building on the edge of The Glen for aid must sit through a two-hour lecture about why the world sucks and how the upcoming Harvest of Souls that will end it all is a good thing, really. Go in for food, stay for the lecture, come out a nihilist. You decide if that’s worth it.#27 World Stock Exchange Security Code 1 1: Lazarus, Hardened Heavy The local branch of the World Stock Exchange contains major securities, stocks, commodities, and trading floors.
+Anyone who enters this brick building on the edge of The Glen for aid must sit through a two-hour lecture about why the world sucks and how the upcoming Harvest of Souls that will end it all is a good thing, really. Go in for food, stay for the lecture, come out a nihilist. You decide if that’s worth it.
+
+#### #27 World Stock Exchange
+**Security Code 11:** Lazarus, Hardened Heavy
+The local branch of the World Stock Exchange contains major securities, stocks, commodities, and trading floors.
 Multiple brokerage offices are located in the four-story building, which is active 24/7. In the old days, all trading happened digitally, but the DataKrash forced the industry to return to old-school ways. Actual people on actual floors in bright-colored jackets shouting and waving their arms in a desperate dance of wealth whoring.
 Ever try to call your granny in Atlanta for a few minutes to wish her a happy birthday … only for the call to drop because the system is overloaded? That’s because the World Stock Exchange holds priority customer status with WorldSat.
 All that buying and trading racks up a bigger long-distance phone bill than the rest of Night City combined! How do they fucking do that and stay so fancy? They flow those expenses into their clients' bills through various brokers.
@@ -1732,7 +1758,8 @@ The only reason to visit the Imperial Bank is its payday loan service, which cha
 Someone robbed the "bank" last week. Rumor has it they made off with a few thousand eurobucks. Good for them, I say.
 
 #### #11 Kaifū Corner
-Security Code 1 1: Recluse’s Drones, Hardened Heavy If you travel into the heart of the district, you’ll find an abandoned strip mall no one visits. Not even the gangs.
+**Security Code 11:** Recluse’s Drones, Hardened Heavy
+If you travel into the heart of the district, you’ll find an abandoned strip mall no one visits. Not even the gangs.
 Once a haven for small businesses, Kaifū Corner is now the perfect vision of combat zone urban decay … at first glance. Observe more sharply, and you might spot the armed drones circling the structure, day and night. Go inside and … well … no one knows. They say it is a hellish maze of turrets, traps, and drones designed to kill the most ardent of strike teams.
 This is the home of Recluse (Netrunner ?? ), a legendary Netrunner who doesn’t wake up in the morning for less than 10,000eb a gig. No one has ever met Recluse in person. Instead, potential clients must travel to her lair and jack into the lobby of her NET Architecture, where she greets them in the form of a giant brown spider with an icy voice.
 No one knows who Recluse is … or was. Some believe she is a former Netwatch all-star. Some believe she is an AI. Some say she’s a Soulkilled Net Ghost, somehow connected to our world from the Old Net. Whatever the case, Recluse is the one you visit when every other Netrunner fails.
@@ -1748,7 +1775,9 @@ As if the entire scheme wasn’t dark enough, my investigations have revealed Ki
 **Security Code 10:** Kimen-Gumi, Hardened Medium ◊ Utility Code: 6
 After the nuke devastated Japantown, most residents with the means fled north to what would become Kabuki and the Watson Development. A few wealthy families, however, refused to give up their homes. They poured their resources into securing and then rebuilding, creating a gated slice of pre-4CW Japantown in the middle of a combat zone known as Kakoi-chō (the fenced town).
 Over the years, the children of those stubborn individuals migrated to other parts of Night City seeking work, so the majority of Kakoi-chō’s residents are older. In recent times, it has become common for their grandchildren to move back into their family home. Whether they’re doing so to care for their aging grandparents or to mooch off their money is open to debate.
-The Kimen-Gumi are well paid to provide top-notch security for Kakoi-chō, and Old Japantown residents from outside the community find work there as attendants, caregivers, drivers, and cleaners.#14 Lovely Drone Heroes Café
+The Kimen-Gumi are well paid to provide top-notch security for Kakoi-chō, and Old Japantown residents from outside the community find work there as attendants, caregivers, drivers, and cleaners.
+
+#### #14 Lovely Drone Heroes Café
 
 **Security Code 6:** Kimen-Gumi, Hardened Light
 If you’ve got eurobucks to burn, this little bar/café on the border of The Glen is the place to do it. It perfectly combines terrible food, watered down drinks, and codependent relationships all into one geek-wrapped package.
@@ -1761,7 +1790,7 @@ Locals who don’t trust Crisis Medical Center can try their luck at the Miyasak
 
 #### #16 Mrs. Suzuki’s Bodega
 **Security Code 7:** Kimen-Gumi, Hardened Light
-Considering how often bodegas close due to low profits, a place like Mrs. Suzuki’s is an absolute gem. It is the flagship store of a small chain of bodegas run by Mrs.
+Considering how often bodegas close due to low profits, a place like Mrs. Suzuki’s is an absolute gem. It is the flagship store of a small chain of bodegas run
 Suzuki (Exec 6/Fixer 5 ) and her family.
 If you don’t mind a bit of gunfire punctuating your shopping experience, it is a great place to pick up a variety of Japanese foods and ingredients. Mrs. Suzuki (the third of her name) is also the exclusive distribution
 
@@ -1788,7 +1817,7 @@ A rather standard cargo container community. If you are injury-prone, its proxim
 Though Sanroo is a member of the Night City Co-Prosperity Sphere, it is more interested in being a big fish in a small pond than in competing for resources with Kiroshi, Kendachi, and the rest. Thus, instead of building in Kabuki or Watson, the Japanese company set its Pacifica Confederation headquarters in Old Japantown and quite literally took over the district.
 The complex is vast, consisting of offices, a factory, a shipping yard, and warehouses, all decorated in the company’s signature pastels and pinks. The facility sticks out like a day-glow thumb against the subdued, rubble-infused tones of Old Japantown. Some locals consider it an eyesore, while others are just happy to have a place willing to stick by the district.
 A motley crew protects Sanroo’s Complex. Guards provided by the Kimen-Gumi are supplemented by an expert detachment of Danger Gal snipers and agents. In addition, manager Casselle recently forged an alliance with the Snake nomad nation, paying them to transport goods throughout the Pacifica Confederation. As a result, the shipping yard is well guarded by a contingent of mismatched, but well-armed, nomads.
-Today, roughly sixty-five percent of all Sanroo goods sold in Night City are manufactured locally. The rest are imported from Japan, carried across the Pacific by Darangen sea nomads.
+Today, roughly sixty-five percent of all Sanroo goods sold in Night City are manufactured locally. The rest are imported from Japan, carried across the Pacific
 
 #### #21 Segotari Factory
 **Security Code 7:** Kimen-Gumi, Hardened Light
@@ -1824,7 +1853,7 @@ This trading post near the edge of the Hot Zone is a popular gathering spot for 
 
 ### Personalities
 
-BloodGuts (Solo 6): The leader of the Iron Sights, BloodGuts hates the Red Chrome Legion with the passion of a blast furnace. He is both a clever strategist and a formidable combatant thanks to upgrades provided to him by Hornet.
+BloodGuts (Solo 6): The leader of the Iron Sights, BloodGuts hates the Red Chrome Legion with the passion of a blast furnace. He is both a clever strategist and a formidable combatant thanks to upgrades provided to him
 Ippei Midorikawa (Solo 4): Also known locally as Fuurai, the Green Ranger. Ippei is the captain of the Kimen-Gumi in Old Japantown and fanatically loyal to the Tyger Claws. He takes his job seriously, but he’s also aware he’s fighting a losing battle. Without more soldiers and more resources, the fight for Old Japantown is a lost cause. Rumor has it he’s drinking Smash by the pallet to deal with the stress.
 Matsu (Fixer 3): A clever young man with a few rough edges, Matsu works for construction companies, hiring day laborers in Old Japantown and transporting them to sites elsewhere in the city.
 Matt Kushida (Tech 4): A freelance Tech who primarily does work for small bands like the Digital Divas. Matt is a great source for free tickets to local concerts.
@@ -1923,8 +1952,11 @@ who practice fiber crafts (knitting, crochet, and the like). They sell craft sup
 ◊ Panik: A salon to take care of all your hand and footbased beauty needs, from traditional manicures and
 pedicures to fingertip fashionware.
 ◊ SlushSlurp: A favorite with the local teenagers.
-SlushSlurp serves shaved ice sprayed with various colorful flavored chemicals for 5eb a pop. For an extra fee, the staff dusts your frozen treat with synthcoke, blue glass, or boost. Duck. Duck. Dead!
-Security Code 1 1: Bozos, Hardened Heavy If you see a trio of tiny multicolored clown dolls tied together, leave. Don’t run; just casually turn and move away. Otherwise, you may find yourself pulled into a sick and deadly Bozo funhouse of terror. Seriously. Don’t run.
+SlushSlurp serves shaved ice sprayed with various colorful flavored chemicals for 5eb a pop. For an extra fee, the staff dusts your frozen treat with synthcoke, blue glass, or boost. 
+
+#### Duck. Duck. Dead!
+**Security Code 11:** Bozos, Hardened Heavy
+If you see a trio of tiny multicolored clown dolls tied together, leave. Don’t run; just casually turn and move away. Otherwise, you may find yourself pulled into a sick and deadly Bozo funhouse of terror. Seriously. Don’t run.
 Running sets these sick fuckers off. Walk away calmly, and you might be okay. Run, and a few dozen Bozos will pour out of the shadows to drag you away. That’s part of their twisted joke: stifle your fear or your fear stifles you.
 Duck. Duck. Dead! is a flash event death maze created by Prankstarr the Clown (Medtech 6/Tech 4 ), leader of the Sawblade Circus. It takes advantage of the endless abandoned warehouses and buildings in South Night City by converting random locations into a terror maze that victims must escape, one night only, with no schedule, and no warning as to when it may occur, and then it's gone without a trace.
 I interviewed a few rare survivors and have pieced together the basic experience of Duck. Duck. Dead!
@@ -1939,7 +1971,7 @@ The first floor houses a small auditorium, chow hall, and offices where locals c
 Those who make friends with the gang can visit the second floor, where they keep a rec room, operations center, and entertainment facility. The basement and subbasement are members-only and are divided into bunks, gym, gun range, armory, and security office. The gang’s motorcycles are parked in a garage behind the school. The rooftop is home to multiple snipers’ nests and a landing pad for the prototype Brennan Infiniti aerodyne cyberbike ridden by the gang’s leader, Gunslinger (Nomad 6/Solo 6 ).
 
 #### Fortitude South
-Security Code ?: ??, ?? ??
+**Security Code:** unknown (Ziggy unsure)
 Truth be told, I’m not sure on this one, but I’m including it anyway. My investigations suggest that Fortitude South is a U.S. spy post in Night City. From the outside, it appears to be one of the hundreds of abandoned buildings in this district. According to my sources, inside is a different story.
 A state-of-the-art facility geared to spy work, housing a team of at least six military intelligence officers who work with the United States consulate to recover lost technology and gather information on important people, locations, and events in the city. My sources also indicate operatives from the Culper Ring and Danger Gal occasionally visit Fortitude South to pass along information.
 
@@ -1963,14 +1995,14 @@ KidZ is a daycare and educational facility for the kids of working parents and g
 KidZ is staffed by twenty volunteers from all walks of life and offers classes in a variety of subjects, from languages and math to the arts and sciences in the upper levels. The basement is a nursery and preschool, and the whole facility is overseen by Professor Rowan Powers, a professional tutor who trained the kids of Arasaka Execs before the 4th Corporate War. Tuition is charged on a sliding scale, which means KidZ is always scrambling for resources.
 
 #### #8 Lazarus Training Center
-Security Code 1 1: Lazarus, Hardened Heavy ◊ Utility Code: 3 Most of my information on the Lazarus Training Center (LTC) comes from interviews with former Lazarus employees, since this massive complex is hidden behind impossibly thick walls, turrets, well-trained guards, and mines. The LTC is the size of some neighborhoods, almost existing as an independent town in the middle of South Night City.
+**Security Code 11:** Lazarus, Hardened Heavy ◊ Utility Code: 3 Most of my information on the Lazarus Training Center (LTC) comes from interviews with former Lazarus employees, since this massive complex is hidden behind impossibly thick walls, turrets, well-trained guards, and mines. The LTC is the size of some neighborhoods, almost existing as an independent town in the middle of South Night City.
 The number of employees is unknown, but it must be massive. Almost everyone who does labor inside the LTC is employed by Lazarus; the organization isn’t willing to risk leaks by hiring outside contractors for custodial work or catering.
 Armored vehicles, trucks, trailers, AVs, and helicopters move in and out constantly. Lazarus is an elite private military company, and its reputation for providing the best troops for private warfare and security is well founded. From what I’ve heard, not even Militech or Arasaka at their heights of power measure up on a squad-to-squad level.
 The LTC serves as the central training facility for all Lazarus employees in the Pacifica Confederation. New recruits come here to be beaten into shape. Existing employees come here to learn new skills and fortify the basics. Everyone in the LTC is probably armed and deadly under the right circumstances.
 No one knows exactly how much firepower is hidden in the LTC, but Solos I know are convinced there are enough personnel, munitions, and supplies to launch the invasion of a small country. I haven’t heard anything to suggest this isn’t true. Approach at your own risk.
 
 #### #9 MAX-TAC HQ
-Security Code 1 1: MAX-TAC, Hardened Heavy ◊ Utility Code: 3 Love him or hate him, Max Hammerman (Lawman 10) still leads the Maximum Force Tactical Division (MAX-TAC) with a titanium fist decades after founding it. Disgusted with what he saw as weakness in the NCPD in the Time of the Red, Hammerman spun MAX-TAC off into its own, private company in 2029.
+**Security Code 11:** MAX-TAC, Hardened Heavy ◊ Utility Code: 3 Love him or hate him, Max Hammerman (Lawman 10) still leads the Maximum Force Tactical Division (MAX-TAC) with a titanium fist decades after founding it. Disgusted with what he saw as weakness in the NCPD in the Time of the Red, Hammerman spun MAX-TAC off into its own, private company in 2029.
 Since then, MAX-TAC’s crack public relations team has positioned Hammerman as the last honorable Lawman alive and MAX-TAC as the thin chrome line standing between innocent citizens and the cyberpsychos and boostergangers threatening to rip Night City apart.
 The press releases aren’t entirely wrong, either. I’ve personally seen Hammerman beat down an NCPD captain because the doomba tried to cover up for a rich asshole’s crimes by blaming some innocent, but poor, civilians.
 That doesn’t make MAX-TAC a shining beacon of justice, though. To be clear, Hammerman and MAX-TAC absolutely will not take a bribe.
@@ -2011,13 +2043,15 @@ The sheer noise of the place makes it next to impossible to listen in on convers
 The Arena is made of several layers of cinder blocks and is used to settle disputes between gangers from across Night City without resorting to heavy firepower.
 There is no charge for its use, though it must be reserved in advance. Gambling on the outcome of fights is fair game.
 A Fixer named JessiGames (Fixer 4) handles most of the bets.
-The important thing about the Arena is this: it represents trial by combat. This is as close to a duel of honor as gangers have in Night City. Whatever the outcome, the loser agrees to abide by the terms set before the battle begins.#14 South Cargo Village
+The important thing about the Arena is this: it represents trial by combat. This is as close to a duel of honor as gangers have in Night City. Whatever the outcome, the loser agrees to abide by the terms set before the battle begins.
+
+#### #14 South Cargo Village
 
 **Security Code 6:** NCPD, Hardened Medium
 A cargo container just on the wrong side of the border with The Glen, South Cargo Village is close enough to City Hall that NCPD snipers keep an eye on the place, ready to gun down anyone who looks as if they’re about to cause enough trouble to endanger the corpzoners under their protection.
 That and the great view of the shining Glen on the hill remind the streetrats who live there of their perceived insignificance.
 
-#### #15 Volunteer Fire Station
+#### #15 South Night City Volunteer Fire Station
 **Security Code 9:** The Zoners, Hardened Medium
 Two leaders of the Zoners movement, Tearjerker (Lawman 4) and Forty Mike-Mike (Lawman 4), run the South Night City Volunteer Fire Station. Thanks to a small grant from Night Corp and a mountain’s worth of called-in markers, the two have managed to cobble together turnout gear, supplies, and a few mostly functioning fire engines.
 The station is staffed by volunteers drawn from the local community who all agree, whatever beef they have with each other, none of it matters if their homes burn down.
@@ -2118,7 +2152,9 @@ Dock 13 is the storefront and occasional Night Market of a Fixer named William "
 
 #### #3 Dock 14 Studio Apartments
 **Security Code 5:** Thelas Marines, Medium
-Honestly, this would be the best place for a static to live in the Port of Night City … if it wasn’t located right next to Dock 13. Between the speakers on Maze’s shop encouraging customers to " Come on down and find the best deals in Night City!!! " and the pissed off customers loudly threatening to cut off his balls, good luck getting any sleep!#4 Dock Cargo Community
+Honestly, this would be the best place for a static to live in the Port of Night City … if it wasn’t located right next to Dock 13. Between the speakers on Maze’s shop encouraging customers to " Come on down and find the best deals in Night City!!! " and the pissed off customers loudly threatening to cut off his balls, good luck getting any sleep!
+
+#### #4 Dock Cargo Community
 
 **Security Code 5:** Thelas Marines, Medium
 A small cargo container community nestled between Docks 16 and 17. Some residents complain about the noise caused by the dock workers, but I think they’re probably just hearing Maze down at Dock 13.
@@ -2142,7 +2178,9 @@ transport ship, the Sakata now serves as the administration center for all Port 
 **Security Code 8:** Thelas Marines, Heavy
 This is the headquarters for the Thelas Marines who protect the Port and the waters of Night City. It's a square, three-story building sandwiched between thick concrete barriers.
 The ground floor houses maintenance facilities and armory. The upper floors contain bunks for those on call, briefing rooms, sickbay, and the mess. The firing range, brig, and medical station are in the basement.
-The Thelas Maine fleet consists of six Tríaina Patrol Boats. Unless there’s an emergency, only three are on the water at any one time. The others remain docked at headquarters so their crews can rest and the vessels can undergo maintenance. A nearby garage houses a small number of armored groundcars for the Marines to use as they patrol the land. #7 Main Port
+The Thelas Maine fleet consists of six Tríaina Patrol Boats. Unless there’s an emergency, only three are on the water at any one time. The others remain docked at headquarters so their crews can rest and the vessels can undergo maintenance. A nearby garage houses a small number of armored groundcars for the Marines to use as they patrol the land.
+
+#### #7 Main Port
 
 **Security Code 10:** Thelas Marines, Hardened Heavy ◊ Utility Code: 3
 The operating loading quays of the Port of Night City took the Thelas’ amphibious construction teams years to build.
@@ -2176,7 +2214,9 @@ Medical Technologies has carved out a niche for itself as the place for boosterg
 
 #### #10 Mestnyy Bank
 **Security Code 9:** Consortium, Hardened Light
-The Consortium runs this bank, and they don’t make a secret of it. Instead, they promote it as "a way to give back to the community." The bank’s loan terms are reasonable, but I’ve heard rumors that it "loses" records of payment if the Consortium thinks a target’s skills would be useful in a heist or criminal enterprise.#1 1 Naiad’s Embrace
+The Consortium runs this bank, and they don’t make a secret of it. Instead, they promote it as "a way to give back to the community." The bank’s loan terms are reasonable, but I’ve heard rumors that it "loses" records of payment if the Consortium thinks a target’s skills would be useful in a heist or criminal enterprise.
+
+#### #11 Naiad’s Embrace
 
 **Security Code 8:** Consortium, Hardened Light
 Wherever you have a selection of young, single people working hard, you’ll find a place like the Naiad’s Embrace.
@@ -2288,7 +2328,9 @@ The courtyard is especially lively at night, when the residents come home from a
 **Security Code 8:** Los Perros Guardianes, Hardened Light
 Sometimes you need a helping hand that won’t ask questions, and that’s where Earl’s Second Hand Shop comes into play. Earl Mahoney (Fixer 4) is the type of Fixer to stock second-hand goods at first-rate prices, but he’s also the first to offer up a loan at a reasonable rate if someone needs a little scratch before payday.
 The inside of the place is claustrophobic as hell, as it’s so loaded up with goods it feels like they’ll burst free from the walls in a tsunami of junk - from third-hand firearms to Goosetopia toys. If you’re willing to dig, you’ll probably find something to buy.
-Earl’ll accept payment in the form of cash or trade, but he’s also willing to accept services. I don’t know this first hand, mind, but I’m told he also runs a pretty healthy business selling porn BDs in the back.#4 Flashback
+Earl’ll accept payment in the form of cash or trade, but he’s also willing to accept services. I don’t know this first hand, mind, but I’m told he also runs a pretty healthy business selling porn BDs in the back.
+
+#### #4 Flashback
 
 **Security Code 8:** Los Perros Guardianes, Hardened Light
 You can’t say this about most places in the Reclamation Zone, but Flashback’s so good that corporate-types travel here from The Glen for the food … or maybe the atmosphere. The owner, Turbo Overdrive (Nomad 3), is a man powered entirely by 1980s nostalgia.
@@ -2488,7 +2530,9 @@ In case you were wondering, Kirkle is pronounced "circle."
 #### #11 The Laydown
 **Security Code 6:** ERI, Hardened Medium
 The Laydown is a massive cube and cargo container community located in the heart of the Old Combat Zone.
-By current estimates, at least half of ERI’s membership lives here, including Brick Coleman - when he isn’t sleeping in his office.#1 2 The Lodge
+By current estimates, at least half of ERI’s membership lives here, including Brick Coleman - when he isn’t sleeping in his office.
+
+#### #12 The Lodge
 
 **Security Code 6:** ERI, Hardened Medium
 A modest, multi-story building located near The Glen.
