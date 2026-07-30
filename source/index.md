@@ -38,7 +38,7 @@ The full game. Includes the Time of the Red setting, Interlock System rules (sta
 |----|-------|------|--------|
 | Black Chrome | [Black Chrome](PDF/Black Chrome.pdf) | 2022 | published |
 | Danger Gal Dossier | [Danger Gal Dossier](PDF/Danger Gal Dossier.pdf) | 2023 | published |
-| Night City 2045 | [Night City 2045](#night-city-2045) | — | upcoming |
+| Night City 2045 | [Night City 2045](PDF/Night%20City%202045.pdf) | 2026 | published |
 
 ### Black Chrome
 
@@ -54,9 +54,11 @@ The essential tool for Night City factions, NPCs, and more. A monster sourcebook
 
 ### Night City 2045
 
-**Night City 2045** (upcoming / in preview, mid-2026)
+**Night City 2045** (2026)
 
-Sourcebook of Night City set in 2045. Covers each district, points of interest, gangs, corporations, and more. Includes a full street map of the city.
+City sourcebook for Night City in 2045. District gazetteers, factions, flashmaps, security/utility codes, and combat STAT blocks. Includes a full street map of the city.
+
+**Extracted text:** [Chapter index](<Source Text/Night City 2045/Index.md>) - 12 section files. **Enemy catalog TODO:** [Enemies/TODO-Night-City-2045.md](../Enemies/TODO-Night-City-2045.md) (~114 sheets → planned Sheets/09–13).
 
 ---
 
@@ -335,4 +337,4 @@ source/
 
 Each publication folder has an `Index.md` with the book description, PDF link, and linked section files. Source PDFs live in `PDF/`.
 
-**Source text indexes:** [Source Text catalog](<Source Text/Index.md>) — all 15 books extracted.
+**Source text indexes:** [Source Text catalog](<Source Text/Index.md>) — all 16 books extracted.

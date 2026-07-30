@@ -26,6 +26,7 @@ Hardened rules: [Homebrew/GM Rules.md](../Homebrew/GM%20Rules.md#what-is-hardene
 - [Interface RED Other](Sheets/06-Interface-RED-Other.md) - **25** sheets
 - [Black Chrome](Sheets/07-Black-Chrome.md) - **6** sheets
 - [Mixing Drinks](Sheets/08-Mixing-Drinks.md) - **6** sheets
+- Night City 2045 - **pending** ([TODO by district](TODO-Night-City-2045.md); planned Sheets/09–13)
 
 Rebuild: `powershell -File Enemies/_build-catalog.ps1`
 
