@@ -135,7 +135,7 @@ Signature skills at **Level 6** by **January 2040**. Remaining I.P. after Role p
 - Family background: Corpo technicians.
 - Home environment: Safe enough, not fancy, but full of learning and technical know-how.
 - Family crisis: His parents fell behind on bills and are working for creditors to pay the debt.
-- Friends: Darius Stone (Medtech), Marshal (Solo), Weaver (Tech)
+- Friends: Darius Stone (Medtech)
 - Housing at start: In a vehicle, in the Outskirts, 0eb rent.
 - Lifestyle at start: Kibble (100eb/month).
 - Starting reputation tracked on sheet: 0.

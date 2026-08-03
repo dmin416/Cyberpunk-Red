@@ -2,6 +2,8 @@
 
 Improvement Point rules for Story 1. Sources: CP:R *Screamsheets* (p. 408) and *No Place Like Home* DLC.
 
+**STAT advances** are Story 1 homebrew only ([Homebrew.md](Homebrew.md)). Skill and Role costs match Screamsheets.
+
 Track per-character I.P. on character sheets. Track crew **HQ IP** in [HQs.md](HQs.md).
 
 ---
@@ -39,9 +41,11 @@ Awarded **after each session** based on mission outcome and how each player play
 
 ### Spending I.P.
 
-Spend to raise **Skill Level** or **Role Ability Rank**. Cost is based on the **next** level/rank.
+Spend to raise **Skill Level**, **Role Ability Rank**, or (Story 1 homebrew) a **STAT**. Cost is based on the **next** level / rank / STAT value.
 
-**Cannot skip levels/ranks** — spend time at the new level before advancing again.
+**Cannot skip** levels, ranks, or STAT values. Spend time at the new value before advancing again.
+
+Full tables (including STAT): [Homebrew.md](Homebrew.md).
 
 #### Typical Skill Improvement
 
@@ -60,6 +64,12 @@ Spend to raise **Skill Level** or **Role Ability Rank**. Cost is based on the **
 | Rank → | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |--------|---|---|---|---|---|---|---|---|---|---|
 | I.P. | 60 | 120 | 180 | 240 | 300 | 360 | 420 | 480 | 540 | 600 |
+
+#### STAT Improvement (Story 1 homebrew)
+
+| STAT → | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------|---|---|---|---|---|---|---|---|---|---|
+| I.P. | 80 | 160 | 240 | 320 | 400 | 480 | 560 | 640 | 720 | 800 |
 
 **Multiclassing:** After reaching **Rank 4** in your current Role, you may buy **Rank 1** in a new Role (60 I.P.). You cannot multiclass again until the new Role is also Rank 4. You keep and can still advance your old Role Ability.
 

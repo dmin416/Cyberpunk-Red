@@ -1,0 +1,13 @@
+---
+description: Always paste full NPC/enemy stat blocks in chat
+alwaysApply: true
+---
+
+# Full Stat Blocks in Chat
+
+When the user asks for enemy, NPC, or character combat stats (mook, lieutenant, mini-boss, boss, named sheet, etc.):
+
+- Always paste the **full** stat block in chat.
+- Include: tier/rep, HP (Seriously / Death Save), INIT or REF as on the sheet, MOVE, COOL, COM # if present, full STAT line when the sheet has one, armor SP, all weapons with DMG/ROF, full skill bases, chrome, gear, cash.
+- Do not summarize as "same as before" or "unchanged" for combat sheets. Re-print the whole block.
+- Do not open files in the editor to "show" sheets. Read and paste in chat.
