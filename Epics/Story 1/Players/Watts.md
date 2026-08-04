@@ -99,7 +99,7 @@ Signature skills at **Level 6** by **January 2040**. Remaining I.P. after Role p
 **Armor:**  
 **Weapons:**  
 **Cyberware (right arm):** Cyberarm — Standard Hand, **Techscanner** (2 slots, +2 tech Skills), **Tool Hand** (1 slot). Installed by **Cleric**.  
-**Other:** Nomad Leathers outfit (Top, Bottoms, Footwear), Techhair, Chemskin, Light Tattoo x2, Basic Agent account, public bus/rail pass, normal taxi once per month
+**Other:** Nomad Leathers outfit (Top, Bottoms, Footwear), Techhair, Chemskin, Light Tattoo x2, Basic Agent account, public bus/rail pass, normal taxi once per month, **Citizen ID**, **Driver License**, **Pilot License** (passed pilot test; all three from gig)
 
 ## Role Progression
 
