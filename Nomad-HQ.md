@@ -29,6 +29,11 @@
 - Self-Driving Vehicle — Agent drives Skill Base 10; requires Comm Center · **2,000eb** materials paid · **Weaver installed** (knows the TUp; can install on other vehicles) · Marshal paid **1,000eb** to Tech for fabrication
 - Security Upgrade — DNA locks (DV17) · Stun on fail · cloak when still (DV17 Perception) · Watts paid **1,000eb**
 
+### Vehicle 3 — Diego Motors Range Trike (BC) — Roadbike
+
+- Stock: Armored Chassis (SP13) · Heavy Chassis · **3 seats** · SDP 55 · 20 MOVE / 100 MPH · Access 4 · **31,000eb**
+- Incompatible with Seating Upgrade
+
 
 ## HQ — The Chrome Keep
 
