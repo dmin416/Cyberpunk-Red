@@ -337,4 +337,4 @@ source/
 
 Each publication folder has an `Index.md` with the book description, PDF link, and linked section files. Source PDFs live in `PDF/`.
 
-**Source text indexes:** [Source Text catalog](<Source Text/Index.md>) — all 16 books extracted.
+**Source text indexes:** [Source Text catalog](<Source Text/Index.md>) — all 17 books extracted.

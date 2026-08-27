@@ -1,6 +1,6 @@
 # Source Text Index
 
-Extracted and planned text files for each publication. PDFs live in [`PDF/`](../PDF/). **All 16 books have extracted section files** (Core Rulebook: 23 chapters; other books: section files per `Index.md`).
+Extracted and planned text files for each publication. PDFs live in [`PDF/`](../PDF/). **All 17 books have extracted section files** (Core Rulebook: 23 chapters; other books: section files per `Index.md`).
 
 ## Books
 
@@ -21,3 +21,4 @@ Extracted and planned text files for each publication. PDFs live in [`PDF/`](../
 - [Interface RED Vol. 3](<Interface RED Vol 3/Index.md>) — Third Interface RED compilation.
 - [Interface RED Vol. 4](<Interface RED Vol 4/Index.md>) — Fourth Interface RED compilation.
 - [Interface RED Vol. 5](<Interface RED Vol 5/Index.md>) — Fifth Interface RED compilation.
+- [Elflines Online](<Elflines Online/Index.md>) - ELO base rules, Expansion Pack 1, Daeric Sylar's Guide, and Magic Returns.
